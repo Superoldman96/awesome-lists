@@ -231,6 +231,7 @@ dest_ip,dest_port,metadata_comment
 103.12.160.233,8080,PROXY_ALL_hideip_me_List.csv
 103.120.175.243,9191,PROXY_ALL_hideip_me_List.csv
 103.120.202.53,5678,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_monosans_List.csv"
+103.120.45.221,6969,PROXY_ALL_fresh_proxy_list.csv
 103.120.76.34,8080,PROXY_ALL_TheSpeedX_List.csv
 103.120.76.94,2024,PROXY_ALL_TheSpeedX_List.csv
 103.121.195.12,61221,PROXY_ALL_TheSpeedX_List.csv
@@ -258,7 +259,7 @@ dest_ip,dest_port,metadata_comment
 103.126.87.112,3030,PROXY_ALL_TheSpeedX_List.csv
 103.127.106.209,2024,PROXY_ALL_hideip_me_List.csv
 103.127.220.62,2024,PROXY_ALL_hideip_me_List.csv
-103.127.223.126,1080,PROXY_ALL_hideip_me_List.csv
+103.127.223.126,1080,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv"
 103.127.38.46,1080,PROXY_ALL_TheSpeedX_List.csv
 103.129.92.45,8080,PROXY_ALL_hideip_me_List.csv
 103.13.205.41,8080,PROXY_ALL_TheSpeedX_List.csv
@@ -814,7 +815,7 @@ dest_ip,dest_port,metadata_comment
 103.245.159.52,8080,PROXY_ALL_hideip_me_List.csv
 103.245.205.142,35158,PROXY_ALL_monosans_List.csv
 103.245.205.226,6969,PROXY_ALL_TheSpeedX_List.csv
-103.245.205.33,35158,PROXY_ALL_hideip_me_List.csv
+103.245.205.33,35158,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv"
 103.247.13.33,8482,PROXY_ALL_hideip_me_List.csv
 103.247.14.166,9285,PROXY_ALL_hideip_me_List.csv
 103.247.14.37,8199,PROXY_ALL_monosans_List.csv
@@ -854,7 +855,7 @@ dest_ip,dest_port,metadata_comment
 103.48.71.2,83,PROXY_ALL_TheSpeedX_List.csv
 103.48.71.50,83,PROXY_ALL_TheSpeedX_List.csv
 103.48.71.58,83,PROXY_ALL_TheSpeedX_List.csv
-103.49.114.195,8080,PROXY_ALL_TheSpeedX_List.csv
+103.49.114.195,8080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
 103.49.202.252,80,PROXY_ALL_TheSpeedX_List.csv
 103.51.205.92,5678,PROXY_ALL_monosans_List.csv
 103.52.252.18,5678,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_monosans_List.csv"
@@ -1169,7 +1170,7 @@ dest_ip,dest_port,metadata_comment
 108.162.198.81,80,PROXY_ALL_fresh_proxy_list.csv
 108.170.12.11,80,PROXY_ALL_TheSpeedX_List.csv
 108.175.23.225,13135,PROXY_ALL_TheSpeedX_List.csv
-108.181.122.215,443,PROXY_ALL_hookzof_list.csv
+108.181.121.220,443,PROXY_ALL_hookzof_list.csv
 108.181.70.27,3443,PROXY_ALL_hookzof_list.csv
 108.181.71.115,443,PROXY_ALL_hookzof_list.csv
 108.181.71.97,465,PROXY_ALL_hookzof_list.csv
@@ -1179,8 +1180,6 @@ dest_ip,dest_port,metadata_comment
 109.123.254.43,44011,PROXY_ALL_monosans_List.csv
 109.160.97.49,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv"
 109.166.210.170,5678,PROXY_ALL_TheSpeedX_List.csv
-109.195.113.65,8080,PROXY_ALL_fresh_proxy_list.csv
-109.197.152.1,1080,PROXY_ALL_fresh_proxy_list.csv
 109.205.195.213,443,PROXY_ALL_hookzof_list.csv
 109.224.22.35,51372,PROXY_ALL_TheSpeedX_List.csv
 109.224.22.36,51372,PROXY_ALL_TheSpeedX_List.csv
@@ -1282,7 +1281,6 @@ dest_ip,dest_port,metadata_comment
 116.129.250.48,1080,PROXY_ALL_monosans_List.csv
 116.169.61.56,10990,PROXY_ALL_hideip_me_List.csv
 116.201.186.150,3128,PROXY_ALL_TheSpeedX_List.csv
-116.202.229.151,7443,PROXY_ALL_hookzof_list.csv
 116.203.117.22,443,PROXY_ALL_hideip_me_List.csv
 116.203.137.250,443,PROXY_ALL_hookzof_list.csv
 116.203.139.209,5678,PROXY_ALL_TheSpeedX_List.csv
@@ -1375,10 +1373,10 @@ dest_ip,dest_port,metadata_comment
 121.237.165.75,1080,PROXY_ALL_monosans_List.csv
 121.237.165.90,1080,PROXY_ALL_monosans_List.csv
 121.237.165.92,1080,PROXY_ALL_monosans_List.csv
-121.43.109.88,8081,PROXY_ALL_TheSpeedX_List.csv
 121.43.109.88,80,PROXY_ALL_TheSpeedX_List.csv
+121.43.109.88,8081,PROXY_ALL_TheSpeedX_List.csv
 121.43.146.222,9080,PROXY_ALL_TheSpeedX_List.csv
-122.15.255.229,60606,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
+122.15.255.229,60606,PROXY_ALL_TheSpeedX_List.csv
 122.154.129.2,8080,PROXY_ALL_monosans_List.csv
 122.160.30.99,80,PROXY_ALL_TheSpeedX_List.csv
 122.2.116.87,5050,PROXY_ALL_hideip_me_List.csv
@@ -1388,7 +1386,7 @@ dest_ip,dest_port,metadata_comment
 122.52.141.182,8080,PROXY_ALL_TheSpeedX_List.csv
 122.53.59.191,5050,PROXY_ALL_hideip_me_List.csv
 123.202.99.111,8081,PROXY_ALL_hideip_me_List.csv
-123.253.108.69,8999,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
+123.253.108.69,8999,PROXY_ALL_hookzof_list.csv
 123.30.154.171,7777,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
 123.31.29.158,443,PROXY_ALL_hideip_me_List.csv
 123.58.199.232,8168,PROXY_ALL_TheSpeedX_List.csv
@@ -1406,7 +1404,6 @@ dest_ip,dest_port,metadata_comment
 125.141.133.47,5566,PROXY_ALL_TheSpeedX_List.csv
 125.167.191.198,8080,PROXY_ALL_hideip_me_List.csv
 125.209.108.86,3128,PROXY_ALL_hideip_me_List.csv
-125.228.94.199,4145,PROXY_ALL_fresh_proxy_list.csv
 125.229.149.169,65110,PROXY_ALL_TheSpeedX_List.csv
 125.234.88.36,1080,PROXY_ALL_hideip_me_List.csv
 125.234.91.43,1080,PROXY_ALL_TheSpeedX_List.csv
@@ -1437,7 +1434,6 @@ dest_ip,dest_port,metadata_comment
 128.140.113.110,5153,PROXY_ALL_hideip_me_List.csv
 128.140.44.219,443,PROXY_ALL_hookzof_list.csv
 128.140.67.115,443,PROXY_ALL_hookzof_list.csv
-128.140.93.44,443,PROXY_ALL_hookzof_list.csv
 128.199.195.19,8888,PROXY_ALL_hideip_me_List.csv
 128.199.202.122,3128,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_monosans_List.csv"
 128.199.202.122,1080,PROXY_ALL_monosans_List.csv
@@ -1460,8 +1456,8 @@ dest_ip,dest_port,metadata_comment
 13.217.232.199,3128,PROXY_ALL_monosans_List.csv
 13.230.34.30,80,PROXY_ALL_fresh_proxy_list.csv
 13.231.148.84,8888,PROXY_ALL_hideip_me_List.csv
-13.234.24.116,1080,PROXY_ALL_TheSpeedX_List.csv
 13.234.24.116,80,PROXY_ALL_TheSpeedX_List.csv
+13.234.24.116,1080,PROXY_ALL_TheSpeedX_List.csv
 13.234.24.116,3128,PROXY_ALL_hideip_me_List.csv
 13.246.184.110,3128,PROXY_ALL_TheSpeedX_List.csv
 13.246.209.48,1080,PROXY_ALL_TheSpeedX_List.csv
@@ -1474,8 +1470,8 @@ dest_ip,dest_port,metadata_comment
 13.37.59.99,3128,PROXY_ALL_TheSpeedX_List.csv
 13.37.73.214,80,PROXY_ALL_TheSpeedX_List.csv
 13.37.73.214,3128,PROXY_ALL_TheSpeedX_List.csv
-13.37.89.201,80,PROXY_ALL_TheSpeedX_List.csv
 13.37.89.201,3128,PROXY_ALL_TheSpeedX_List.csv
+13.37.89.201,80,PROXY_ALL_TheSpeedX_List.csv
 13.38.153.36,80,PROXY_ALL_TheSpeedX_List.csv
 13.38.176.104,3128,PROXY_ALL_TheSpeedX_List.csv
 13.40.239.13,80,PROXY_ALL_TheSpeedX_List.csv
@@ -1577,7 +1573,7 @@ dest_ip,dest_port,metadata_comment
 139.255.33.242,3128,PROXY_ALL_hideip_me_List.csv
 139.5.155.206,37777,PROXY_ALL_monosans_List.csv
 139.59.1.14,8080,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_monosans_List.csv"
-139.59.1.14,1080,PROXY_ALL_monosans_List.csv
+139.59.1.14,1080,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_monosans_List.csv"
 139.59.1.14,3128,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_monosans_List.csv"
 139.59.1.14,80,PROXY_ALL_fresh_proxy_list.csv
 139.59.133.255,443,PROXY_ALL_hookzof_list.csv
@@ -1589,7 +1585,6 @@ dest_ip,dest_port,metadata_comment
 139.9.116.150,8520,PROXY_ALL_TheSpeedX_List.csv
 14.102.10.100,3443,PROXY_ALL_hookzof_list.csv
 14.102.10.101,3443,PROXY_ALL_hookzof_list.csv
-14.102.10.102,3443,PROXY_ALL_hookzof_list.csv
 14.102.10.104,3443,PROXY_ALL_hookzof_list.csv
 14.102.10.105,85,PROXY_ALL_hookzof_list.csv
 14.102.10.106,85,PROXY_ALL_hookzof_list.csv
@@ -1624,13 +1619,15 @@ dest_ip,dest_port,metadata_comment
 14.102.10.84,3798,PROXY_ALL_hookzof_list.csv
 14.102.10.85,3443,PROXY_ALL_hookzof_list.csv
 14.102.10.86,3443,PROXY_ALL_hookzof_list.csv
+14.102.10.87,3443,PROXY_ALL_hookzof_list.csv
 14.102.10.88,3443,PROXY_ALL_hookzof_list.csv
 14.102.10.89,3443,PROXY_ALL_hookzof_list.csv
 14.102.10.90,3443,PROXY_ALL_hookzof_list.csv
 14.102.10.91,3443,PROXY_ALL_hookzof_list.csv
+14.102.10.92,3443,PROXY_ALL_hookzof_list.csv
 14.102.10.93,3443,PROXY_ALL_hookzof_list.csv
 14.102.10.94,3443,PROXY_ALL_hookzof_list.csv
-14.102.10.96,3443,PROXY_ALL_hookzof_list.csv
+14.102.10.95,3443,PROXY_ALL_hookzof_list.csv
 14.102.10.98,3443,PROXY_ALL_hookzof_list.csv
 14.102.10.99,3443,PROXY_ALL_hookzof_list.csv
 14.143.130.210,80,PROXY_ALL_TheSpeedX_List.csv
@@ -2951,7 +2948,7 @@ dest_ip,dest_port,metadata_comment
 141.193.213.98,80,PROXY_ALL_fresh_proxy_list.csv
 141.193.213.99,80,PROXY_ALL_fresh_proxy_list.csv
 141.94.206.106,21875,PROXY_ALL_monosans_List.csv
-141.94.206.106,1296,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
+141.94.206.106,1296,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 141.94.206.106,49548,PROXY_ALL_monosans_List.csv
 141.94.246.168,443,PROXY_ALL_hideip_me_List.csv
 141.94.70.195,46797,PROXY_ALL_TheSpeedX_List.csv
@@ -2962,6 +2959,7 @@ dest_ip,dest_port,metadata_comment
 142.132.185.118,443,PROXY_ALL_hookzof_list.csv
 142.132.189.136,443,PROXY_ALL_hookzof_list.csv
 142.132.190.166,443,PROXY_ALL_hookzof_list.csv
+142.132.215.123,7443,PROXY_ALL_hookzof_list.csv
 142.132.223.121,443,PROXY_ALL_hookzof_list.csv
 142.132.224.68,443,PROXY_ALL_hookzof_list.csv
 142.132.228.223,443,PROXY_ALL_hookzof_list.csv
@@ -2980,7 +2978,6 @@ dest_ip,dest_port,metadata_comment
 143.107.205.72,443,PROXY_ALL_hideip_me_List.csv
 143.110.170.51,443,PROXY_ALL_hookzof_list.csv
 143.110.190.60,1080,PROXY_ALL_monosans_List.csv
-143.110.216.169,443,PROXY_ALL_hookzof_list.csv
 143.110.217.153,1080,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 143.110.229.181,8888,PROXY_ALL_hideip_me_List.csv
 143.110.232.177,443,PROXY_ALL_hideip_me_List.csv
@@ -2990,7 +2987,7 @@ dest_ip,dest_port,metadata_comment
 143.198.22.162,8888,PROXY_ALL_hideip_me_List.csv
 143.198.226.25,80,PROXY_ALL_TheSpeedX_List.csv
 143.198.240.30,443,PROXY_ALL_hideip_me_List.csv
-143.42.66.91,80,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
+143.42.66.91,80,PROXY_ALL_TheSpeedX_List.csv
 144.126.201.25,8192,PROXY_ALL_TheSpeedX_List.csv
 144.126.216.57,80,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
 144.137.217.187,443,PROXY_ALL_hideip_me_List.csv
@@ -3045,6 +3042,7 @@ dest_ip,dest_port,metadata_comment
 148.135.95.41,443,PROXY_ALL_hookzof_list.csv
 148.233.136.213,443,PROXY_ALL_hideip_me_List.csv
 148.235.150.18,24,PROXY_ALL_TheSpeedX_List.csv
+148.251.132.208,3443,PROXY_ALL_hookzof_list.csv
 148.251.132.221,3443,PROXY_ALL_hookzof_list.csv
 148.66.6.21,80,PROXY_ALL_TheSpeedX_List.csv
 148.66.6.210,80,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv"
@@ -3608,6 +3606,7 @@ dest_ip,dest_port,metadata_comment
 159.65.245.255,80,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
 159.65.245.255,443,PROXY_ALL_hideip_me_List.csv
 159.69.114.128,443,PROXY_ALL_hookzof_list.csv
+159.69.125.92,443,PROXY_ALL_hookzof_list.csv
 159.69.177.160,8888,PROXY_ALL_hideip_me_List.csv
 159.69.19.64,5001,PROXY_ALL_hookzof_list.csv
 159.69.207.252,443,PROXY_ALL_hookzof_list.csv
@@ -3701,7 +3700,6 @@ dest_ip,dest_port,metadata_comment
 162.19.107.54,52529,PROXY_ALL_TheSpeedX_List.csv
 162.19.107.54,45790,PROXY_ALL_monosans_List.csv
 162.19.107.54,33210,PROXY_ALL_monosans_List.csv
-162.19.107.54,53930,PROXY_ALL_hookzof_list.csv
 162.19.229.85,3129,PROXY_ALL_hideip_me_List.csv
 162.19.49.131,80,PROXY_ALL_TheSpeedX_List.csv
 162.19.60.219,54407,PROXY_ALL_TheSpeedX_List.csv
@@ -3783,6 +3781,7 @@ dest_ip,dest_port,metadata_comment
 162.243.95.8,443,PROXY_ALL_hideip_me_List.csv
 162.55.153.173,80,PROXY_ALL_hookzof_list.csv
 162.55.156.240,80,PROXY_ALL_hookzof_list.csv
+162.55.161.90,443,PROXY_ALL_hookzof_list.csv
 162.55.166.212,443,PROXY_ALL_hookzof_list.csv
 163.172.128.222,16379,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_monosans_List.csv"
 163.172.132.115,16379,PROXY_ALL_TheSpeedX_List.csv
@@ -3797,7 +3796,6 @@ dest_ip,dest_port,metadata_comment
 163.172.190.59,16379,PROXY_ALL_TheSpeedX_List.csv
 163.44.196.127,51065,PROXY_ALL_TheSpeedX_List.csv
 163.44.196.127,55219,PROXY_ALL_monosans_List.csv
-163.44.196.127,50955,PROXY_ALL_hookzof_list.csv
 163.47.37.190,1080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv"
 163.47.39.126,8080,PROXY_ALL_TheSpeedX_List.csv
 163.61.55.103,1234,PROXY_ALL_hideip_me_List.csv
@@ -3955,6 +3953,7 @@ dest_ip,dest_port,metadata_comment
 167.235.146.206,443,PROXY_ALL_hookzof_list.csv
 167.235.198.62,443,PROXY_ALL_hideip_me_List.csv
 167.235.232.149,443,PROXY_ALL_hookzof_list.csv
+167.235.245.215,443,PROXY_ALL_hookzof_list.csv
 167.235.60.230,443,PROXY_ALL_hookzof_list.csv
 167.235.73.36,443,PROXY_ALL_hookzof_list.csv
 167.71.166.28,8443,PROXY_ALL_hideip_me_List.csv
@@ -4060,7 +4059,7 @@ dest_ip,dest_port,metadata_comment
 170.238.239.71,60606,PROXY_ALL_hideip_me_List.csv
 170.245.132.82,9000,PROXY_ALL_hideip_me_List.csv
 170.245.132.89,999,PROXY_ALL_hideip_me_List.csv
-170.245.248.45,60606,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
+170.245.248.45,60606,PROXY_ALL_TheSpeedX_List.csv
 170.64.171.194,443,PROXY_ALL_hookzof_list.csv
 170.78.210.123,999,PROXY_ALL_hideip_me_List.csv
 170.78.211.161,1080,PROXY_ALL_TheSpeedX_List.csv
@@ -4097,8 +4096,7 @@ dest_ip,dest_port,metadata_comment
 172.188.122.92,80,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 172.232.121.132,8080,PROXY_ALL_TheSpeedX_List.csv
 172.232.236.34,1080,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
-172.232.53.150,443,PROXY_ALL_hookzof_list.csv
-172.233.14.116,1080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
+172.233.14.116,1080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_monosans_List.csv"
 172.233.155.25,1080,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 172.233.243.85,443,PROXY_ALL_hookzof_list.csv
 172.233.40.170,443,PROXY_ALL_hookzof_list.csv
@@ -5233,7 +5231,6 @@ dest_ip,dest_port,metadata_comment
 172.67.167.5,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.167.50,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.167.51,80,PROXY_ALL_fresh_proxy_list.csv
-172.67.167.52,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.167.53,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.167.54,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.167.55,80,PROXY_ALL_fresh_proxy_list.csv
@@ -5561,7 +5558,6 @@ dest_ip,dest_port,metadata_comment
 172.67.177.108,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.177.11,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.177.110,80,PROXY_ALL_fresh_proxy_list.csv
-172.67.177.111,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.177.123,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.177.124,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.177.125,80,PROXY_ALL_fresh_proxy_list.csv
@@ -6040,7 +6036,6 @@ dest_ip,dest_port,metadata_comment
 172.67.182.105,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.182.107,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.182.109,80,PROXY_ALL_fresh_proxy_list.csv
-172.67.182.11,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.182.111,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.182.112,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.182.113,80,PROXY_ALL_fresh_proxy_list.csv
@@ -6378,7 +6373,6 @@ dest_ip,dest_port,metadata_comment
 172.67.192.3,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.192.30,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.192.31,80,PROXY_ALL_fresh_proxy_list.csv
-172.67.192.32,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.192.33,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.192.34,80,PROXY_ALL_fresh_proxy_list.csv
 172.67.192.35,80,PROXY_ALL_fresh_proxy_list.csv
@@ -8287,10 +8281,10 @@ dest_ip,dest_port,metadata_comment
 179.99.114.7,8080,PROXY_ALL_TheSpeedX_List.csv
 18.133.16.21,3128,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv"
 18.134.236.231,1080,PROXY_ALL_TheSpeedX_List.csv
-18.134.236.231,80,PROXY_ALL_TheSpeedX_List.csv
 18.134.236.231,3128,PROXY_ALL_TheSpeedX_List.csv
-18.135.133.116,1080,PROXY_ALL_TheSpeedX_List.csv
+18.134.236.231,80,PROXY_ALL_TheSpeedX_List.csv
 18.135.133.116,80,PROXY_ALL_TheSpeedX_List.csv
+18.135.133.116,1080,PROXY_ALL_TheSpeedX_List.csv
 18.135.133.116,3128,PROXY_ALL_hideip_me_List.csv
 18.135.211.182,1080,PROXY_ALL_TheSpeedX_List.csv
 18.135.211.182,3128,PROXY_ALL_hideip_me_List.csv
@@ -8322,6 +8316,7 @@ dest_ip,dest_port,metadata_comment
 180.89.56.240,3128,PROXY_ALL_hideip_me_List.csv
 180.92.212.178,5678,PROXY_ALL_TheSpeedX_List.csv
 180.92.231.126,6969,PROXY_ALL_hideip_me_List.csv
+180.94.28.114,6969,PROXY_ALL_fresh_proxy_list.csv
 181.111.164.210,999,PROXY_ALL_hideip_me_List.csv
 181.115.207.115,1080,PROXY_ALL_TheSpeedX_List.csv
 181.115.65.194,999,PROXY_ALL_TheSpeedX_List.csv
@@ -8378,7 +8373,7 @@ dest_ip,dest_port,metadata_comment
 182.253.204.117,8080,PROXY_ALL_TheSpeedX_List.csv
 182.253.40.49,8080,PROXY_ALL_hideip_me_List.csv
 182.253.69.95,8080,PROXY_ALL_hideip_me_List.csv
-182.48.93.129,8080,PROXY_ALL_monosans_List.csv
+182.48.93.129,8080,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_monosans_List.csv"
 182.53.143.200,8180,PROXY_ALL_TheSpeedX_List.csv
 182.53.216.73,4145,PROXY_ALL_TheSpeedX_List.csv
 182.53.96.56,4145,PROXY_ALL_monosans_List.csv
@@ -8386,8 +8381,8 @@ dest_ip,dest_port,metadata_comment
 182.72.203.255,443,PROXY_ALL_hideip_me_List.csv
 182.93.69.74,5678,PROXY_ALL_TheSpeedX_List.csv
 183.215.23.242,9091,PROXY_ALL_fresh_proxy_list.csv
-183.240.46.42,80,PROXY_ALL_TheSpeedX_List.csv
 183.240.46.42,443,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_monosans_List.csv"
+183.240.46.42,80,PROXY_ALL_TheSpeedX_List.csv
 183.80.130.10,4145,PROXY_ALL_TheSpeedX_List.csv
 183.88.212.167,4153,PROXY_ALL_TheSpeedX_List.csv
 183.88.214.44,8080,PROXY_ALL_hideip_me_List.csv
@@ -9577,7 +9572,6 @@ dest_ip,dest_port,metadata_comment
 185.204.171.178,443,PROXY_ALL_hookzof_list.csv
 185.213.164.46,443,PROXY_ALL_hookzof_list.csv
 185.215.53.201,3629,PROXY_ALL_TheSpeedX_List.csv
-185.216.18.138,44550,PROXY_ALL_fresh_proxy_list.csv
 185.221.160.0,80,PROXY_ALL_fresh_proxy_list.csv
 185.221.160.123,80,PROXY_ALL_fresh_proxy_list.csv
 185.221.160.17,80,PROXY_ALL_fresh_proxy_list.csv
@@ -9888,7 +9882,7 @@ dest_ip,dest_port,metadata_comment
 186.148.195.168,999,PROXY_ALL_TheSpeedX_List.csv
 186.148.31.19,999,PROXY_ALL_TheSpeedX_List.csv
 186.166.142.82,999,PROXY_ALL_TheSpeedX_List.csv
-186.167.80.235,8090,PROXY_ALL_hideip_me_List.csv
+186.167.80.235,8090,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv"
 186.190.225.152,999,PROXY_ALL_TheSpeedX_List.csv
 186.192.78.7,8080,PROXY_ALL_TheSpeedX_List.csv
 186.207.148.71,8787,PROXY_ALL_monosans_List.csv
@@ -9921,7 +9915,7 @@ dest_ip,dest_port,metadata_comment
 187.86.159.54,3128,PROXY_ALL_TheSpeedX_List.csv
 187.94.16.59,39665,PROXY_ALL_TheSpeedX_List.csv
 187.94.84.130,4153,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
-188.113.168.37,3629,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
+188.113.168.37,3629,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 188.114.96.0,80,PROXY_ALL_fresh_proxy_list.csv
 188.114.96.1,80,PROXY_ALL_fresh_proxy_list.csv
 188.114.96.10,80,PROXY_ALL_fresh_proxy_list.csv
@@ -10311,14 +10305,12 @@ dest_ip,dest_port,metadata_comment
 188.227.140.181,8080,PROXY_ALL_hideip_me_List.csv
 188.235.5.145,1080,PROXY_ALL_TheSpeedX_List.csv
 188.235.61.70,4153,PROXY_ALL_TheSpeedX_List.csv
-188.245.182.139,443,PROXY_ALL_hookzof_list.csv
 188.245.185.174,443,PROXY_ALL_hookzof_list.csv
-188.245.194.192,443,PROXY_ALL_hookzof_list.csv
 188.245.197.88,9120,PROXY_ALL_hookzof_list.csv
-188.245.47.153,2443,PROXY_ALL_hookzof_list.csv
+188.245.216.96,443,PROXY_ALL_hookzof_list.csv
+188.245.47.155,2443,PROXY_ALL_hookzof_list.csv
 188.245.53.109,343,PROXY_ALL_hookzof_list.csv
 188.245.53.139,443,PROXY_ALL_hookzof_list.csv
-188.245.99.206,443,PROXY_ALL_hookzof_list.csv
 188.253.112.218,80,PROXY_ALL_TheSpeedX_List.csv
 188.34.152.112,443,PROXY_ALL_hookzof_list.csv
 188.34.159.181,443,PROXY_ALL_hookzof_list.csv
@@ -10333,7 +10325,7 @@ dest_ip,dest_port,metadata_comment
 189.202.188.149,80,PROXY_ALL_fresh_proxy_list.csv
 189.22.234.47,80,PROXY_ALL_TheSpeedX_List.csv
 189.222.67.12,8080,PROXY_ALL_hideip_me_List.csv
-190.104.26.227,33638,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
+190.104.26.227,33638,PROXY_ALL_TheSpeedX_List.csv
 190.104.8.142,14888,PROXY_ALL_hideip_me_List.csv
 190.108.95.104,999,PROXY_ALL_hideip_me_List.csv
 190.109.66.42,8080,PROXY_ALL_hideip_me_List.csv
@@ -10362,7 +10354,6 @@ dest_ip,dest_port,metadata_comment
 190.246.55.235,5678,PROXY_ALL_TheSpeedX_List.csv
 190.4.205.226,4153,PROXY_ALL_TheSpeedX_List.csv
 190.5.234.34,5678,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
-190.52.100.0,999,PROXY_ALL_fresh_proxy_list.csv
 190.52.100.107,999,PROXY_ALL_hideip_me_List.csv
 190.52.100.195,999,PROXY_ALL_hideip_me_List.csv
 190.52.100.211,999,PROXY_ALL_TheSpeedX_List.csv
@@ -10474,7 +10465,7 @@ dest_ip,dest_port,metadata_comment
 192.252.209.155,14455,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 192.252.209.158,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 192.252.210.233,4145,PROXY_ALL_hideip_me_List.csv
-192.252.214.20,15864,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
+192.252.214.20,15864,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 192.252.215.2,4145,PROXY_ALL_hideip_me_List.csv
 192.252.215.5,16137,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 192.252.220.89,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
@@ -10557,12 +10548,12 @@ dest_ip,dest_port,metadata_comment
 194.152.44.250,80,PROXY_ALL_fresh_proxy_list.csv
 194.153.147.216,1080,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 194.158.203.14,80,PROXY_ALL_fresh_proxy_list.csv
-194.183.189.253,49847,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
+194.183.189.253,49847,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_monosans_List.csv"
 194.190.169.197,3701,PROXY_ALL_monosans_List.csv
 194.195.122.51,1080,PROXY_ALL_monosans_List.csv
 194.219.134.234,80,PROXY_ALL_fresh_proxy_list.csv
 194.36.55.120,80,PROXY_ALL_fresh_proxy_list.csv
-194.4.57.200,3128,PROXY_ALL_monosans_List.csv
+194.4.57.200,3128,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_monosans_List.csv"
 194.44.208.62,80,PROXY_ALL_monosans_List.csv
 194.67.91.153,443,PROXY_ALL_hideip_me_List.csv
 194.87.31.73,443,PROXY_ALL_hookzof_list.csv
@@ -10601,6 +10592,7 @@ dest_ip,dest_port,metadata_comment
 197.157.254.34,4145,PROXY_ALL_TheSpeedX_List.csv
 197.164.101.13,1976,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 197.164.101.14,1981,PROXY_ALL_hideip_me_List.csv
+197.164.101.14,1976,PROXY_ALL_fresh_proxy_list.csv
 197.164.101.21,1981,PROXY_ALL_monosans_List.csv
 197.232.47.122,5678,PROXY_ALL_TheSpeedX_List.csv
 197.243.20.178,443,PROXY_ALL_hideip_me_List.csv
@@ -10619,7 +10611,7 @@ dest_ip,dest_port,metadata_comment
 198.105.122.241,6814,PROXY_ALL_TheSpeedX_List.csv
 198.105.122.70,6643,PROXY_ALL_TheSpeedX_List.csv
 198.12.249.249,48086,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
-198.12.249.249,62529,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
+198.12.249.249,62529,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 198.12.249.249,58711,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 198.12.249.249,7971,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 198.12.249.249,10705,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
@@ -10639,10 +10631,10 @@ dest_ip,dest_port,metadata_comment
 198.49.68.80,80,PROXY_ALL_TheSpeedX_List.csv
 198.74.51.79,8888,PROXY_ALL_TheSpeedX_List.csv
 198.8.84.3,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
-198.8.94.170,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
-199.102.104.70,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
-199.102.105.242,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
-199.102.106.94,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
+198.8.94.170,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
+199.102.104.70,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hookzof_list.csv"
+199.102.105.242,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hookzof_list.csv"
+199.102.106.94,4145,PROXY_ALL_hookzof_list.csv
 199.102.107.145,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 199.116.112.6,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 199.116.114.11,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
@@ -10667,12 +10659,12 @@ dest_ip,dest_port,metadata_comment
 200.10.30.180,999,PROXY_ALL_hideip_me_List.csv
 200.10.30.77,8083,PROXY_ALL_TheSpeedX_List.csv
 200.106.63.218,999,PROXY_ALL_hideip_me_List.csv
+200.108.190.110,9800,PROXY_ALL_fresh_proxy_list.csv
 200.115.120.200,8080,PROXY_ALL_hideip_me_List.csv
 200.116.198.180,56940,PROXY_ALL_monosans_List.csv
 200.122.92.211,5678,PROXY_ALL_TheSpeedX_List.csv
 200.123.109.166,4153,PROXY_ALL_monosans_List.csv
 200.125.170.11,999,PROXY_ALL_hideip_me_List.csv
-200.125.170.222,999,PROXY_ALL_fresh_proxy_list.csv
 200.131.32.85,3128,PROXY_ALL_TheSpeedX_List.csv
 200.148.135.130,4153,PROXY_ALL_TheSpeedX_List.csv
 200.159.146.184,4153,PROXY_ALL_TheSpeedX_List.csv
@@ -10737,10 +10729,10 @@ dest_ip,dest_port,metadata_comment
 202.162.213.180,8080,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 202.165.92.206,8080,PROXY_ALL_hideip_me_List.csv
 202.176.1.77,5555,PROXY_ALL_hideip_me_List.csv
-202.178.120.30,1080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_monosans_List.csv"
+202.178.120.30,1080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 202.179.73.218,51951,PROXY_ALL_TheSpeedX_List.csv
 202.179.88.233,51951,PROXY_ALL_hideip_me_List.csv
-202.181.16.45,52929,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
+202.181.16.45,52929,"PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 202.182.55.42,8080,PROXY_ALL_hideip_me_List.csv
 202.21.113.86,4153,PROXY_ALL_monosans_List.csv
 202.21.116.210,4153,PROXY_ALL_TheSpeedX_List.csv
@@ -10794,11 +10786,11 @@ dest_ip,dest_port,metadata_comment
 203.57.51.53,443,PROXY_ALL_hideip_me_List.csv
 203.74.125.18,8888,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_monosans_List.csv"
 203.76.120.118,8080,PROXY_ALL_TheSpeedX_List.csv
+203.76.151.50,49200,PROXY_ALL_fresh_proxy_list.csv
 203.77.215.45,10000,PROXY_ALL_TheSpeedX_List.csv
 203.81.67.22,8080,PROXY_ALL_monosans_List.csv
 203.95.196.19,8080,PROXY_ALL_hideip_me_List.csv
 203.95.197.15,8080,PROXY_ALL_hideip_me_List.csv
-203.95.198.35,8080,PROXY_ALL_fresh_proxy_list.csv
 203.99.240.179,80,PROXY_ALL_fresh_proxy_list.csv
 203.99.240.182,80,PROXY_ALL_fresh_proxy_list.csv
 204.12.192.218,443,PROXY_ALL_hookzof_list.csv
@@ -10939,7 +10931,6 @@ dest_ip,dest_port,metadata_comment
 208.102.51.6,58208,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 208.180.122.158,80,PROXY_ALL_TheSpeedX_List.csv
 208.43.38.57,3128,PROXY_ALL_hideip_me_List.csv
-208.65.90.21,4145,PROXY_ALL_hookzof_list.csv
 208.65.90.3,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
 208.87.243.199,7878,PROXY_ALL_hideip_me_List.csv
 208.98.45.110,20005,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
@@ -10952,7 +10943,6 @@ dest_ip,dest_port,metadata_comment
 209.141.45.119,56666,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
 209.141.53.160,9061,PROXY_ALL_TheSpeedX_List.csv
 209.38.148.139,8888,PROXY_ALL_hideip_me_List.csv
-209.38.226.212,443,PROXY_ALL_hookzof_list.csv
 209.45.108.230,1011,PROXY_ALL_TheSpeedX_List.csv
 209.45.57.28,5678,PROXY_ALL_TheSpeedX_List.csv
 209.46.30.10,80,PROXY_ALL_fresh_proxy_list.csv
@@ -10981,20 +10971,19 @@ dest_ip,dest_port,metadata_comment
 212.174.44.2,8080,PROXY_ALL_TheSpeedX_List.csv
 212.183.88.153,80,PROXY_ALL_fresh_proxy_list.csv
 212.192.13.52,443,PROXY_ALL_hookzof_list.csv
-212.237.125.216,6969,PROXY_ALL_hideip_me_List.csv
+212.237.125.216,6969,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv"
 212.33.198.29,443,PROXY_ALL_hookzof_list.csv
 212.34.148.183,443,PROXY_ALL_hookzof_list.csv
 212.34.152.172,8081,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_monosans_List.csv"
 212.42.99.22,4145,PROXY_ALL_monosans_List.csv
 212.47.229.46,16379,PROXY_ALL_monosans_List.csv
 212.47.232.249,16379,PROXY_ALL_monosans_List.csv
-212.47.235.205,16379,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hookzof_list.csv"
-212.47.240.97,16379,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
+212.47.235.205,16379,PROXY_ALL_TheSpeedX_List.csv
+212.47.240.97,16379,PROXY_ALL_hookzof_list.csv
 212.47.243.66,16379,PROXY_ALL_monosans_List.csv
-212.47.244.254,16379,"PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
-212.47.248.107,16379,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
+212.47.244.254,16379,PROXY_ALL_monosans_List.csv
+212.47.248.107,16379,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 212.47.249.56,16379,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
-212.47.250.252,16379,PROXY_ALL_fresh_proxy_list.csv
 212.47.251.132,16379,PROXY_ALL_monosans_List.csv
 212.47.253.24,16379,PROXY_ALL_monosans_List.csv
 212.47.253.249,16379,PROXY_ALL_TheSpeedX_List.csv
@@ -11024,15 +11013,14 @@ dest_ip,dest_port,metadata_comment
 213.157.6.50,80,PROXY_ALL_fresh_proxy_list.csv
 213.21.245.109,443,PROXY_ALL_hookzof_list.csv
 213.230.111.116,9876,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
-213.239.221.24,8888,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
-213.248.39.166,4153,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_monosans_List.csv"
+213.239.221.24,8888,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
+213.248.39.166,4153,PROXY_ALL_monosans_List.csv
 213.25.70.1,3629,PROXY_ALL_TheSpeedX_List.csv
 213.250.198.146,7777,PROXY_ALL_TheSpeedX_List.csv
 213.35.99.65,443,PROXY_ALL_hookzof_list.csv
 213.6.68.210,4145,PROXY_ALL_TheSpeedX_List.csv
 213.7.196.26,4153,PROXY_ALL_TheSpeedX_List.csv
 213.74.223.76,4153,PROXY_ALL_TheSpeedX_List.csv
-213.97.139.20,3128,PROXY_ALL_fresh_proxy_list.csv
 216.122.181.210,999,PROXY_ALL_monosans_List.csv
 216.128.177.20,8888,PROXY_ALL_hideip_me_List.csv
 216.128.177.59,8888,PROXY_ALL_hideip_me_List.csv
@@ -11072,16 +11060,16 @@ dest_ip,dest_port,metadata_comment
 218.13.39.150,9091,PROXY_ALL_TheSpeedX_List.csv
 218.255.90.106,8002,PROXY_ALL_TheSpeedX_List.csv
 218.77.183.214,5224,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
-218.98.160.110,12798,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
+218.98.160.110,12798,PROXY_ALL_monosans_List.csv
 219.135.229.197,7890,PROXY_ALL_monosans_List.csv
 219.65.73.81,80,PROXY_ALL_TheSpeedX_List.csv
 220.121.143.98,3128,PROXY_ALL_TheSpeedX_List.csv
 220.169.194.49,12666,PROXY_ALL_monosans_List.csv
 220.233.184.21,80,PROXY_ALL_hideip_me_List.csv
 221.144.252.148,5678,PROXY_ALL_TheSpeedX_List.csv
-221.158.136.130,41012,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
+221.158.136.130,41012,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 221.158.136.130,41010,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
-221.158.136.160,41010,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
+221.158.136.160,41010,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 221.158.136.160,41012,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 221.202.27.194,10806,PROXY_ALL_hideip_me_List.csv
 221.228.154.184,8089,PROXY_ALL_TheSpeedX_List.csv
@@ -11988,7 +11976,7 @@ dest_ip,dest_port,metadata_comment
 24.112.3.220,8080,PROXY_ALL_hideip_me_List.csv
 24.144.94.90,8080,PROXY_ALL_TheSpeedX_List.csv
 24.249.199.12,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
-24.249.199.4,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
+24.249.199.4,4145,PROXY_ALL_hookzof_list.csv
 24.76.16.12,5678,PROXY_ALL_monosans_List.csv
 27.109.125.195,443,PROXY_ALL_monosans_List.csv
 27.109.215.216,80,PROXY_ALL_fresh_proxy_list.csv
@@ -12047,25 +12035,25 @@ dest_ip,dest_port,metadata_comment
 27.79.239.226,16000,PROXY_ALL_TheSpeedX_List.csv
 27.79.245.82,16000,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 27.79.248.34,16000,PROXY_ALL_TheSpeedX_List.csv
-3.10.93.50,1080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv"
-3.10.93.50,80,PROXY_ALL_TheSpeedX_List.csv
 3.10.93.50,3128,PROXY_ALL_TheSpeedX_List.csv
+3.10.93.50,80,PROXY_ALL_TheSpeedX_List.csv
+3.10.93.50,1080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv"
 3.108.115.48,3128,PROXY_ALL_TheSpeedX_List.csv
-3.12.144.146,80,PROXY_ALL_TheSpeedX_List.csv
 3.12.144.146,3128,PROXY_ALL_TheSpeedX_List.csv
+3.12.144.146,80,PROXY_ALL_TheSpeedX_List.csv
 3.122.84.99,3128,PROXY_ALL_TheSpeedX_List.csv
 3.122.84.99,80,PROXY_ALL_TheSpeedX_List.csv
 3.123.150.192,80,PROXY_ALL_TheSpeedX_List.csv
-3.124.133.93,80,PROXY_ALL_TheSpeedX_List.csv
 3.124.133.93,3128,PROXY_ALL_TheSpeedX_List.csv
-3.126.147.182,80,PROXY_ALL_TheSpeedX_List.csv
+3.124.133.93,80,PROXY_ALL_TheSpeedX_List.csv
 3.126.147.182,3128,PROXY_ALL_TheSpeedX_List.csv
-3.127.121.101,3128,PROXY_ALL_TheSpeedX_List.csv
+3.126.147.182,80,PROXY_ALL_TheSpeedX_List.csv
 3.127.121.101,80,PROXY_ALL_TheSpeedX_List.csv
+3.127.121.101,3128,PROXY_ALL_TheSpeedX_List.csv
 3.127.62.252,80,PROXY_ALL_TheSpeedX_List.csv
 3.129.184.210,80,PROXY_ALL_TheSpeedX_List.csv
-3.130.65.162,80,PROXY_ALL_TheSpeedX_List.csv
 3.130.65.162,3128,PROXY_ALL_TheSpeedX_List.csv
+3.130.65.162,80,PROXY_ALL_TheSpeedX_List.csv
 3.136.29.104,3128,PROXY_ALL_TheSpeedX_List.csv
 3.136.29.104,80,PROXY_ALL_TheSpeedX_List.csv
 3.139.242.184,80,PROXY_ALL_TheSpeedX_List.csv
@@ -12075,17 +12063,17 @@ dest_ip,dest_port,metadata_comment
 3.145.163.150,443,PROXY_ALL_hookzof_list.csv
 3.145.66.136,443,PROXY_ALL_hookzof_list.csv
 3.148.102.200,443,PROXY_ALL_hookzof_list.csv
-3.21.101.158,80,PROXY_ALL_TheSpeedX_List.csv
 3.21.101.158,3128,PROXY_ALL_TheSpeedX_List.csv
-3.212.148.199,80,PROXY_ALL_TheSpeedX_List.csv
+3.21.101.158,80,PROXY_ALL_TheSpeedX_List.csv
 3.212.148.199,3128,PROXY_ALL_TheSpeedX_List.csv
+3.212.148.199,80,PROXY_ALL_TheSpeedX_List.csv
 3.37.125.76,3128,PROXY_ALL_TheSpeedX_List.csv
 3.71.239.218,80,PROXY_ALL_TheSpeedX_List.csv
 3.71.239.218,3128,PROXY_ALL_TheSpeedX_List.csv
-3.78.92.159,80,PROXY_ALL_TheSpeedX_List.csv
 3.78.92.159,3128,PROXY_ALL_TheSpeedX_List.csv
-3.9.71.167,1080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv"
+3.78.92.159,80,PROXY_ALL_TheSpeedX_List.csv
 3.9.71.167,3128,PROXY_ALL_TheSpeedX_List.csv
+3.9.71.167,1080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv"
 3.90.100.12,80,PROXY_ALL_TheSpeedX_List.csv
 3.90.50.209,8080,PROXY_ALL_monosans_List.csv
 3.96.19.90,3128,PROXY_ALL_monosans_List.csv
@@ -12111,7 +12099,6 @@ dest_ip,dest_port,metadata_comment
 31.31.0.74,3128,PROXY_ALL_hideip_me_List.csv
 31.40.248.2,8080,PROXY_ALL_TheSpeedX_List.csv
 31.41.90.142,1080,PROXY_ALL_TheSpeedX_List.csv
-31.42.185.134,1080,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 31.43.179.0,80,PROXY_ALL_fresh_proxy_list.csv
 31.43.179.1,80,PROXY_ALL_fresh_proxy_list.csv
 31.43.179.10,80,PROXY_ALL_fresh_proxy_list.csv
@@ -12409,8 +12396,8 @@ dest_ip,dest_port,metadata_comment
 35.169.70.14,80,PROXY_ALL_TheSpeedX_List.csv
 35.176.148.8,3128,PROXY_ALL_TheSpeedX_List.csv
 35.178.104.4,1080,PROXY_ALL_TheSpeedX_List.csv
-35.178.104.4,80,PROXY_ALL_TheSpeedX_List.csv
 35.178.104.4,3128,PROXY_ALL_TheSpeedX_List.csv
+35.178.104.4,80,PROXY_ALL_TheSpeedX_List.csv
 35.178.50.207,8181,PROXY_ALL_TheSpeedX_List.csv
 35.72.118.126,80,PROXY_ALL_TheSpeedX_List.csv
 35.73.28.87,3128,PROXY_ALL_monosans_List.csv
@@ -12418,7 +12405,6 @@ dest_ip,dest_port,metadata_comment
 35.79.120.242,3128,PROXY_ALL_TheSpeedX_List.csv
 35.94.227.13,1990,PROXY_ALL_hideip_me_List.csv
 36.134.112.249,8081,PROXY_ALL_monosans_List.csv
-36.134.113.190,8081,PROXY_ALL_hookzof_list.csv
 36.134.119.173,8081,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 36.25.150.106,8085,PROXY_ALL_TheSpeedX_List.csv
 36.37.224.125,8080,PROXY_ALL_TheSpeedX_List.csv
@@ -12527,7 +12513,7 @@ dest_ip,dest_port,metadata_comment
 38.45.44.109,999,PROXY_ALL_hideip_me_List.csv
 38.46.233.26,8080,PROXY_ALL_monosans_List.csv
 38.49.149.138,999,PROXY_ALL_TheSpeedX_List.csv
-38.51.233.146,60606,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
+38.51.233.146,60606,PROXY_ALL_TheSpeedX_List.csv
 38.52.135.215,3128,PROXY_ALL_monosans_List.csv
 38.52.135.65,8080,PROXY_ALL_hideip_me_List.csv
 38.52.157.87,999,PROXY_ALL_TheSpeedX_List.csv
@@ -12548,8 +12534,8 @@ dest_ip,dest_port,metadata_comment
 38.9.48.163,8090,PROXY_ALL_TheSpeedX_List.csv
 38.91.107.220,34616,PROXY_ALL_TheSpeedX_List.csv
 38.91.107.224,34844,PROXY_ALL_TheSpeedX_List.csv
-39.101.65.228,3129,PROXY_ALL_TheSpeedX_List.csv
 39.101.65.228,8080,PROXY_ALL_TheSpeedX_List.csv
+39.101.65.228,3129,PROXY_ALL_TheSpeedX_List.csv
 39.104.27.89,8001,PROXY_ALL_TheSpeedX_List.csv
 39.104.27.89,8004,PROXY_ALL_TheSpeedX_List.csv
 39.175.77.7,30001,PROXY_ALL_TheSpeedX_List.csv
@@ -12598,7 +12584,7 @@ dest_ip,dest_port,metadata_comment
 42.114.226.95,10004,PROXY_ALL_hideip_me_List.csv
 42.114.226.95,10006,PROXY_ALL_hideip_me_List.csv
 42.115.229.16,10001,PROXY_ALL_TheSpeedX_List.csv
-43.129.201.43,443,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
+43.129.201.43,443,PROXY_ALL_TheSpeedX_List.csv
 43.130.0.130,13001,PROXY_ALL_monosans_List.csv
 43.130.0.206,13001,PROXY_ALL_hideip_me_List.csv
 43.130.109.92,13001,PROXY_ALL_monosans_List.csv
@@ -12638,6 +12624,7 @@ dest_ip,dest_port,metadata_comment
 43.130.61.237,13001,PROXY_ALL_monosans_List.csv
 43.130.9.164,13001,PROXY_ALL_hideip_me_List.csv
 43.130.9.70,13001,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
+43.133.13.187,10809,PROXY_ALL_fresh_proxy_list.csv
 43.133.187.161,3808,PROXY_ALL_hideip_me_List.csv
 43.135.129.111,13001,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 43.135.129.239,13001,PROXY_ALL_hideip_me_List.csv
@@ -12777,13 +12764,14 @@ dest_ip,dest_port,metadata_comment
 43.153.98.125,13001,PROXY_ALL_monosans_List.csv
 43.153.98.70,13001,PROXY_ALL_hideip_me_List.csv
 43.153.98.99,13001,PROXY_ALL_hideip_me_List.csv
-43.154.134.238,50001,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
+43.154.134.238,50001,"PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 43.155.196.88,9090,PROXY_ALL_hideip_me_List.csv
 43.155.74.97,443,PROXY_ALL_hookzof_list.csv
+43.156.145.109,1080,PROXY_ALL_fresh_proxy_list.csv
 43.156.166.147,443,PROXY_ALL_hideip_me_List.csv
 43.156.38.109,888,PROXY_ALL_monosans_List.csv
 43.156.59.228,80,PROXY_ALL_TheSpeedX_List.csv
-43.157.34.94,1777,PROXY_ALL_monosans_List.csv
+43.157.34.94,1777,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_monosans_List.csv"
 43.159.128.93,13001,PROXY_ALL_hideip_me_List.csv
 43.159.132.171,13001,PROXY_ALL_hideip_me_List.csv
 43.159.132.190,13001,PROXY_ALL_monosans_List.csv
@@ -12813,6 +12801,7 @@ dest_ip,dest_port,metadata_comment
 43.252.106.114,1080,PROXY_ALL_hideip_me_List.csv
 43.252.107.119,1111,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 43.252.11.197,7878,PROXY_ALL_TheSpeedX_List.csv
+43.252.236.114,1080,PROXY_ALL_fresh_proxy_list.csv
 44.195.247.145,80,PROXY_ALL_TheSpeedX_List.csv
 44.201.84.57,8080,PROXY_ALL_monosans_List.csv
 44.211.70.205,8080,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
@@ -13345,6 +13334,7 @@ dest_ip,dest_port,metadata_comment
 45.123.142.101,8181,PROXY_ALL_monosans_List.csv
 45.123.143.6,8080,PROXY_ALL_hideip_me_List.csv
 45.124.170.5,8080,PROXY_ALL_TheSpeedX_List.csv
+45.125.222.125,47239,PROXY_ALL_fresh_proxy_list.csv
 45.126.169.233,4145,PROXY_ALL_TheSpeedX_List.csv
 45.127.56.194,83,PROXY_ALL_TheSpeedX_List.csv
 45.128.133.145,1080,PROXY_ALL_monosans_List.csv
@@ -14480,7 +14470,7 @@ dest_ip,dest_port,metadata_comment
 45.14.36.11,27500,PROXY_ALL_hideip_me_List.csv
 45.14.37.33,27500,PROXY_ALL_monosans_List.csv
 45.140.143.77,18080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
-45.140.147.86,42792,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
+45.140.147.86,42792,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 45.142.193.10,6644,PROXY_ALL_hideip_me_List.csv
 45.142.193.10,5920,PROXY_ALL_hideip_me_List.csv
 45.142.193.14,5716,PROXY_ALL_hideip_me_List.csv
@@ -14580,7 +14570,7 @@ dest_ip,dest_port,metadata_comment
 45.228.235.10,999,PROXY_ALL_TheSpeedX_List.csv
 45.233.170.61,999,PROXY_ALL_hideip_me_List.csv
 45.233.64.80,8080,PROXY_ALL_TheSpeedX_List.csv
-45.234.100.112,1080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
+45.234.100.112,1080,PROXY_ALL_TheSpeedX_List.csv
 45.236.170.178,999,PROXY_ALL_hideip_me_List.csv
 45.238.112.229,56789,PROXY_ALL_TheSpeedX_List.csv
 45.241.94.240,8080,PROXY_ALL_hideip_me_List.csv
@@ -14710,7 +14700,6 @@ dest_ip,dest_port,metadata_comment
 45.87.43.211,443,PROXY_ALL_hookzof_list.csv
 45.87.68.17,15321,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_monosans_List.csv"
 45.87.68.3,15321,PROXY_ALL_TheSpeedX_List.csv
-45.87.68.4,15321,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 45.87.68.5,15321,PROXY_ALL_TheSpeedX_List.csv
 45.87.68.6,15321,PROXY_ALL_TheSpeedX_List.csv
 45.88.8.196,443,PROXY_ALL_hookzof_list.csv
@@ -14721,17 +14710,17 @@ dest_ip,dest_port,metadata_comment
 46.10.229.243,7777,PROXY_ALL_TheSpeedX_List.csv
 46.101.115.59,443,PROXY_ALL_hideip_me_List.csv
 46.105.105.223,43470,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
-46.105.105.223,54030,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
+46.105.105.223,54030,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 46.105.105.223,55303,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 46.105.105.223,41448,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 46.105.105.223,16480,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
-46.105.105.223,21130,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
+46.105.105.223,21130,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 46.105.105.223,63462,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
-46.105.105.223,18579,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
+46.105.105.223,18579,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 46.105.105.223,4498,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 46.105.105.223,64464,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 46.105.105.223,51020,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
-46.105.105.223,34570,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
+46.105.105.223,34570,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 46.105.105.223,25482,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 46.105.105.223,43853,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 46.105.105.223,50160,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
@@ -14744,8 +14733,7 @@ dest_ip,dest_port,metadata_comment
 46.105.105.223,32706,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 46.105.105.223,5589,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 46.105.105.223,40167,PROXY_ALL_hideip_me_List.csv
-46.105.105.223,44290,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv"
-46.105.124.216,60450,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
+46.105.105.223,44290,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
 46.105.127.74,60170,PROXY_ALL_monosans_List.csv
 46.107.230.122,1080,PROXY_ALL_monosans_List.csv
 46.147.65.44,61986,PROXY_ALL_TheSpeedX_List.csv
@@ -14778,24 +14766,24 @@ dest_ip,dest_port,metadata_comment
 47.113.106.9,8118,PROXY_ALL_monosans_List.csv
 47.116.181.146,3128,PROXY_ALL_TheSpeedX_List.csv
 47.119.22.156,9098,PROXY_ALL_TheSpeedX_List.csv
-47.122.31.238,80,PROXY_ALL_TheSpeedX_List.csv
 47.122.31.238,8080,PROXY_ALL_TheSpeedX_List.csv
+47.122.31.238,80,PROXY_ALL_TheSpeedX_List.csv
 47.128.228.142,3128,PROXY_ALL_TheSpeedX_List.csv
 47.176.213.210,39593,PROXY_ALL_TheSpeedX_List.csv
 47.236.8.166,18080,PROXY_ALL_TheSpeedX_List.csv
 47.237.113.119,6379,PROXY_ALL_TheSpeedX_List.csv
 47.237.2.245,9080,PROXY_ALL_TheSpeedX_List.csv
 47.237.92.86,9080,PROXY_ALL_TheSpeedX_List.csv
-47.238.128.246,45,PROXY_ALL_TheSpeedX_List.csv
-47.238.128.246,8002,PROXY_ALL_TheSpeedX_List.csv
 47.238.128.246,8004,PROXY_ALL_TheSpeedX_List.csv
+47.238.128.246,45,PROXY_ALL_TheSpeedX_List.csv
 47.238.128.246,100,PROXY_ALL_TheSpeedX_List.csv
 47.238.128.246,8081,PROXY_ALL_TheSpeedX_List.csv
+47.238.128.246,8002,PROXY_ALL_TheSpeedX_List.csv
 47.238.128.246,9098,PROXY_ALL_TheSpeedX_List.csv
-47.238.130.212,8004,PROXY_ALL_TheSpeedX_List.csv
 47.238.130.212,9050,PROXY_ALL_TheSpeedX_List.csv
-47.238.134.126,80,PROXY_ALL_TheSpeedX_List.csv
+47.238.130.212,8004,PROXY_ALL_TheSpeedX_List.csv
 47.238.134.126,5060,PROXY_ALL_TheSpeedX_List.csv
+47.238.134.126,80,PROXY_ALL_TheSpeedX_List.csv
 47.238.134.126,81,PROXY_ALL_TheSpeedX_List.csv
 47.238.134.126,8004,PROXY_ALL_TheSpeedX_List.csv
 47.238.149.53,8888,PROXY_ALL_TheSpeedX_List.csv
@@ -14811,11 +14799,11 @@ dest_ip,dest_port,metadata_comment
 47.238.200.8,443,PROXY_ALL_hookzof_list.csv
 47.238.230.80,443,PROXY_ALL_hookzof_list.csv
 47.238.231.211,443,PROXY_ALL_hookzof_list.csv
-47.238.60.156,3128,PROXY_ALL_TheSpeedX_List.csv
-47.238.60.156,18081,PROXY_ALL_TheSpeedX_List.csv
 47.238.60.156,9098,PROXY_ALL_TheSpeedX_List.csv
 47.238.60.156,80,PROXY_ALL_TheSpeedX_List.csv
 47.238.60.156,4002,PROXY_ALL_TheSpeedX_List.csv
+47.238.60.156,18081,PROXY_ALL_TheSpeedX_List.csv
+47.238.60.156,3128,PROXY_ALL_TheSpeedX_List.csv
 47.239.16.195,443,PROXY_ALL_hookzof_list.csv
 47.239.24.21,9999,PROXY_ALL_hideip_me_List.csv
 47.242.119.195,443,PROXY_ALL_hookzof_list.csv
@@ -14836,7 +14824,7 @@ dest_ip,dest_port,metadata_comment
 47.242.90.99,443,PROXY_ALL_hookzof_list.csv
 47.242.91.53,443,PROXY_ALL_hookzof_list.csv
 47.243.111.81,443,PROXY_ALL_hookzof_list.csv
-47.243.113.74,5555,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
+47.243.113.74,5555,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv"
 47.243.113.74,6666,PROXY_ALL_hideip_me_List.csv
 47.243.120.179,443,PROXY_ALL_hookzof_list.csv
 47.243.123.229,443,PROXY_ALL_hookzof_list.csv
@@ -14884,23 +14872,23 @@ dest_ip,dest_port,metadata_comment
 47.245.117.43,80,PROXY_ALL_TheSpeedX_List.csv
 47.245.63.154,3389,PROXY_ALL_TheSpeedX_List.csv
 47.250.11.111,9080,PROXY_ALL_TheSpeedX_List.csv
-47.251.122.81,8888,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv"
-47.251.43.115,33333,PROXY_ALL_TheSpeedX_List.csv
-47.251.73.54,90,PROXY_ALL_TheSpeedX_List.csv
+47.251.122.81,8888,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv"
+47.251.43.115,33333,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
 47.251.73.54,888,PROXY_ALL_TheSpeedX_List.csv
 47.251.73.54,92,PROXY_ALL_TheSpeedX_List.csv
+47.251.73.54,90,PROXY_ALL_TheSpeedX_List.csv
 47.252.18.37,45,PROXY_ALL_TheSpeedX_List.csv
 47.252.29.28,11222,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_monosans_List.csv"
 47.254.28.155,8081,PROXY_ALL_hideip_me_List.csv
-47.254.36.213,8081,PROXY_ALL_TheSpeedX_List.csv
 47.254.36.213,999,PROXY_ALL_TheSpeedX_List.csv
+47.254.36.213,8081,PROXY_ALL_TheSpeedX_List.csv
 47.56.110.204,8989,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
 47.57.233.126,80,PROXY_ALL_fresh_proxy_list.csv
-47.74.46.81,5060,PROXY_ALL_TheSpeedX_List.csv
 47.74.46.81,37777,PROXY_ALL_TheSpeedX_List.csv
 47.74.46.81,8047,PROXY_ALL_TheSpeedX_List.csv
-47.74.46.81,31433,PROXY_ALL_TheSpeedX_List.csv
+47.74.46.81,5060,PROXY_ALL_TheSpeedX_List.csv
 47.74.46.81,9098,PROXY_ALL_TheSpeedX_List.csv
+47.74.46.81,31433,PROXY_ALL_TheSpeedX_List.csv
 47.74.46.81,50,PROXY_ALL_TheSpeedX_List.csv
 47.76.100.81,443,PROXY_ALL_hookzof_list.csv
 47.76.101.209,443,PROXY_ALL_hookzof_list.csv
@@ -14960,20 +14948,19 @@ dest_ip,dest_port,metadata_comment
 47.89.159.212,8123,PROXY_ALL_TheSpeedX_List.csv
 47.89.184.18,3128,PROXY_ALL_TheSpeedX_List.csv
 47.90.141.204,80,PROXY_ALL_fresh_proxy_list.csv
-47.90.149.238,9080,PROXY_ALL_TheSpeedX_List.csv
-47.90.149.238,31281,PROXY_ALL_TheSpeedX_List.csv
-47.90.149.238,90,PROXY_ALL_TheSpeedX_List.csv
 47.90.149.238,11,PROXY_ALL_TheSpeedX_List.csv
+47.90.149.238,9080,PROXY_ALL_TheSpeedX_List.csv
+47.90.149.238,90,PROXY_ALL_TheSpeedX_List.csv
+47.90.149.238,31281,PROXY_ALL_TheSpeedX_List.csv
 47.90.167.27,8081,PROXY_ALL_TheSpeedX_List.csv
 47.90.205.231,33333,PROXY_ALL_TheSpeedX_List.csv
 47.91.121.127,8888,PROXY_ALL_TheSpeedX_List.csv
 47.91.29.151,8080,PROXY_ALL_TheSpeedX_List.csv
-47.91.89.3,35,PROXY_ALL_TheSpeedX_List.csv
 47.91.89.3,11,PROXY_ALL_TheSpeedX_List.csv
+47.91.89.3,35,PROXY_ALL_TheSpeedX_List.csv
 47.97.217.108,8099,PROXY_ALL_TheSpeedX_List.csv
 49.0.2.243,5430,PROXY_ALL_fresh_proxy_list.csv
 49.0.87.62,8080,PROXY_ALL_hideip_me_List.csv
-49.12.134.94,3443,PROXY_ALL_hookzof_list.csv
 49.12.14.48,443,PROXY_ALL_hookzof_list.csv
 49.12.189.119,8443,PROXY_ALL_hideip_me_List.csv
 49.12.77.19,443,PROXY_ALL_hookzof_list.csv
@@ -15066,7 +15053,6 @@ dest_ip,dest_port,metadata_comment
 5.161.108.56,8888,PROXY_ALL_hideip_me_List.csv
 5.161.117.167,8888,PROXY_ALL_hideip_me_List.csv
 5.161.120.159,8888,PROXY_ALL_hideip_me_List.csv
-5.161.146.73,43101,PROXY_ALL_hookzof_list.csv
 5.161.155.198,8888,PROXY_ALL_hideip_me_List.csv
 5.161.156.91,8888,PROXY_ALL_hideip_me_List.csv
 5.161.157.229,8888,PROXY_ALL_hideip_me_List.csv
@@ -15463,7 +15449,7 @@ dest_ip,dest_port,metadata_comment
 50.63.12.101,45801,PROXY_ALL_monosans_List.csv
 50.63.12.101,27071,PROXY_ALL_monosans_List.csv
 50.63.12.101,1376,PROXY_ALL_hideip_me_List.csv
-50.7.234.236,443,PROXY_ALL_hookzof_list.csv
+50.7.156.52,443,PROXY_ALL_hookzof_list.csv
 50.7.85.218,443,PROXY_ALL_hookzof_list.csv
 50.7.85.219,443,PROXY_ALL_hookzof_list.csv
 50.7.85.220,443,PROXY_ALL_hookzof_list.csv
@@ -15480,7 +15466,7 @@ dest_ip,dest_port,metadata_comment
 51.15.241.34,3128,PROXY_ALL_TheSpeedX_List.csv
 51.158.101.254,16379,PROXY_ALL_TheSpeedX_List.csv
 51.158.105.94,31826,PROXY_ALL_hideip_me_List.csv
-51.158.113.139,16379,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hookzof_list.csv"
+51.158.113.139,16379,PROXY_ALL_TheSpeedX_List.csv
 51.158.125.47,16379,PROXY_ALL_TheSpeedX_List.csv
 51.158.200.102,423,PROXY_ALL_hideip_me_List.csv
 51.158.200.102,431,PROXY_ALL_hideip_me_List.csv
@@ -15892,9 +15878,9 @@ dest_ip,dest_port,metadata_comment
 51.158.61.236,905,PROXY_ALL_hideip_me_List.csv
 51.158.61.236,471,PROXY_ALL_hideip_me_List.csv
 51.158.61.236,726,PROXY_ALL_hideip_me_List.csv
-51.158.65.148,16379,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hookzof_list.csv"
+51.158.65.148,16379,PROXY_ALL_TheSpeedX_List.csv
 51.158.68.28,16379,PROXY_ALL_monosans_List.csv
-51.158.70.181,16379,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
+51.158.70.181,16379,PROXY_ALL_TheSpeedX_List.csv
 51.158.70.246,16379,PROXY_ALL_TheSpeedX_List.csv
 51.159.14.232,1022,PROXY_ALL_hideip_me_List.csv
 51.159.14.232,1287,PROXY_ALL_hideip_me_List.csv
@@ -16103,7 +16089,6 @@ dest_ip,dest_port,metadata_comment
 51.210.111.216,22302,PROXY_ALL_hideip_me_List.csv
 51.210.111.216,16490,PROXY_ALL_hideip_me_List.csv
 51.210.111.216,11926,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
-51.210.111.216,51550,PROXY_ALL_fresh_proxy_list.csv
 51.210.148.119,443,PROXY_ALL_hideip_me_List.csv
 51.254.132.238,90,PROXY_ALL_TheSpeedX_List.csv
 51.254.132.238,443,PROXY_ALL_hideip_me_List.csv
@@ -16113,10 +16098,10 @@ dest_ip,dest_port,metadata_comment
 51.68.10.90,80,PROXY_ALL_TheSpeedX_List.csv
 51.68.175.56,1080,PROXY_ALL_TheSpeedX_List.csv
 51.75.126.150,59091,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
-51.75.126.150,15816,"PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
+51.75.126.150,15816,PROXY_ALL_monosans_List.csv
 51.75.126.150,14602,PROXY_ALL_monosans_List.csv
 51.75.126.150,6053,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
-51.75.126.150,1964,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
+51.75.126.150,1964,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 51.75.126.150,2184,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 51.75.126.150,3307,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv"
 51.75.126.150,7622,PROXY_ALL_hideip_me_List.csv
@@ -16127,7 +16112,7 @@ dest_ip,dest_port,metadata_comment
 51.75.126.150,3217,PROXY_ALL_hideip_me_List.csv
 51.75.126.150,3639,PROXY_ALL_hideip_me_List.csv
 51.75.126.150,6424,PROXY_ALL_hideip_me_List.csv
-51.75.126.150,9532,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
+51.75.126.150,9532,PROXY_ALL_hideip_me_List.csv
 51.75.202.177,3384,PROXY_ALL_hideip_me_List.csv
 51.75.202.177,8493,PROXY_ALL_hideip_me_List.csv
 51.75.202.177,35840,PROXY_ALL_hideip_me_List.csv
@@ -16138,24 +16123,23 @@ dest_ip,dest_port,metadata_comment
 51.81.153.203,3128,PROXY_ALL_TheSpeedX_List.csv
 51.83.190.248,443,PROXY_ALL_hideip_me_List.csv
 51.83.70.247,7330,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_monosans_List.csv"
-51.89.136.171,443,PROXY_ALL_hookzof_list.csv
 51.91.109.83,80,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
 51.91.237.124,8080,PROXY_ALL_hideip_me_List.csv
-52.13.248.29,1080,PROXY_ALL_TheSpeedX_List.csv
 52.13.248.29,3128,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv"
+52.13.248.29,1080,PROXY_ALL_TheSpeedX_List.csv
 52.16.232.164,3128,PROXY_ALL_TheSpeedX_List.csv
 52.18.193.139,3128,PROXY_ALL_TheSpeedX_List.csv
 52.184.228.103,443,PROXY_ALL_hideip_me_List.csv
 52.196.1.182,80,PROXY_ALL_TheSpeedX_List.csv
-52.26.114.229,3128,PROXY_ALL_TheSpeedX_List.csv
 52.26.114.229,1080,PROXY_ALL_TheSpeedX_List.csv
+52.26.114.229,3128,PROXY_ALL_TheSpeedX_List.csv
 52.26.114.229,80,PROXY_ALL_hideip_me_List.csv
 52.35.240.119,3128,PROXY_ALL_hideip_me_List.csv
 52.48.78.67,3128,PROXY_ALL_TheSpeedX_List.csv
 52.63.129.110,3128,PROXY_ALL_TheSpeedX_List.csv
 52.65.193.254,3128,PROXY_ALL_TheSpeedX_List.csv
-52.67.10.183,80,PROXY_ALL_TheSpeedX_List.csv
 52.67.10.183,3128,PROXY_ALL_TheSpeedX_List.csv
+52.67.10.183,80,PROXY_ALL_TheSpeedX_List.csv
 52.73.224.54,3128,PROXY_ALL_TheSpeedX_List.csv
 54.151.19.74,1990,PROXY_ALL_hideip_me_List.csv
 54.152.3.36,80,PROXY_ALL_TheSpeedX_List.csv
@@ -16163,8 +16147,8 @@ dest_ip,dest_port,metadata_comment
 54.179.39.14,3128,PROXY_ALL_TheSpeedX_List.csv
 54.179.44.51,3128,PROXY_ALL_TheSpeedX_List.csv
 54.212.162.236,1080,PROXY_ALL_hideip_me_List.csv
-54.212.22.168,80,PROXY_ALL_TheSpeedX_List.csv
 54.212.22.168,3128,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv"
+54.212.22.168,80,PROXY_ALL_TheSpeedX_List.csv
 54.227.223.235,3128,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 54.228.164.102,3128,PROXY_ALL_TheSpeedX_List.csv
 54.233.119.172,3128,PROXY_ALL_TheSpeedX_List.csv
@@ -16505,7 +16489,7 @@ dest_ip,dest_port,metadata_comment
 64.124.191.98,32688,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv"
 64.139.79.35,54321,PROXY_ALL_TheSpeedX_List.csv
 64.181.235.123,3128,PROXY_ALL_hideip_me_List.csv
-64.202.184.249,15986,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
+64.202.184.249,15986,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 64.202.184.249,23616,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 64.202.184.249,25118,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 64.202.184.249,62162,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
@@ -16531,23 +16515,23 @@ dest_ip,dest_port,metadata_comment
 64.62.219.84,40570,PROXY_ALL_hideip_me_List.csv
 64.62.219.84,49417,PROXY_ALL_hideip_me_List.csv
 64.64.152.248,39593,PROXY_ALL_monosans_List.csv
-65.1.244.232,1080,PROXY_ALL_TheSpeedX_List.csv
 65.1.244.232,80,PROXY_ALL_TheSpeedX_List.csv
+65.1.244.232,1080,PROXY_ALL_TheSpeedX_List.csv
 65.1.244.232,3128,PROXY_ALL_hideip_me_List.csv
 65.1.40.47,1080,PROXY_ALL_hideip_me_List.csv
 65.108.104.111,443,PROXY_ALL_hideip_me_List.csv
 65.108.150.56,8443,PROXY_ALL_hideip_me_List.csv
 65.108.159.129,8081,PROXY_ALL_TheSpeedX_List.csv
 65.108.195.47,8080,PROXY_ALL_TheSpeedX_List.csv
-65.108.203.37,28080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
+65.108.203.37,28080,PROXY_ALL_TheSpeedX_List.csv
 65.108.31.119,80,PROXY_ALL_hookzof_list.csv
 65.108.84.7,443,PROXY_ALL_hookzof_list.csv
 65.109.129.53,443,PROXY_ALL_hookzof_list.csv
-65.109.181.202,443,PROXY_ALL_hookzof_list.csv
 65.109.196.50,443,PROXY_ALL_hookzof_list.csv
 65.109.202.138,8443,PROXY_ALL_hideip_me_List.csv
 65.109.202.138,1080,PROXY_ALL_hideip_me_List.csv
 65.109.208.12,443,PROXY_ALL_hookzof_list.csv
+65.109.210.163,443,PROXY_ALL_hookzof_list.csv
 65.109.40.163,8443,PROXY_ALL_hideip_me_List.csv
 65.21.1.2,443,PROXY_ALL_hookzof_list.csv
 65.21.107.132,443,PROXY_ALL_hookzof_list.csv
@@ -16881,13 +16865,13 @@ dest_ip,dest_port,metadata_comment
 67.201.59.70,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
 67.207.69.38,80,PROXY_ALL_hookzof_list.csv
 67.222.110.80,54666,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
-67.43.227.226,6989,PROXY_ALL_TheSpeedX_List.csv
 67.43.227.226,11305,PROXY_ALL_TheSpeedX_List.csv
+67.43.227.226,6989,PROXY_ALL_TheSpeedX_List.csv
 67.43.227.226,17201,PROXY_ALL_TheSpeedX_List.csv
 67.43.227.226,21861,PROXY_ALL_monosans_List.csv
 67.43.227.226,28569,PROXY_ALL_hideip_me_List.csv
-67.43.227.227,19285,PROXY_ALL_TheSpeedX_List.csv
 67.43.227.227,14555,PROXY_ALL_TheSpeedX_List.csv
+67.43.227.227,19285,PROXY_ALL_TheSpeedX_List.csv
 67.43.227.227,19215,PROXY_ALL_monosans_List.csv
 67.43.227.227,33023,PROXY_ALL_monosans_List.csv
 67.43.227.227,12261,PROXY_ALL_hideip_me_List.csv
@@ -16895,9 +16879,9 @@ dest_ip,dest_port,metadata_comment
 67.43.227.228,17539,PROXY_ALL_hideip_me_List.csv
 67.43.227.229,5397,PROXY_ALL_monosans_List.csv
 67.43.227.230,25645,PROXY_ALL_TheSpeedX_List.csv
-67.43.228.250,29701,PROXY_ALL_TheSpeedX_List.csv
 67.43.228.250,5295,PROXY_ALL_TheSpeedX_List.csv
 67.43.228.250,29861,PROXY_ALL_TheSpeedX_List.csv
+67.43.228.250,29701,PROXY_ALL_TheSpeedX_List.csv
 67.43.228.250,27527,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 67.43.228.250,12499,PROXY_ALL_monosans_List.csv
 67.43.228.250,4955,PROXY_ALL_hideip_me_List.csv
@@ -16908,10 +16892,10 @@ dest_ip,dest_port,metadata_comment
 67.43.228.253,2909,PROXY_ALL_monosans_List.csv
 67.43.228.253,4955,PROXY_ALL_hideip_me_List.csv
 67.43.228.253,31011,PROXY_ALL_hideip_me_List.csv
+67.43.236.18,10403,PROXY_ALL_TheSpeedX_List.csv
 67.43.236.18,32303,PROXY_ALL_TheSpeedX_List.csv
 67.43.236.18,10861,PROXY_ALL_TheSpeedX_List.csv
 67.43.236.18,14229,PROXY_ALL_TheSpeedX_List.csv
-67.43.236.18,10403,PROXY_ALL_TheSpeedX_List.csv
 67.43.236.18,29729,PROXY_ALL_hideip_me_List.csv
 67.43.236.19,28941,PROXY_ALL_TheSpeedX_List.csv
 67.43.236.19,13893,PROXY_ALL_hideip_me_List.csv
@@ -16942,7 +16926,7 @@ dest_ip,dest_port,metadata_comment
 69.36.63.128,1080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_monosans_List.csv"
 69.49.228.101,3128,PROXY_ALL_TheSpeedX_List.csv
 69.49.234.59,55804,PROXY_ALL_TheSpeedX_List.csv
-69.61.200.104,36181,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
+69.61.200.104,36181,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
 69.62.120.40,443,PROXY_ALL_hookzof_list.csv
 69.64.85.167,34852,PROXY_ALL_hideip_me_List.csv
 69.75.140.157,8080,PROXY_ALL_TheSpeedX_List.csv
@@ -17010,25 +16994,25 @@ dest_ip,dest_port,metadata_comment
 70.186.128.126,8080,PROXY_ALL_TheSpeedX_List.csv
 70.80.75.236,5678,PROXY_ALL_monosans_List.csv
 71.14.218.2,8080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
-72.10.160.170,8155,PROXY_ALL_TheSpeedX_List.csv
-72.10.160.170,10603,PROXY_ALL_TheSpeedX_List.csv
-72.10.160.170,5087,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.170,7083,PROXY_ALL_TheSpeedX_List.csv
+72.10.160.170,10603,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.170,5475,PROXY_ALL_TheSpeedX_List.csv
+72.10.160.170,5087,PROXY_ALL_TheSpeedX_List.csv
+72.10.160.170,8155,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.170,10601,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.170,3453,PROXY_ALL_monosans_List.csv
 72.10.160.170,12669,PROXY_ALL_hideip_me_List.csv
-72.10.160.171,22903,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.171,25051,PROXY_ALL_TheSpeedX_List.csv
+72.10.160.171,22903,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.171,14293,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.171,23991,PROXY_ALL_monosans_List.csv
 72.10.160.172,21019,PROXY_ALL_hideip_me_List.csv
 72.10.160.173,12339,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.173,18447,PROXY_ALL_TheSpeedX_List.csv
-72.10.160.174,22193,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.174,29733,PROXY_ALL_TheSpeedX_List.csv
-72.10.160.90,22759,PROXY_ALL_TheSpeedX_List.csv
+72.10.160.174,22193,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.90,5485,PROXY_ALL_TheSpeedX_List.csv
+72.10.160.90,22759,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.90,25081,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.90,9833,PROXY_ALL_monosans_List.csv
 72.10.160.90,25985,PROXY_ALL_monosans_List.csv
@@ -17038,44 +17022,43 @@ dest_ip,dest_port,metadata_comment
 72.10.160.90,13001,PROXY_ALL_hideip_me_List.csv
 72.10.160.90,17665,PROXY_ALL_hideip_me_List.csv
 72.10.160.91,24829,PROXY_ALL_TheSpeedX_List.csv
-72.10.160.91,1933,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.91,9143,PROXY_ALL_TheSpeedX_List.csv
+72.10.160.91,1933,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.92,8143,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.92,28187,PROXY_ALL_TheSpeedX_List.csv
-72.10.160.93,12649,PROXY_ALL_TheSpeedX_List.csv
-72.10.160.93,25081,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.93,1393,PROXY_ALL_TheSpeedX_List.csv
+72.10.160.93,25081,PROXY_ALL_TheSpeedX_List.csv
+72.10.160.93,12649,PROXY_ALL_TheSpeedX_List.csv
 72.10.160.94,6591,PROXY_ALL_hideip_me_List.csv
-72.10.164.178,22289,PROXY_ALL_TheSpeedX_List.csv
 72.10.164.178,29559,PROXY_ALL_TheSpeedX_List.csv
+72.10.164.178,22289,PROXY_ALL_TheSpeedX_List.csv
 72.10.164.178,1683,PROXY_ALL_monosans_List.csv
 72.10.164.178,1367,PROXY_ALL_monosans_List.csv
 72.10.164.178,17223,PROXY_ALL_hideip_me_List.csv
 72.10.164.178,30223,PROXY_ALL_hideip_me_List.csv
 72.167.150.81,53503,PROXY_ALL_TheSpeedX_List.csv
 72.195.101.99,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
-72.195.114.169,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
-72.195.114.184,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
+72.195.114.169,4145,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
+72.195.114.184,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
 72.195.34.35,27360,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 72.195.34.41,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
-72.195.34.42,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
+72.195.34.42,4145,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
 72.195.34.58,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 72.195.34.59,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 72.195.34.60,27391,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 72.205.0.67,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
 72.205.0.93,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 72.207.109.5,4145,PROXY_ALL_hideip_me_List.csv
-72.211.46.124,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
+72.211.46.124,4145,PROXY_ALL_hookzof_list.csv
 72.211.46.99,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 72.214.108.67,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 72.240.9.63,80,PROXY_ALL_TheSpeedX_List.csv
 72.37.216.68,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
-72.37.217.3,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
+72.37.217.3,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hookzof_list.csv"
 72.49.49.11,31034,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
 72.52.178.23,443,PROXY_ALL_hookzof_list.csv
 74.103.66.15,443,PROXY_ALL_hideip_me_List.csv
 74.119.144.60,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
-74.122.101.11,25340,PROXY_ALL_hookzof_list.csv
 74.62.179.122,8080,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 74.82.60.199,3128,PROXY_ALL_monosans_List.csv
 74.82.60.99,3128,PROXY_ALL_monosans_List.csv
@@ -17110,7 +17093,7 @@ dest_ip,dest_port,metadata_comment
 77.90.135.133,8882,PROXY_ALL_hookzof_list.csv
 77.90.135.23,8882,PROXY_ALL_hookzof_list.csv
 77.91.70.115,12977,PROXY_ALL_monosans_List.csv
-78.109.139.51,5678,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_monosans_List.csv"
+78.109.139.51,5678,PROXY_ALL_monosans_List.csv
 78.111.89.97,443,PROXY_ALL_hookzof_list.csv
 78.141.193.27,8888,PROXY_ALL_hideip_me_List.csv
 78.141.244.9,8888,PROXY_ALL_hideip_me_List.csv
@@ -17130,120 +17113,120 @@ dest_ip,dest_port,metadata_comment
 79.139.61.227,443,PROXY_ALL_hideip_me_List.csv
 79.174.12.190,443,PROXY_ALL_hideip_me_List.csv
 79.7.101.98,5678,PROXY_ALL_TheSpeedX_List.csv
-8.130.34.237,8060,PROXY_ALL_TheSpeedX_List.csv
-8.130.34.237,8123,PROXY_ALL_TheSpeedX_List.csv
-8.130.34.237,8090,PROXY_ALL_TheSpeedX_List.csv
-8.130.34.237,8000,PROXY_ALL_TheSpeedX_List.csv
-8.130.34.237,7777,PROXY_ALL_TheSpeedX_List.csv
-8.130.34.237,3129,PROXY_ALL_TheSpeedX_List.csv
 8.130.34.237,6666,PROXY_ALL_TheSpeedX_List.csv
+8.130.34.237,8000,PROXY_ALL_TheSpeedX_List.csv
+8.130.34.237,8123,PROXY_ALL_TheSpeedX_List.csv
+8.130.34.237,8060,PROXY_ALL_TheSpeedX_List.csv
+8.130.34.237,7777,PROXY_ALL_TheSpeedX_List.csv
+8.130.34.237,8090,PROXY_ALL_TheSpeedX_List.csv
+8.130.34.237,3129,PROXY_ALL_TheSpeedX_List.csv
 8.130.36.245,808,PROXY_ALL_TheSpeedX_List.csv
 8.130.36.245,8002,PROXY_ALL_TheSpeedX_List.csv
-8.130.54.67,8008,PROXY_ALL_TheSpeedX_List.csv
 8.130.54.67,8004,PROXY_ALL_TheSpeedX_List.csv
+8.130.54.67,8008,PROXY_ALL_TheSpeedX_List.csv
 8.130.90.177,8080,PROXY_ALL_TheSpeedX_List.csv
 8.138.133.207,8081,PROXY_ALL_TheSpeedX_List.csv
 8.138.149.37,8080,PROXY_ALL_TheSpeedX_List.csv
 8.148.22.214,3128,PROXY_ALL_TheSpeedX_List.csv
 8.209.208.126,3389,PROXY_ALL_TheSpeedX_List.csv
 8.209.255.13,3128,PROXY_ALL_TheSpeedX_List.csv
-8.209.96.245,18080,PROXY_ALL_TheSpeedX_List.csv
-8.209.96.245,4002,PROXY_ALL_TheSpeedX_List.csv
-8.209.96.245,31433,PROXY_ALL_TheSpeedX_List.csv
-8.209.96.245,193,PROXY_ALL_TheSpeedX_List.csv
 8.209.96.245,9080,PROXY_ALL_TheSpeedX_List.csv
+8.209.96.245,31433,PROXY_ALL_TheSpeedX_List.csv
+8.209.96.245,4002,PROXY_ALL_TheSpeedX_List.csv
+8.209.96.245,193,PROXY_ALL_TheSpeedX_List.csv
+8.209.96.245,18080,PROXY_ALL_TheSpeedX_List.csv
 8.210.108.162,443,PROXY_ALL_hookzof_list.csv
 8.210.139.18,443,PROXY_ALL_hookzof_list.csv
 8.210.15.14,443,PROXY_ALL_hookzof_list.csv
 8.210.15.26,443,PROXY_ALL_hookzof_list.csv
 8.210.158.189,9065,PROXY_ALL_monosans_List.csv
+8.210.17.35,3128,PROXY_ALL_TheSpeedX_List.csv
+8.210.17.35,8080,PROXY_ALL_TheSpeedX_List.csv
 8.210.17.35,9443,PROXY_ALL_TheSpeedX_List.csv
+8.210.17.35,100,PROXY_ALL_TheSpeedX_List.csv
 8.210.17.35,8008,PROXY_ALL_TheSpeedX_List.csv
 8.210.17.35,8004,PROXY_ALL_TheSpeedX_List.csv
 8.210.17.35,14,PROXY_ALL_TheSpeedX_List.csv
-8.210.17.35,100,PROXY_ALL_TheSpeedX_List.csv
-8.210.17.35,3128,PROXY_ALL_TheSpeedX_List.csv
-8.210.17.35,8080,PROXY_ALL_TheSpeedX_List.csv
 8.210.252.43,443,PROXY_ALL_hookzof_list.csv
 8.211.194.78,138,PROXY_ALL_TheSpeedX_List.csv
+8.211.194.85,45,PROXY_ALL_TheSpeedX_List.csv
 8.211.194.85,4002,PROXY_ALL_TheSpeedX_List.csv
 8.211.194.85,31433,PROXY_ALL_TheSpeedX_List.csv
-8.211.194.85,45,PROXY_ALL_TheSpeedX_List.csv
-8.211.195.139,18080,PROXY_ALL_TheSpeedX_List.csv
 8.211.195.139,5060,PROXY_ALL_TheSpeedX_List.csv
+8.211.195.139,18080,PROXY_ALL_TheSpeedX_List.csv
 8.211.195.173,18080,PROXY_ALL_TheSpeedX_List.csv
-8.211.195.173,992,PROXY_ALL_TheSpeedX_List.csv
-8.211.195.173,80,PROXY_ALL_TheSpeedX_List.csv
 8.211.195.173,8080,PROXY_ALL_TheSpeedX_List.csv
-8.211.200.183,1000,PROXY_ALL_TheSpeedX_List.csv
+8.211.195.173,80,PROXY_ALL_TheSpeedX_List.csv
+8.211.195.173,992,PROXY_ALL_TheSpeedX_List.csv
+8.211.200.183,80,PROXY_ALL_TheSpeedX_List.csv
 8.211.200.183,8008,PROXY_ALL_TheSpeedX_List.csv
 8.211.200.183,45,PROXY_ALL_TheSpeedX_List.csv
-8.211.200.183,9080,PROXY_ALL_TheSpeedX_List.csv
 8.211.200.183,1080,PROXY_ALL_TheSpeedX_List.csv
-8.211.200.183,80,PROXY_ALL_TheSpeedX_List.csv
+8.211.200.183,1000,PROXY_ALL_TheSpeedX_List.csv
+8.211.200.183,9080,PROXY_ALL_TheSpeedX_List.csv
 8.211.42.167,8080,PROXY_ALL_TheSpeedX_List.csv
 8.211.42.167,1234,PROXY_ALL_TheSpeedX_List.csv
 8.211.42.167,104,PROXY_ALL_TheSpeedX_List.csv
-8.211.49.86,20002,PROXY_ALL_TheSpeedX_List.csv
 8.211.49.86,9050,PROXY_ALL_TheSpeedX_List.csv
+8.211.49.86,20002,PROXY_ALL_TheSpeedX_List.csv
 8.211.51.115,9098,PROXY_ALL_TheSpeedX_List.csv
-8.212.165.164,3128,PROXY_ALL_TheSpeedX_List.csv
 8.212.165.164,10801,PROXY_ALL_TheSpeedX_List.csv
+8.212.165.164,3128,PROXY_ALL_TheSpeedX_List.csv
+8.213.128.6,4006,PROXY_ALL_TheSpeedX_List.csv
 8.213.128.6,4000,PROXY_ALL_TheSpeedX_List.csv
 8.213.128.6,8889,PROXY_ALL_TheSpeedX_List.csv
-8.213.128.6,4006,PROXY_ALL_TheSpeedX_List.csv
 8.213.128.90,8181,PROXY_ALL_TheSpeedX_List.csv
 8.213.128.90,8060,PROXY_ALL_TheSpeedX_List.csv
 8.213.128.90,8001,PROXY_ALL_TheSpeedX_List.csv
-8.213.129.15,5060,PROXY_ALL_TheSpeedX_List.csv
-8.213.129.15,9992,PROXY_ALL_TheSpeedX_List.csv
-8.213.129.15,4006,PROXY_ALL_TheSpeedX_List.csv
-8.213.129.15,9090,PROXY_ALL_TheSpeedX_List.csv
-8.213.129.15,3128,PROXY_ALL_TheSpeedX_List.csv
 8.213.129.15,9999,PROXY_ALL_TheSpeedX_List.csv
+8.213.129.15,9090,PROXY_ALL_TheSpeedX_List.csv
+8.213.129.15,5060,PROXY_ALL_TheSpeedX_List.csv
+8.213.129.15,4006,PROXY_ALL_TheSpeedX_List.csv
+8.213.129.15,9992,PROXY_ALL_TheSpeedX_List.csv
+8.213.129.15,3128,PROXY_ALL_TheSpeedX_List.csv
 8.213.129.15,9080,PROXY_ALL_TheSpeedX_List.csv
 8.213.129.2,5000,PROXY_ALL_TheSpeedX_List.csv
 8.213.129.20,3127,PROXY_ALL_TheSpeedX_List.csv
 8.213.129.20,2020,PROXY_ALL_TheSpeedX_List.csv
-8.213.134.213,20002,PROXY_ALL_TheSpeedX_List.csv
 8.213.134.213,1111,PROXY_ALL_TheSpeedX_List.csv
+8.213.134.213,20002,PROXY_ALL_TheSpeedX_List.csv
 8.213.134.213,55443,PROXY_ALL_TheSpeedX_List.csv
 8.213.134.213,18080,PROXY_ALL_TheSpeedX_List.csv
+8.213.137.155,8034,PROXY_ALL_TheSpeedX_List.csv
+8.213.137.155,119,PROXY_ALL_TheSpeedX_List.csv
 8.213.137.155,9091,PROXY_ALL_TheSpeedX_List.csv
 8.213.137.155,8089,PROXY_ALL_TheSpeedX_List.csv
-8.213.137.155,119,PROXY_ALL_TheSpeedX_List.csv
-8.213.137.155,8034,PROXY_ALL_TheSpeedX_List.csv
 8.213.150.45,3128,PROXY_ALL_hideip_me_List.csv
 8.213.156.191,202,PROXY_ALL_TheSpeedX_List.csv
 8.213.195.191,9191,PROXY_ALL_TheSpeedX_List.csv
-8.213.195.191,4006,PROXY_ALL_TheSpeedX_List.csv
 8.213.195.191,37,PROXY_ALL_TheSpeedX_List.csv
+8.213.195.191,4006,PROXY_ALL_TheSpeedX_List.csv
 8.213.197.208,45,PROXY_ALL_TheSpeedX_List.csv
 8.213.197.208,9080,PROXY_ALL_TheSpeedX_List.csv
-8.213.197.208,80,PROXY_ALL_TheSpeedX_List.csv
 8.213.197.208,8080,PROXY_ALL_TheSpeedX_List.csv
+8.213.197.208,80,PROXY_ALL_TheSpeedX_List.csv
 8.213.215.187,8008,PROXY_ALL_TheSpeedX_List.csv
-8.213.215.187,3000,PROXY_ALL_TheSpeedX_List.csv
-8.213.215.187,443,PROXY_ALL_TheSpeedX_List.csv
-8.213.215.187,9098,PROXY_ALL_TheSpeedX_List.csv
-8.213.215.187,18080,PROXY_ALL_TheSpeedX_List.csv
 8.213.215.187,104,PROXY_ALL_TheSpeedX_List.csv
+8.213.215.187,18080,PROXY_ALL_TheSpeedX_List.csv
 8.213.215.187,8080,PROXY_ALL_TheSpeedX_List.csv
-8.213.222.157,104,PROXY_ALL_TheSpeedX_List.csv
-8.213.222.157,80,PROXY_ALL_TheSpeedX_List.csv
-8.213.222.157,3128,PROXY_ALL_TheSpeedX_List.csv
+8.213.215.187,3000,PROXY_ALL_TheSpeedX_List.csv
+8.213.215.187,9098,PROXY_ALL_TheSpeedX_List.csv
+8.213.215.187,443,PROXY_ALL_TheSpeedX_List.csv
 8.213.222.157,8008,PROXY_ALL_TheSpeedX_List.csv
+8.213.222.157,104,PROXY_ALL_TheSpeedX_List.csv
 8.213.222.157,45,PROXY_ALL_TheSpeedX_List.csv
-8.213.222.247,8080,PROXY_ALL_TheSpeedX_List.csv
-8.213.222.247,8081,PROXY_ALL_TheSpeedX_List.csv
+8.213.222.157,3128,PROXY_ALL_TheSpeedX_List.csv
+8.213.222.157,80,PROXY_ALL_TheSpeedX_List.csv
 8.213.222.247,4002,PROXY_ALL_TheSpeedX_List.csv
+8.213.222.247,8081,PROXY_ALL_TheSpeedX_List.csv
+8.213.222.247,8080,PROXY_ALL_TheSpeedX_List.csv
 8.215.12.103,8001,PROXY_ALL_TheSpeedX_List.csv
 8.215.12.103,8003,PROXY_ALL_TheSpeedX_List.csv
 8.215.15.163,8081,PROXY_ALL_TheSpeedX_List.csv
 8.215.3.250,4002,PROXY_ALL_TheSpeedX_List.csv
 8.215.77.236,7777,PROXY_ALL_TheSpeedX_List.csv
 8.215.82.182,7777,PROXY_ALL_TheSpeedX_List.csv
-8.217.124.178,49440,PROXY_ALL_TheSpeedX_List.csv
+8.217.124.178,49440,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
 8.217.199.182,443,PROXY_ALL_hookzof_list.csv
 8.218.101.253,443,PROXY_ALL_hookzof_list.csv
 8.218.103.151,443,PROXY_ALL_hookzof_list.csv
@@ -17256,7 +17239,6 @@ dest_ip,dest_port,metadata_comment
 8.218.143.145,443,PROXY_ALL_hookzof_list.csv
 8.218.163.9,443,PROXY_ALL_hookzof_list.csv
 8.218.172.91,443,PROXY_ALL_hookzof_list.csv
-8.218.183.178,443,PROXY_ALL_hookzof_list.csv
 8.218.184.215,443,PROXY_ALL_hookzof_list.csv
 8.218.186.60,443,PROXY_ALL_hookzof_list.csv
 8.218.211.134,3128,PROXY_ALL_hideip_me_List.csv
@@ -17281,25 +17263,25 @@ dest_ip,dest_port,metadata_comment
 8.220.204.215,8000,PROXY_ALL_TheSpeedX_List.csv
 8.220.204.215,90,PROXY_ALL_TheSpeedX_List.csv
 8.220.204.215,4002,PROXY_ALL_TheSpeedX_List.csv
+8.220.204.92,9080,PROXY_ALL_TheSpeedX_List.csv
+8.220.204.92,12000,PROXY_ALL_TheSpeedX_List.csv
 8.220.204.92,81,PROXY_ALL_TheSpeedX_List.csv
 8.220.204.92,80,PROXY_ALL_TheSpeedX_List.csv
-8.220.204.92,12000,PROXY_ALL_TheSpeedX_List.csv
-8.220.204.92,9080,PROXY_ALL_TheSpeedX_List.csv
 8.220.205.172,4002,PROXY_ALL_TheSpeedX_List.csv
+8.221.138.111,2000,PROXY_ALL_TheSpeedX_List.csv
 8.221.138.111,9080,PROXY_ALL_TheSpeedX_List.csv
 8.221.138.111,31433,PROXY_ALL_TheSpeedX_List.csv
 8.221.138.111,46691,PROXY_ALL_TheSpeedX_List.csv
 8.221.138.111,80,PROXY_ALL_TheSpeedX_List.csv
-8.221.138.111,2000,PROXY_ALL_TheSpeedX_List.csv
 8.221.139.222,8008,PROXY_ALL_TheSpeedX_List.csv
 8.221.139.222,6666,PROXY_ALL_TheSpeedX_List.csv
-8.221.139.222,3128,PROXY_ALL_TheSpeedX_List.csv
 8.221.139.222,31433,PROXY_ALL_TheSpeedX_List.csv
-8.221.141.88,161,PROXY_ALL_TheSpeedX_List.csv
-8.221.141.88,1080,PROXY_ALL_TheSpeedX_List.csv
+8.221.139.222,3128,PROXY_ALL_TheSpeedX_List.csv
 8.221.141.88,4002,PROXY_ALL_TheSpeedX_List.csv
 8.221.141.88,11,PROXY_ALL_TheSpeedX_List.csv
+8.221.141.88,1080,PROXY_ALL_TheSpeedX_List.csv
 8.221.141.88,31433,PROXY_ALL_TheSpeedX_List.csv
+8.221.141.88,161,PROXY_ALL_TheSpeedX_List.csv
 8.243.163.126,3128,PROXY_ALL_TheSpeedX_List.csv
 8.39.228.33,39593,PROXY_ALL_TheSpeedX_List.csv
 8.42.68.125,39593,PROXY_ALL_TheSpeedX_List.csv
@@ -17323,24 +17305,26 @@ dest_ip,dest_port,metadata_comment
 81.177.224.173,1337,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_monosans_List.csv"
 81.223.55.43,8080,PROXY_ALL_TheSpeedX_List.csv
 81.62.179.218,5472,PROXY_ALL_TheSpeedX_List.csv
-82.137.244.74,8080,PROXY_ALL_fresh_proxy_list.csv
 82.146.37.145,80,PROXY_ALL_TheSpeedX_List.csv
 82.147.153.6,4153,PROXY_ALL_TheSpeedX_List.csv
 82.180.132.69,80,PROXY_ALL_TheSpeedX_List.csv
 82.223.151.8,53817,PROXY_ALL_TheSpeedX_List.csv
-82.223.165.28,44432,PROXY_ALL_TheSpeedX_List.csv
+82.223.165.28,44432,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
 82.223.165.28,18757,PROXY_ALL_monosans_List.csv
+82.223.165.28,23496,PROXY_ALL_fresh_proxy_list.csv
+82.223.165.28,18356,PROXY_ALL_fresh_proxy_list.csv
+82.223.165.28,16883,PROXY_ALL_fresh_proxy_list.csv
+82.223.165.28,4733,PROXY_ALL_fresh_proxy_list.csv
 83.1.176.118,80,PROXY_ALL_fresh_proxy_list.csv
 83.118.60.147,8213,PROXY_ALL_hideip_me_List.csv
 83.143.24.29,5678,PROXY_ALL_hideip_me_List.csv
 83.168.72.172,8081,PROXY_ALL_TheSpeedX_List.csv
 83.168.74.163,8080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
 83.217.23.34,8090,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
-83.217.23.35,8090,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
-83.217.23.36,8090,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
+83.217.23.35,8090,PROXY_ALL_hideip_me_List.csv
+83.217.23.36,8090,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv, PROXY_ALL_monosans_List.csv"
 83.219.1.130,5678,PROXY_ALL_monosans_List.csv
 83.220.46.106,4145,PROXY_ALL_monosans_List.csv
-83.234.76.155,4145,PROXY_ALL_fresh_proxy_list.csv
 84.10.62.238,8087,PROXY_ALL_hideip_me_List.csv
 84.17.47.123,9002,PROXY_ALL_hideip_me_List.csv
 84.17.47.124,9002,PROXY_ALL_hideip_me_List.csv
@@ -17530,6 +17514,7 @@ dest_ip,dest_port,metadata_comment
 85.30.219.207,8080,PROXY_ALL_TheSpeedX_List.csv
 85.62.10.87,8080,PROXY_ALL_TheSpeedX_List.csv
 85.89.184.87,5678,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_monosans_List.csv"
+86.100.63.246,4145,PROXY_ALL_fresh_proxy_list.csv
 86.38.154.134,5777,PROXY_ALL_TheSpeedX_List.csv
 86.38.236.162,6446,PROXY_ALL_TheSpeedX_List.csv
 86.38.26.166,6331,PROXY_ALL_TheSpeedX_List.csv
@@ -17575,7 +17560,7 @@ dest_ip,dest_port,metadata_comment
 88.27.254.232,8080,PROXY_ALL_monosans_List.csv
 88.99.71.237,7443,PROXY_ALL_hookzof_list.csv
 89.110.105.167,47120,PROXY_ALL_TheSpeedX_List.csv
-89.110.78.230,80,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv"
+89.110.78.230,80,PROXY_ALL_TheSpeedX_List.csv
 89.116.250.0,80,PROXY_ALL_fresh_proxy_list.csv
 89.116.78.165,5776,PROXY_ALL_TheSpeedX_List.csv
 89.116.78.189,5800,PROXY_ALL_TheSpeedX_List.csv
@@ -17628,11 +17613,12 @@ dest_ip,dest_port,metadata_comment
 91.107.130.145,11000,PROXY_ALL_TheSpeedX_List.csv
 91.107.176.84,2580,PROXY_ALL_TheSpeedX_List.csv
 91.107.230.61,8888,PROXY_ALL_hideip_me_List.csv
-91.121.173.38,23881,PROXY_ALL_TheSpeedX_List.csv
 91.121.173.38,54233,PROXY_ALL_TheSpeedX_List.csv
+91.121.173.38,23881,PROXY_ALL_TheSpeedX_List.csv
 91.121.88.53,443,PROXY_ALL_hideip_me_List.csv
 91.134.140.160,12820,PROXY_ALL_TheSpeedX_List.csv
 91.134.57.71,443,PROXY_ALL_hookzof_list.csv
+91.142.222.105,59089,PROXY_ALL_fresh_proxy_list.csv
 91.142.79.80,443,PROXY_ALL_hookzof_list.csv
 91.142.79.92,3895,PROXY_ALL_hookzof_list.csv
 91.147.235.99,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hideip_me_List.csv"
@@ -17677,7 +17663,7 @@ dest_ip,dest_port,metadata_comment
 92.58.181.171,1194,"PROXY_ALL_hideip_me_List.csv, PROXY_ALL_monosans_List.csv"
 93.117.72.27,55770,PROXY_ALL_TheSpeedX_List.csv
 93.157.12.234,8080,PROXY_ALL_monosans_List.csv
-93.157.18.44,1080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv"
+93.157.18.44,1080,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
 93.171.157.249,8080,PROXY_ALL_TheSpeedX_List.csv
 93.171.224.55,4153,PROXY_ALL_TheSpeedX_List.csv
 93.171.63.112,1080,PROXY_ALL_TheSpeedX_List.csv
@@ -17690,8 +17676,8 @@ dest_ip,dest_port,metadata_comment
 93.91.148.34,9898,PROXY_ALL_monosans_List.csv
 93.94.90.180,4145,PROXY_ALL_TheSpeedX_List.csv
 94.130.129.149,3443,PROXY_ALL_hookzof_list.csv
-94.130.177.190,9999,PROXY_ALL_fresh_proxy_list.csv
 94.130.207.220,3443,PROXY_ALL_hookzof_list.csv
+94.130.25.194,443,PROXY_ALL_hookzof_list.csv
 94.130.36.36,3443,PROXY_ALL_hookzof_list.csv
 94.130.69.253,51296,PROXY_ALL_monosans_List.csv
 94.131.2.159,443,PROXY_ALL_hookzof_list.csv
@@ -17710,7 +17696,6 @@ dest_ip,dest_port,metadata_comment
 94.253.95.241,3629,PROXY_ALL_TheSpeedX_List.csv
 94.41.246.203,3128,PROXY_ALL_TheSpeedX_List.csv
 94.70.195.145,8080,PROXY_ALL_TheSpeedX_List.csv
-94.73.251.19,1080,PROXY_ALL_hookzof_list.csv
 94.74.96.240,3129,PROXY_ALL_hideip_me_List.csv
 94.75.232.117,80,PROXY_ALL_hookzof_list.csv
 95.154.124.114,58000,PROXY_ALL_TheSpeedX_List.csv
@@ -17729,7 +17714,7 @@ dest_ip,dest_port,metadata_comment
 95.169.173.245,85,PROXY_ALL_hookzof_list.csv
 95.179.197.240,8888,PROXY_ALL_hideip_me_List.csv
 95.179.232.127,8888,PROXY_ALL_hideip_me_List.csv
-95.188.79.3,1080,PROXY_ALL_fresh_proxy_list.csv
+95.188.79.3,1080,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 95.211.186.230,80,PROXY_ALL_hookzof_list.csv
 95.211.214.134,80,PROXY_ALL_hookzof_list.csv
 95.211.44.40,4343,PROXY_ALL_hookzof_list.csv
@@ -17740,8 +17725,6 @@ dest_ip,dest_port,metadata_comment
 95.216.208.103,8118,PROXY_ALL_monosans_List.csv
 95.217.149.16,443,PROXY_ALL_hookzof_list.csv
 95.217.149.17,443,PROXY_ALL_hookzof_list.csv
-95.217.149.18,443,PROXY_ALL_hookzof_list.csv
-95.217.149.19,443,PROXY_ALL_hookzof_list.csv
 95.31.35.210,3629,PROXY_ALL_hideip_me_List.csv
 95.31.42.199,3629,PROXY_ALL_TheSpeedX_List.csv
 95.47.239.65,3128,PROXY_ALL_monosans_List.csv
@@ -17760,12 +17743,12 @@ dest_ip,dest_port,metadata_comment
 98.170.57.241,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
 98.170.57.249,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
 98.175.31.195,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
-98.175.31.222,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
+98.175.31.222,4145,PROXY_ALL_hookzof_list.csv
 98.178.72.21,10919,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
 98.181.137.80,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
 98.181.137.83,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
-98.188.47.132,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
-98.188.47.150,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hookzof_list.csv"
+98.188.47.132,4145,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_hookzof_list.csv"
+98.188.47.150,4145,PROXY_ALL_hookzof_list.csv
 98.191.0.37,4145,"PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv, PROXY_ALL_hookzof_list.csv"
 98.64.128.182,3128,"PROXY_ALL_TheSpeedX_List.csv, PROXY_ALL_fresh_proxy_list.csv, PROXY_ALL_hideip_me_List.csv"
 99.80.11.54,3128,PROXY_ALL_TheSpeedX_List.csv
