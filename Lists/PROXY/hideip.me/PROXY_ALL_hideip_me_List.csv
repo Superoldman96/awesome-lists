@@ -1,734 +1,438 @@
 dest_ip,dest_port,dest_country,metadata_file
 162.214.3.183,3128,United States,connect.txt
+93.125.3.22,8080,Belarus,connect.txt
 45.65.137.218,999,Colombia,connect.txt
-18.134.236.231,3128,Germany,connect.txt
-18.135.133.116,3128,United States,connect.txt
-35.154.71.72,1080,The Netherlands,connect.txt
-18.135.133.116,80,United States,connect.txt
-35.178.104.4,3128,Ukraine,connect.txt
 88.198.212.91,3128,Germany,connect.txt
-193.30.13.231,999,Ecuador,connect.txt
-103.162.62.250,8181,Indonesia,connect.txt
-190.8.164.25,8086,Venezuela,connect.txt
-101.255.210.2,1111,Indonesia,connect.txt
-103.173.244.210,58080,India,connect.txt
-92.51.126.42,8080,Georgia,connect.txt
-182.253.39.242,8080,Indonesia,connect.txt
-103.172.254.145,84,India,connect.txt
-183.88.241.167,8080,Thailand,connect.txt
-103.139.98.157,8080,Indonesia,connect.txt
-124.158.153.218,8180,Indonesia,connect.txt
-103.172.42.177,1111,Indonesia,connect.txt
-103.187.114.100,8082,Indonesia,connect.txt
-185.138.120.109,8080,Iraq,connect.txt
-182.253.7.146,8180,Indonesia,connect.txt
-14.224.183.185,8080,Vietnam,connect.txt
-124.105.180.29,8082,Philippines,connect.txt
-103.156.86.76,8080,Indonesia,connect.txt
-103.160.15.230,8080,Indonesia,connect.txt
-202.179.69.216,58080,India,connect.txt
-103.242.105.111,8080,Indonesia,connect.txt
-103.195.65.209,8080,Indonesia,connect.txt
-190.111.193.84,8080,Argentina,connect.txt
-157.66.36.13,8181,Indonesia,connect.txt
-102.209.18.96,8080,Kenya,connect.txt
-103.242.104.195,8090,Indonesia,connect.txt
-103.41.88.6,83,India,connect.txt
-103.215.187.68,8080,Indonesia,connect.txt
-103.143.105.138,8080,Indonesia,connect.txt
-190.61.61.210,999,Colombia,connect.txt
-103.247.23.28,9223,Indonesia,connect.txt
-103.154.118.154,57413,Indonesia,connect.txt
-203.175.102.22,8082,Indonesia,connect.txt
-157.66.85.65,8080,Indonesia,connect.txt
-103.158.252.79,8080,Indonesia,connect.txt
-189.89.186.178,44443,Brazil,connect.txt
-45.236.112.9,60399,Brazil,connect.txt
-103.153.190.218,8081,Indonesia,connect.txt
-89.110.95.140,3128,Russia,connect.txt
-103.160.40.253,8080,Indonesia,connect.txt
-103.147.134.85,1111,Indonesia,connect.txt
-115.124.75.57,8080,Indonesia,connect.txt
-192.203.0.78,999,Puerto Rico,connect.txt
-186.227.119.91,8080,Brazil,connect.txt
-103.26.109.62,84,India,connect.txt
-103.165.155.22,2016,Indonesia,connect.txt
-149.113.84.36,8080,Indonesia,connect.txt
-102.223.154.177,8080,Sierra Leone,connect.txt
-103.156.141.172,8081,Indonesia,connect.txt
-103.162.63.164,8080,Indonesia,connect.txt
-185.19.4.22,3128,Ukraine,connect.txt
-103.168.149.48,8181,Indonesia,connect.txt
-58.69.78.115,8081,Philippines,connect.txt
-209.14.98.5,8080,Colombia,connect.txt
-103.148.44.99,8080,Indonesia,connect.txt
-45.177.16.137,999,Paraguay,connect.txt
-45.177.16.132,999,Paraguay,connect.txt
-181.188.238.146,999,Ecuador,connect.txt
-14.143.172.246,8080,India,connect.txt
-157.66.50.73,1111,Indonesia,connect.txt
-103.76.109.112,8080,Indonesia,connect.txt
+93.180.221.205,8080,Iraq,connect.txt
+190.26.255.30,999,Colombia,connect.txt
+159.255.163.153,47193,Iraq,connect.txt
+103.187.86.27,8182,Indonesia,connect.txt
+203.174.15.83,8080,Indonesia,connect.txt
+51.195.200.115,31280,United Kingdom,connect.txt
+41.73.243.39,8080,Nigeria,connect.txt
+66.96.233.62,8085,Indonesia,connect.txt
+103.147.246.222,8080,Indonesia,connect.txt
+103.171.245.154,1080,Indonesia,connect.txt
+103.245.159.52,8080,Indonesia,connect.txt
+37.229.232.111,8080,Ukraine,connect.txt
+103.80.81.53,8080,Indonesia,connect.txt
+103.155.197.179,8282,Indonesia,connect.txt
+190.7.138.78,8080,Colombia,connect.txt
+45.177.16.136,999,Paraguay,connect.txt
+103.231.236.26,8182,Indonesia,connect.txt
+43.229.127.26,8080,Bhutan,connect.txt
+157.10.183.2,8080,Indonesia,connect.txt
 181.188.238.147,999,Ecuador,connect.txt
-38.224.97.9,999,Mexico,connect.txt
-38.172.130.56,999,Peru,connect.txt
-190.97.226.26,999,Venezuela,connect.txt
+103.101.193.78,1111,Indonesia,connect.txt
+103.131.19.30,8011,Indonesia,connect.txt
 109.127.82.4,8085,Iraq,connect.txt
-103.80.98.46,8080,Indonesia,connect.txt
-109.127.82.18,8080,Iraq,connect.txt
-103.242.104.145,1080,Indonesia,connect.txt
-38.183.146.25,3333,Indonesia,connect.txt
-103.152.238.178,1080,Indonesia,connect.txt
-38.7.3.20,999,Venezuela,connect.txt
-204.157.185.2,999,Peru,connect.txt
-169.239.85.121,8080,South Africa,connect.txt
-204.109.59.194,3121,United States,connect.txt
-157.20.253.208,1111,Indonesia,connect.txt
-103.106.219.204,8585,Indonesia,connect.txt
-103.134.246.71,1111,Indonesia,connect.txt
+181.78.82.210,999,Colombia,connect.txt
+103.162.63.163,8080,Indonesia,connect.txt
+27.147.154.170,8088,Bangladesh,connect.txt
+103.98.30.134,1289,Indonesia,connect.txt
+200.125.171.77,9991,Dominican Republic,connect.txt
+120.28.216.166,8081,Philippines,connect.txt
+204.157.185.4,999,Peru,connect.txt
+162.239.194.73,8080,United States,connect.txt
+45.230.170.30,999,Venezuela,connect.txt
 103.97.140.76,8080,Indonesia,connect.txt
-103.99.136.66,8080,Indonesia,connect.txt
-103.247.21.226,4320,Indonesia,connect.txt
-61.164.204.130,4999,China,connect.txt
-38.172.131.64,999,Peru,connect.txt
-202.57.25.134,8080,Indonesia,connect.txt
-103.105.76.10,3125,Indonesia,connect.txt
-179.1.95.213,999,Colombia,connect.txt
+102.68.139.1,83,Zambia,connect.txt
+181.118.150.14,999,Colombia,connect.txt
+149.78.206.146,3600,Brazil,connect.txt
 180.92.239.146,8080,Bangladesh,connect.txt
-103.171.255.59,8080,Indonesia,connect.txt
-120.28.194.248,8282,Philippines,connect.txt
-103.22.217.41,3125,Indonesia,connect.txt
-103.171.255.188,8080,Indonesia,connect.txt
-103.159.96.149,8085,Indonesia,connect.txt
-103.165.156.186,8090,Indonesia,connect.txt
-103.130.83.6,8080,Indonesia,connect.txt
-175.158.44.70,7777,Indonesia,connect.txt
-186.225.60.74,8089,Brazil,connect.txt
-195.133.220.46,1971,Iraq,connect.txt
-18.135.211.182,3128,Germany,connect.txt
-103.148.131.106,8080,Indonesia,connect.txt
-35.176.148.8,1080,France,connect.txt
-38.156.72.22,9999,T�rkiye,connect.txt
-37.235.23.217,8080,Iran,connect.txt
+103.172.120.37,8080,Indonesia,connect.txt
+122.3.116.9,8082,Philippines,connect.txt
+102.0.15.216,3346,Kenya,connect.txt
+138.121.114.142,999,Argentina,connect.txt
+195.158.8.123,3128,Uzbekistan,connect.txt
+89.151.129.168,8080,Russia,connect.txt
+103.209.38.133,81,India,connect.txt
+177.93.58.53,999,Colombia,connect.txt
 103.153.96.147,8181,Indonesia,connect.txt
-103.166.8.219,1080,Indonesia,connect.txt
-37.46.56.150,8080,Russia,connect.txt
 181.65.169.37,999,Peru,connect.txt
-176.97.210.117,3000,Germany,connect.txt
-103.105.55.243,8082,Indonesia,connect.txt
-103.227.187.13,6080,Indonesia,connect.txt
-23.138.80.49,999,Puerto Rico,connect.txt
-8.217.74.245,3228,Hong Kong,connect.txt
-103.46.11.148,3000,Indonesia,connect.txt
-201.150.119.171,999,Mexico,connect.txt
-160.20.38.18,8080,Indonesia,connect.txt
-103.191.254.2,8080,Indonesia,connect.txt
-182.71.12.186,8080,India,connect.txt
-49.156.44.116,8080,Cambodia,connect.txt
-103.162.37.82,8080,Indonesia,connect.txt
-95.165.134.69,8080,Russia,connect.txt
-103.169.254.9,6080,Indonesia,connect.txt
-89.151.133.216,8080,Russia,connect.txt
-181.204.183.251,999,Colombia,connect.txt
-213.141.128.113,8080,Russia,connect.txt
-103.158.253.5,8080,Indonesia,connect.txt
-157.20.252.30,8080,Indonesia,connect.txt
+103.158.11.64,32650,Bangladesh,connect.txt
+103.153.155.249,8082,Bangladesh,connect.txt
+103.101.216.38,8080,Indonesia,connect.txt
+103.144.79.27,8080,Indonesia,connect.txt
+172.96.169.233,8080,Puerto Rico,connect.txt
+204.157.169.238,8080,Myanmar,connect.txt
+103.87.202.18,8181,Indonesia,connect.txt
+103.179.218.7,8080,Indonesia,connect.txt
+181.119.84.212,8080,Colombia,connect.txt
+23.131.56.188,999,Puerto Rico,connect.txt
 103.18.77.23,1111,Indonesia,connect.txt
-103.67.85.146,3127,Indonesia,connect.txt
-103.154.76.2,8080,Indonesia,connect.txt
-103.102.12.105,8080,Indonesia,connect.txt
+190.94.213.234,999,Venezuela,connect.txt
 45.231.208.49,3128,Brazil,connect.txt
-177.234.217.42,999,Ecuador,connect.txt
-45.174.78.41,999,Mexico,connect.txt
-59.152.104.193,8080,Bangladesh,connect.txt
+119.92.188.29,8080,Philippines,connect.txt
 190.97.228.46,465,Venezuela,connect.txt
+178.205.101.67,3129,Russia,connect.txt
 89.43.31.134,3128,T�rkiye,connect.txt
-103.174.238.67,8080,Indonesia,connect.txt
-58.147.186.79,8080,Indonesia,connect.txt
-103.175.228.142,8080,Indonesia,connect.txt
-38.183.146.143,8090,Indonesia,connect.txt
-103.125.174.85,8080,Indonesia,connect.txt
-121.200.50.33,3128,India,connect.txt
-45.80.198.110,999,Ecuador,connect.txt
-185.200.37.242,8080,T�rkiye,connect.txt
-38.65.172.3,999,Mexico,connect.txt
-119.11.205.96,8080,Indonesia,connect.txt
-103.158.253.4,8080,Indonesia,connect.txt
-103.178.88.54,8080,Indonesia,connect.txt
-43.153.17.202,13001,United States,connect.txt
-43.153.32.146,13001,United States,connect.txt
-43.153.57.46,13001,United States,connect.txt
+177.75.1.33,8080,Brazil,connect.txt
+103.48.71.138,83,India,connect.txt
+38.65.172.198,999,Mexico,connect.txt
+189.230.13.92,999,Mexico,connect.txt
+43.153.51.4,13001,United States,connect.txt
 43.153.71.24,13001,United States,connect.txt
-43.153.109.22,13001,United States,connect.txt
-43.153.10.210,13001,United States,connect.txt
-103.191.218.115,8080,Indonesia,connect.txt
-172.188.122.92,80,Singapore,connect.txt
-38.194.246.34,999,Mexico,connect.txt
-45.185.204.24,999,Argentina,connect.txt
-43.159.143.73,13001,United States,connect.txt
+43.153.102.6,13001,United States,connect.txt
+43.153.102.53,13001,United States,connect.txt
+43.159.146.65,13001,United States,connect.txt
 49.51.72.92,13001,United States,connect.txt
+170.106.152.111,13001,United States,connect.txt
 43.135.137.109,13001,United States,connect.txt
 49.51.189.154,13001,United States,connect.txt
-170.106.181.161,13001,United States,connect.txt
-43.130.38.183,13001,United States,connect.txt
-43.135.145.188,13001,United States,connect.txt
-170.106.140.189,13001,United States,connect.txt
+49.51.73.186,13001,United States,connect.txt
 170.106.103.227,13001,United States,connect.txt
-170.106.65.197,13001,United States,connect.txt
-43.130.0.206,13001,United States,connect.txt
 170.106.67.47,13001,United States,connect.txt
-43.130.39.44,13001,United States,connect.txt
-170.106.189.80,13001,United States,connect.txt
 43.130.34.134,13001,United States,connect.txt
-170.106.195.165,13001,United States,connect.txt
-170.106.84.184,13001,United States,connect.txt
-49.51.41.216,13001,United States,connect.txt
 170.106.105.150,13001,United States,connect.txt
-170.106.137.240,13001,United States,connect.txt
-49.51.187.7,13001,United States,connect.txt
-49.51.200.14,13001,United States,connect.txt
+49.51.196.218,13001,United States,connect.txt
 170.106.137.107,13001,United States,connect.txt
 43.159.138.126,13001,United States,connect.txt
-43.130.31.137,13001,United States,connect.txt
-170.106.115.139,13001,United States,connect.txt
-43.130.6.140,13001,United States,connect.txt
-170.106.114.118,13001,United States,connect.txt
+177.53.215.118,8080,Ecuador,connect.txt
+43.130.52.50,13001,United States,connect.txt
 49.51.202.125,13001,United States,connect.txt
-43.159.128.28,13001,United States,connect.txt
+170.106.147.131,13001,United States,connect.txt
 43.130.56.25,13001,United States,connect.txt
-49.51.203.201,13001,United States,connect.txt
+43.159.143.14,13001,United States,connect.txt
+43.130.38.172,13001,United States,connect.txt
 43.135.160.146,13001,United States,connect.txt
 43.135.185.131,13001,United States,connect.txt
 170.106.136.216,13001,United States,connect.txt
 49.51.191.185,13001,United States,connect.txt
 49.51.46.224,13001,United States,connect.txt
-43.135.154.80,13001,United States,connect.txt
-43.135.154.179,13001,United States,connect.txt
 43.135.157.137,13001,United States,connect.txt
-43.135.129.239,13001,United States,connect.txt
 43.153.91.98,13001,United States,connect.txt
 43.153.95.162,13001,United States,connect.txt
-160.25.48.33,9090,Indonesia,connect.txt
-112.198.128.35,8084,Philippines,connect.txt
-103.247.23.73,8081,Indonesia,connect.txt
-103.126.119.172,8181,Indonesia,connect.txt
+43.153.118.131,13001,United States,connect.txt
 43.153.98.99,13001,United States,connect.txt
 43.153.123.147,13001,United States,connect.txt
-66.96.235.141,8080,Indonesia,connect.txt
-181.174.231.30,9992,Colombia,connect.txt
-149.34.215.174,3333,T�rkiye,connect.txt
 177.234.217.82,999,Ecuador,connect.txt
-138.121.15.230,999,Colombia,connect.txt
-103.36.10.223,8080,Indonesia,connect.txt
-27.131.250.240,8097,Indonesia,connect.txt
-109.111.236.70,6666,Serbia,connect.txt
-103.175.230.212,8070,Indonesia,connect.txt
-176.88.175.194,8080,T�rkiye,connect.txt
-103.181.254.105,8080,Indonesia,connect.txt
-103.247.13.203,8090,Indonesia,connect.txt
-202.43.122.156,1111,India,connect.txt
+103.239.253.66,8080,Bangladesh,connect.txt
+210.87.125.58,1080,Indonesia,connect.txt
+103.173.140.151,1111,Indonesia,connect.txt
+168.227.40.126,9192,Brazil,connect.txt
 114.7.162.94,8080,Indonesia,connect.txt
-115.178.49.226,8080,Indonesia,connect.txt
-176.118.239.90,3128,Russia,connect.txt
-45.115.113.182,4334,Bangladesh,connect.txt
-217.76.245.80,999,Panama,connect.txt
-77.104.76.230,8080,Iran,connect.txt
-203.111.253.106,8080,Indonesia,connect.txt
-103.105.57.66,2022,Indonesia,connect.txt
-103.159.96.27,8091,Indonesia,connect.txt
-38.52.220.61,999,United States,connect.txt
-103.97.140.247,1111,Indonesia,connect.txt
-103.19.79.234,999,Indonesia,connect.txt
-181.233.50.233,8787,Ecuador,connect.txt
-181.57.229.2,8080,Colombia,connect.txt
-49.51.188.4,13001,United States,connect.txt
-200.98.200.95,25000,Brazil,connect.txt
-167.250.22.89,9090,Brazil,connect.txt
+103.10.55.137,8664,Bangladesh,connect.txt
+45.235.252.46,8080,Mexico,connect.txt
+103.12.199.216,8080,Pakistan,connect.txt
+38.129.94.222,8080,United States,connect.txt
+103.134.223.60,8080,Indonesia,connect.txt
 154.197.119.182,39181,Seychelles,connect.txt
-123.25.234.143,8090,Vietnam,connect.txt
-167.250.50.2,999,Venezuela,connect.txt
-43.245.137.138,8080,India,connect.txt
-103.138.71.167,8080,Indonesia,connect.txt
-120.28.131.22,8082,Philippines,connect.txt
-124.121.94.114,8080,Thailand,connect.txt
-103.229.15.11,8080,Indonesia,connect.txt
+143.44.191.233,6789,Philippines,connect.txt
+181.94.246.214,3131,Paraguay,connect.txt
+196.251.241.54,8080,Equatorial Guinea,connect.txt
+38.183.192.141,999,Venezuela,connect.txt
+103.203.234.12,8080,Indonesia,connect.txt
+116.90.97.31,8080,Pakistan,connect.txt
+194.124.37.5,8080,T�rkiye,connect.txt
+115.134.84.135,8081,Malaysia,connect.txt
 103.138.26.37,8080,Bangladesh,connect.txt
-201.150.118.26,999,Mexico,connect.txt
-201.150.118.38,999,Mexico,connect.txt
-103.169.225.37,8080,Indonesia,connect.txt
-177.93.48.43,999,Colombia,connect.txt
-186.96.68.70,999,Venezuela,connect.txt
-157.66.170.99,7777,Indonesia,connect.txt
-13.232.51.74,20011,Sweden,connect.txt
-38.65.172.2,999,Mexico,connect.txt
-46.105.50.211,3128,France,connect.txt
-163.61.55.147,8080,,connect.txt
-46.254.219.133,8080,Russia,connect.txt
+103.146.185.141,1212,Indonesia,connect.txt
+38.65.172.6,999,Mexico,connect.txt
 38.156.75.130,8080,T�rkiye,connect.txt
-102.209.18.28,8080,Kenya,connect.txt
-38.7.16.85,999,Mexico,connect.txt
-200.125.171.60,999,Dominican Republic,connect.txt
-203.150.128.58,8080,Thailand,connect.txt
-103.156.249.34,8080,Indonesia,connect.txt
-200.35.34.131,999,Colombia,connect.txt
-160.22.134.32,1111,Indonesia,connect.txt
-111.72.193.122,2324,China,connect.txt
-103.191.250.133,8083,Indonesia,connect.txt
-2.85.32.200,8080,Greece,connect.txt
-45.114.145.192,32650,India,connect.txt
-71.42.125.219,4445,Germany,connect.txt
-14.164.129.214,8080,Vietnam,connect.txt
-72.10.160.91,30011,India,connect.txt
-115.127.95.82,8080,Bangladesh,connect.txt
-179.49.113.225,999,Honduras,connect.txt
+103.180.123.227,3127,Indonesia,connect.txt
+181.10.160.154,8080,Argentina,connect.txt
+195.199.240.179,8888,Hungary,connect.txt
 54.95.25.15,8084,Japan,connect.txt
-13.232.51.74,47890,Sweden,connect.txt
-179.49.202.206,999,Ecuador,connect.txt
-103.247.15.132,8080,Indonesia,connect.txt
-124.122.175.120,8080,Thailand,connect.txt
-103.110.10.166,8181,Indonesia,connect.txt
-189.222.171.60,999,Mexico,connect.txt
-38.58.174.99,999,Mexico,connect.txt
-189.206.157.235,999,Mexico,connect.txt
-164.163.74.97,999,Honduras,connect.txt
-138.117.231.133,999,Guatemala,connect.txt
-193.180.208.45,3128,Sweden,connect.txt
-149.86.159.94,8080,T�rkiye,connect.txt
-13.233.130.25,8180,Sweden,connect.txt
-194.238.27.113,3128,Poland,connect.txt
-190.61.45.92,999,Colombia,connect.txt
-203.190.41.177,8085,Indonesia,connect.txt
-103.242.104.178,8080,Indonesia,connect.txt
-180.191.20.35,8082,Philippines,connect.txt
-101.255.117.138,2020,Indonesia,connect.txt
-178.124.211.92,8080,Belarus,connect.txt
+38.191.161.189,999,Dominican Republic,connect.txt
+190.61.45.71,999,Colombia,connect.txt
+89.213.106.70,999,Mexico,connect.txt
+103.247.23.242,1111,Indonesia,connect.txt
+160.25.56.35,1111,Indonesia,connect.txt
+152.231.29.135,999,Colombia,connect.txt
 103.142.255.88,8080,Indonesia,connect.txt
-38.156.74.195,8080,T�rkiye,connect.txt
-154.73.29.205,8080,Libya,connect.txt
-45.236.28.213,999,Venezuela,connect.txt
-103.124.197.231,8080,Indonesia,connect.txt
-200.188.112.146,999,Mexico,connect.txt
-122.252.234.123,1313,India,connect.txt
+188.168.24.38,81,Russia,connect.txt
+202.149.89.69,8080,Indonesia,connect.txt
 200.188.112.147,999,Mexico,connect.txt
-38.7.16.83,999,Mexico,connect.txt
-103.156.141.170,8080,Indonesia,connect.txt
-49.86.21.229,3712,China,connect.txt
-58.136.168.22,8080,Thailand,connect.txt
-103.178.171.34,8080,Indonesia,connect.txt
-147.75.34.92,9480,The Netherlands,connect.txt
-147.75.34.92,10001,The Netherlands,connect.txt
 147.75.34.92,9443,The Netherlands,connect.txt
-103.176.97.228,7777,Indonesia,connect.txt
-202.145.10.241,8080,Indonesia,connect.txt
-106.0.168.138,8080,Thailand,connect.txt
-103.76.201.246,8080,Indonesia,connect.txt
+147.75.34.92,9401,The Netherlands,connect.txt
 143.0.243.70,8080,Brazil,connect.txt
-179.1.142.130,999,Colombia,connect.txt
-194.124.36.250,8080,T�rkiye,connect.txt
-190.217.19.183,999,Colombia,connect.txt
-99.20.24.9,8888,United States,connect.txt
-58.136.171.202,8080,Thailand,connect.txt
-13.233.201.155,51951,Sweden,connect.txt
-103.181.255.195,8080,Indonesia,connect.txt
-122.54.119.79,8080,Philippines,connect.txt
-13.233.130.25,31433,Ukraine,connect.txt
-191.195.96.104,8080,Brazil,connect.txt
-145.82.137.200,8080,Saudi Arabia,connect.txt
-124.122.138.2,8080,Thailand,connect.txt
-182.53.151.19,8080,Thailand,connect.txt
-125.27.110.38,8080,Thailand,connect.txt
-223.204.160.105,8080,Thailand,connect.txt
-124.107.198.184,8082,Philippines,connect.txt
-116.102.150.236,8080,Vietnam,connect.txt
-124.122.1.47,8080,Thailand,connect.txt
-103.24.215.169,8081,Indonesia,connect.txt
-103.169.41.212,8080,Indonesia,connect.txt
+103.162.153.152,3030,Indonesia,connect.txt
+36.77.231.50,8080,Indonesia,connect.txt
+203.188.251.50,8080,Bangladesh,connect.txt
 49.147.96.109,8080,Philippines,connect.txt
-182.253.62.254,8080,Indonesia,connect.txt
 128.0.1.234,4322,T�rkiye,connect.txt
-160.250.35.254,8080,Japan,connect.txt
-103.169.132.102,8080,Indonesia,connect.txt
-3.11.14.39,3128,Seychelles,connect.txt
-2.186.116.14,8080,Iran,connect.txt
-13.233.130.25,10888,Sweden,connect.txt
-121.233.144.193,3712,China,connect.txt
-172.105.3.198,8888,Canada,connect.txt
-13.232.51.74,4376,Denmark,connect.txt
-13.233.84.118,1981,Seychelles,connect.txt
-13.233.84.118,4165,The Netherlands,connect.txt
-13.233.130.25,726,Germany,connect.txt
-13.233.84.118,34490,Sweden,connect.txt
-13.232.51.74,5678,Germany,connect.txt
-13.233.130.25,13763,Germany,connect.txt
-13.233.84.118,12933,France,connect.txt
-143.198.42.182,31280,Canada,connect.txt
-118.113.245.61,2324,China,connect.txt
+3.11.14.39,3128,The Netherlands,connect.txt
+89.106.199.94,8880,Russia,connect.txt
 160.187.246.73,10000,Vietnam,connect.txt
-58.219.105.168,7890,China,connect.txt
-171.239.236.197,10001,Vietnam,connect.txt
-115.72.9.36,10001,Vietnam,connect.txt
-67.43.236.20,11355,Bangladesh,connect.txt
-171.237.119.127,1015,Vietnam,connect.txt
+190.61.106.108,999,Costa Rica,connect.txt
+13.233.201.155,20043,The Netherlands,connect.txt
 185.139.56.133,4145,Georgia,socks4.txt
+72.49.49.11,31034,United States,socks4.txt
 208.102.51.6,58208,United States,socks4.txt
 69.61.200.104,36181,United States,socks4.txt
 66.42.224.229,41679,United States,socks4.txt
-118.174.14.65,44336,Thailand,socks4.txt
+24.249.199.12,4145,United States,socks4.txt
+98.170.57.231,4145,United States,socks4.txt
+184.181.217.210,4145,United States,socks4.txt
 184.178.172.14,4145,United States,socks4.txt
-64.124.191.98,32688,United States,socks4.txt
-72.195.114.169,4145,United States,socks4.txt
-98.188.47.150,4145,United States,socks4.txt
-184.178.172.17,4145,United States,socks4.txt
-184.181.217.201,4145,United States,socks4.txt
-192.111.130.5,17002,Canada,socks4.txt
+184.181.217.194,4145,United States,socks4.txt
 98.170.57.249,4145,United States,socks4.txt
 184.178.172.28,15294,United States,socks4.txt
-118.67.223.4,5678,Bangladesh,socks4.txt
-184.178.172.26,4145,United States,socks4.txt
 184.185.2.12,4145,United States,socks4.txt
-74.119.144.60,4145,United States,socks4.txt
-46.107.230.122,1080,Hungary,socks4.txt
-186.145.192.251,5678,Colombia,socks4.txt
-122.252.179.66,5678,Cambodia,socks4.txt
-103.127.23.10,5678,India,socks4.txt
-121.200.60.198,8010,Bangladesh,socks4.txt
-95.178.108.189,5678,France,socks4.txt
-67.206.213.202,55555,Puerto Rico,socks4.txt
-183.80.130.10,4145,Vietnam,socks4.txt
-103.197.32.205,5678,India,socks4.txt
-36.64.62.111,5678,Indonesia,socks4.txt
-180.92.212.178,5678,Indonesia,socks4.txt
-103.87.81.86,5678,Indonesia,socks4.txt
-91.203.165.23,5678,Ukraine,socks4.txt
+98.181.137.83,4145,United States,socks4.txt
+85.89.184.87,5678,Poland,socks4.txt
+181.129.198.58,5678,Colombia,socks4.txt
 110.77.145.159,4145,Thailand,socks4.txt
-51.158.105.157,16379,United States,socks4.txt
-103.43.128.123,5678,Indonesia,socks4.txt
-103.69.243.162,4153,India,socks4.txt
-190.0.15.18,5678,Colombia,socks4.txt
-190.13.147.93,5678,Chile,socks4.txt
-41.190.232.26,1080,DR Congo,socks4.txt
-201.204.47.67,5678,Costa Rica,socks4.txt
-81.12.169.254,4153,Romania,socks4.txt
-116.197.129.170,4145,Indonesia,socks4.txt
+116.118.98.25,5678,Vietnam,socks4.txt
+103.76.190.37,31756,India,socks4.txt
+181.28.137.18,5678,Argentina,socks4.txt
+34.124.190.108,8080,Germany,socks4.txt
 98.191.0.37,4145,United States,socks4.txt
-93.157.193.139,5678,Bosnia and Herzegovina,socks4.txt
-190.12.95.170,37209,Peru,socks4.txt
-36.66.203.163,5678,Indonesia,socks4.txt
-163.172.185.252,16379,Germany,socks4.txt
-163.172.140.107,16379,Germany,socks4.txt
+98.170.57.241,4145,United States,socks4.txt
 208.65.90.21,4145,United States,socks4.txt
-169.239.236.201,10801,Nigeria,socks4.txt
-181.48.193.42,2580,Colombia,socks4.txt
-103.138.46.11,4145,Indonesia,socks4.txt
+203.210.235.91,5678,Vietnam,socks4.txt
+103.205.130.94,4145,India,socks4.txt
+115.85.74.114,5678,Indonesia,socks4.txt
+45.116.230.79,4673,India,socks4.txt
+46.105.105.223,25482,France,socks4.txt
 208.65.90.3,4145,United States,socks4.txt
-212.47.254.121,16379,The Netherlands,socks4.txt
-45.128.133.141,1080,Italy,socks4.txt
-154.66.108.52,3629,Lesotho,socks4.txt
-200.188.246.122,60606,Brazil,socks4.txt
-103.148.108.36,1080,Bangladesh,socks4.txt
-163.172.163.128,16379,Sweden,socks4.txt
-68.71.251.134,4145,United States,socks4.txt
-107.181.161.81,4145,United States,socks4.txt
-45.128.133.239,1080,Italy,socks4.txt
-51.15.210.190,16379,Iceland,socks4.txt
-51.158.68.28,16379,Germany,socks4.txt
-190.85.34.202,3629,Colombia,socks4.txt
-51.210.111.216,33123,France,socks4.txt
-51.210.111.216,39811,France,socks4.txt
+212.47.250.36,16379,Sweden,socks4.txt
+46.105.105.223,29267,France,socks4.txt
+163.172.163.128,16379,Ukraine,socks4.txt
 51.75.126.150,54612,France,socks4.txt
-51.210.111.216,29963,France,socks4.txt
-51.210.111.216,60686,France,socks4.txt
-62.24.109.53,60606,Kenya,socks4.txt
-182.253.40.33,4153,Indonesia,socks4.txt
-51.210.111.216,11926,France,socks4.txt
-159.148.146.65,5678,Latvia,socks4.txt
-38.51.233.146,60606,Colombia,socks4.txt
-95.142.35.221,1080,Finland,socks4.txt
+50.63.12.101,59998,United States,socks4.txt
+181.129.182.138,5678,Colombia,socks4.txt
 192.95.33.162,44012,Canada,socks4.txt
-192.95.33.162,51374,Canada,socks4.txt
-205.177.85.130,39593,Japan,socks4.txt
-119.18.158.130,4153,Indonesia,socks4.txt
+96.36.50.99,39593,United States,socks4.txt
+91.150.189.122,60647,Poland,socks4.txt
 51.75.126.150,8177,France,socks4.txt
-192.95.33.162,1129,Canada,socks4.txt
-45.128.133.253,1080,Italy,socks4.txt
-46.188.2.42,5678,Russia,socks4.txt
-46.8.60.2,1080,Russia,socks4.txt
-216.154.201.132,54321,United States,socks4.txt
-82.223.165.28,16883,Spain,socks4.txt
-103.56.206.65,4996,Indonesia,socks4.txt
-200.27.110.30,57702,Chile,socks4.txt
-105.234.156.105,60606,Malawi,socks4.txt
-163.172.166.240,16379,United States,socks4.txt
+140.238.43.53,54322,Japan,socks4.txt
+103.146.137.93,1081,Pakistan,socks4.txt
+46.105.105.223,34570,France,socks4.txt
 216.68.128.121,4145,United States,socks4.txt
-51.15.210.52,16379,Sweden,socks4.txt
-196.0.87.98,5678,Uganda,socks4.txt
-93.91.148.34,9898,Czechia,socks4.txt
-45.236.152.21,4145,Brazil,socks4.txt
-87.121.49.238,4145,Bulgaria,socks4.txt
-51.75.126.150,6960,France,socks4.txt
-51.75.126.150,9676,France,socks4.txt
-187.94.84.130,4153,Brazil,socks4.txt
-109.94.182.128,4145,Russia,socks4.txt
+85.113.18.209,3629,Kyrgyzstan,socks4.txt
+141.94.206.106,21875,France,socks4.txt
+27.147.244.93,10888,Bangladesh,socks4.txt
 72.207.109.5,4145,United States,socks4.txt
-177.68.149.141,1080,Brazil,socks4.txt
+192.95.33.162,2887,Canada,socks4.txt
 69.64.85.167,43392,United States,socks4.txt
-103.152.106.2,1080,Bangladesh,socks4.txt
-37.44.238.2,57167,France,socks4.txt
-31.209.96.173,51688,T�rkiye,socks4.txt
-109.68.189.22,54643,Russia,socks4.txt
-172.232.236.34,1080,Indonesia,socks4.txt
-37.18.73.60,5566,United States,socks4.txt
-24.172.34.114,60133,United States,socks4.txt
-210.16.86.105,5678,India,socks4.txt
-115.127.180.90,5678,Bangladesh,socks4.txt
-152.231.66.204,5678,Chile,socks4.txt
-8.219.63.77,8888,Singapore,socks4.txt
-160.19.18.163,1080,Indonesia,socks4.txt
-103.103.88.103,8888,Bangladesh,socks4.txt
-80.78.77.52,65530,Albania,socks4.txt
-80.78.73.142,65530,Albania,socks4.txt
-34.166.117.165,1080,Saudi Arabia,socks4.txt
-181.12.6.35,4145,Argentina,socks4.txt
-36.37.244.41,5678,Cambodia,socks4.txt
-186.203.163.53,5678,Brazil,socks4.txt
+177.93.79.5,4145,Brazil,socks4.txt
+190.104.249.187,4145,Argentina,socks4.txt
+61.245.27.154,8081,Philippines,socks4.txt
+184.181.178.33,4145,United States,socks4.txt
+98.190.239.3,4145,United States,socks4.txt
 64.202.184.249,25118,United States,socks4.txt
 64.202.184.249,18087,United States,socks4.txt
-64.202.184.249,46528,United States,socks4.txt
 64.202.184.249,32102,United States,socks4.txt
 64.202.184.249,62162,United States,socks4.txt
-103.164.112.134,4145,Indonesia,socks4.txt
+110.77.149.227,4153,Thailand,socks4.txt
 64.202.184.249,23616,United States,socks4.txt
-202.163.127.244,5678,Pakistan,socks4.txt
-80.78.66.150,65530,Albania,socks4.txt
-113.172.154.115,20080,Vietnam,socks4.txt
-186.148.227.66,1085,Argentina,socks4.txt
-103.81.194.17,4444,Indonesia,socks4.txt
-116.107.188.98,1080,Vietnam,socks4.txt
-171.244.10.204,5925,Vietnam,socks4.txt
-103.247.13.46,1981,Indonesia,socks4.txt
-1.4.203.31,5678,Thailand,socks4.txt
-58.219.104.138,7890,Hong Kong,socks4.txt
-171.248.222.119,1080,Vietnam,socks4.txt
-178.130.104.105,1080,Yemen,socks4.txt
+178.20.47.19,14552,Russia,socks4.txt
 178.130.110.29,1080,Yemen,socks4.txt
-154.85.58.149,80,United States,http.txt
-203.19.38.114,1080,China,http.txt
+46.35.9.110,80,France,http.txt
+80.249.112.162,80,Iran,http.txt
+117.54.114.97,80,Indonesia,http.txt
 103.39.49.156,3128,Indonesia,http.txt
-43.133.136.208,8800,Indonesia,http.txt
 8.209.255.13,3128,Japan,http.txt
-93.180.221.205,8080,Iraq,http.txt
-45.169.84.21,8080,Brazil,http.txt
-84.39.112.144,3128,Switzerland,http.txt
-45.249.122.198,8080,India,http.txt
-103.180.123.93,8080,Indonesia,http.txt
-203.81.67.22,8080,Myanmar,http.txt
-203.174.15.83,8080,Indonesia,http.txt
-119.40.98.29,20,Mongolia,http.txt
+193.30.13.231,999,Ecuador,http.txt
+103.217.217.190,8080,Indonesia,http.txt
+148.66.6.213,80,Hong Kong,http.txt
+103.176.97.223,3127,Indonesia,http.txt
+103.70.93.70,8080,Indonesia,http.txt
+183.88.241.167,8080,Thailand,http.txt
+111.1.61.47,3128,China,http.txt
 45.70.236.195,999,Ecuador,http.txt
-45.123.142.69,8181,Indonesia,http.txt
-103.191.196.96,8080,Indonesia,http.txt
+202.56.166.157,8080,Indonesia,http.txt
 103.156.15.119,8080,Indonesia,http.txt
 188.132.221.21,8080,T�rkiye,http.txt
-207.248.3.81,999,Chile,http.txt
-209.14.119.229,999,Colombia,http.txt
-101.255.104.38,1080,Indonesia,http.txt
-180.178.37.114,80,Hong Kong,http.txt
-103.148.28.218,3125,Indonesia,http.txt
-47.83.192.255,8888,United States,http.txt
-85.112.71.208,8080,Lebanon,http.txt
+54.37.207.54,3128,France,http.txt
+141.95.1.186,3128,France,http.txt
+103.242.105.111,8080,Indonesia,http.txt
+102.209.18.68,8080,United States,http.txt
+103.253.18.126,8080,Pakistan,http.txt
+180.191.23.66,8082,Philippines,http.txt
+181.12.169.91,11201,Argentina,http.txt
+103.143.105.138,8080,Indonesia,http.txt
+157.66.16.43,8070,Indonesia,http.txt
+103.226.232.197,8099,Indonesia,http.txt
+43.230.129.54,3333,Indonesia,http.txt
+62.33.53.248,3128,Russia,http.txt
 159.65.230.46,8888,United States,http.txt
-103.122.1.62,8181,Indonesia,http.txt
+103.158.252.79,8080,Indonesia,http.txt
+181.209.66.179,1120,Argentina,http.txt
+103.101.216.244,8080,Indonesia,http.txt
 103.180.118.174,6789,Indonesia,http.txt
-103.186.204.42,8085,Indonesia,http.txt
-115.42.67.186,8080,Pakistan,http.txt
-202.73.25.90,8080,Indonesia,http.txt
-103.153.191.9,8085,Indonesia,http.txt
-157.20.157.24,8080,Indonesia,http.txt
-200.37.252.122,8080,Peru,http.txt
-103.204.129.42,3128,United States,http.txt
-103.155.198.161,8037,Indonesia,http.txt
-103.231.236.26,8182,Indonesia,http.txt
-208.87.243.199,7878,United States,http.txt
+103.162.153.157,3030,Indonesia,http.txt
+103.247.14.25,9285,Indonesia,http.txt
+103.59.44.33,8181,Indonesia,http.txt
+134.249.185.223,41890,Ukraine,http.txt
+103.77.62.134,8080,Bangladesh,http.txt
+181.188.238.146,999,Ecuador,http.txt
 200.35.50.89,3028,Colombia,http.txt
 103.154.77.32,89,Indonesia,http.txt
-178.115.253.35,8080,Austria,http.txt
-103.181.255.219,7777,Indonesia,http.txt
-103.78.1.209,39206,Vietnam,http.txt
-187.62.241.136,8080,Brazil,http.txt
-45.230.170.30,999,Venezuela,http.txt
-179.49.117.21,999,Honduras,http.txt
+103.141.105.74,55,Indonesia,http.txt
+103.78.1.117,39114,Vietnam,http.txt
+112.78.47.188,8080,Indonesia,http.txt
+102.210.28.133,8080,Kenya,http.txt
+200.24.153.7,999,Ecuador,http.txt
+103.106.219.204,8585,Indonesia,http.txt
 103.227.187.1,6080,Indonesia,http.txt
-102.68.139.1,83,Zambia,http.txt
-115.178.49.47,8080,Indonesia,http.txt
-103.46.4.93,8080,Indonesia,http.txt
-45.55.123.126,8080,United States,http.txt
-5.128.120.101,8181,Russia,http.txt
-203.176.134.41,8080,Cambodia,http.txt
-122.52.213.79,62102,Philippines,http.txt
-138.121.114.142,999,Argentina,http.txt
-137.59.12.209,8080,Indonesia,http.txt
-41.33.89.100,1981,Egypt,http.txt
-103.169.38.118,8080,Indonesia,http.txt
-210.1.70.22,8085,Philippines,http.txt
-103.173.141.9,8080,Indonesia,http.txt
-89.151.129.168,8080,Russia,http.txt
-62.182.204.81,88,Russia,http.txt
-45.123.142.65,8181,Indonesia,http.txt
-103.97.140.120,9090,Indonesia,http.txt
-148.66.6.212,80,Hong Kong,http.txt
-148.66.6.210,80,Hong Kong,http.txt
+103.155.62.141,8081,Pakistan,http.txt
+220.233.184.21,80,Australia,http.txt
+45.6.1.97,999,Brazil,http.txt
+103.102.12.56,8080,Indonesia,http.txt
+103.171.255.246,8080,Indonesia,http.txt
+78.80.228.150,80,Czechia,http.txt
+103.171.255.59,8080,Indonesia,http.txt
+103.169.254.105,8080,Indonesia,http.txt
+103.160.136.50,8080,Indonesia,http.txt
+103.168.254.81,1111,Indonesia,http.txt
+103.163.135.57,7777,Indonesia,http.txt
+218.98.160.110,12798,China,http.txt
+103.72.137.241,8080,Bangladesh,http.txt
+195.133.220.46,1971,Iraq,http.txt
 189.73.53.94,8080,Brazil,http.txt
 182.253.42.148,8082,Indonesia,http.txt
-103.144.102.109,8085,Indonesia,http.txt
+23.138.80.49,999,Puerto Rico,http.txt
+160.19.178.42,8080,Indonesia,http.txt
+201.150.119.171,999,Mexico,http.txt
+220.134.5.4,8080,Taiwan,http.txt
+103.127.220.78,3125,Indonesia,http.txt
 103.139.98.159,8080,Indonesia,http.txt
-62.162.193.125,8081,North Macedonia,http.txt
-157.66.16.40,8787,Indonesia,http.txt
-181.198.1.82,999,Ecuador,http.txt
-103.156.86.161,8080,Indonesia,http.txt
-103.169.255.203,6080,Indonesia,http.txt
-103.76.108.56,8080,Indonesia,http.txt
+103.180.119.182,8082,Indonesia,http.txt
+103.156.75.213,8787,Indonesia,http.txt
+183.88.214.84,8080,Thailand,http.txt
 37.156.46.209,8080,Switzerland,http.txt
 103.52.16.91,8081,Indonesia,http.txt
-103.191.58.65,8080,Indonesia,http.txt
-103.172.197.234,8080,Indonesia,http.txt
-202.93.245.54,8080,Indonesia,http.txt
-181.119.107.110,999,Guatemala,http.txt
-45.191.7.249,8080,Argentina,http.txt
+116.68.170.117,8080,Indonesia,http.txt
+170.78.210.123,999,Mexico,http.txt
 36.93.73.154,8080,Indonesia,http.txt
-101.255.148.113,8080,Indonesia,http.txt
-38.65.172.81,999,Mexico,http.txt
-154.0.14.116,3128,South Africa,http.txt
-202.137.8.149,8080,Indonesia,http.txt
-157.125.220.80,8080,United Kingdom,http.txt
-103.83.236.6,8082,Indonesia,http.txt
-103.240.101.30,8080,India,http.txt
-138.121.34.48,8080,Brazil,http.txt
+45.191.4.253,8080,Argentina,http.txt
+190.8.34.211,999,Dominican Republic,http.txt
+217.66.215.86,8080,Iran,http.txt
+103.75.52.193,8989,Indonesia,http.txt
+212.69.114.161,8080,Russia,http.txt
+103.68.214.108,8080,Indonesia,http.txt
+38.65.172.193,999,Mexico,http.txt
+103.165.155.45,8080,Indonesia,http.txt
+38.65.172.3,999,Mexico,http.txt
+38.156.23.38,999,Dominican Republic,http.txt
+85.117.63.91,8080,Georgia,http.txt
+172.188.122.92,80,Singapore,http.txt
 77.238.103.98,8080,Russia,http.txt
-190.108.95.104,999,Peru,http.txt
-185.46.141.18,8080,Albania,http.txt
-103.175.238.138,1080,Indonesia,http.txt
-160.25.245.9,8090,Indonesia,http.txt
+103.46.10.50,7777,Indonesia,http.txt
+38.194.246.34,999,Mexico,http.txt
 103.39.51.156,8089,Indonesia,http.txt
+124.104.136.232,5050,Philippines,http.txt
 34.143.143.61,7777,Singapore,http.txt
-157.10.97.107,8383,Indonesia,http.txt
-20.27.14.220,8561,Japan,http.txt
-200.35.148.202,999,Venezuela,http.txt
+103.110.10.198,702,Indonesia,http.txt
+20.78.118.91,8561,Japan,http.txt
+112.198.128.35,8084,Philippines,http.txt
+103.247.23.73,8081,Indonesia,http.txt
 197.164.101.13,1976,Egypt,http.txt
-102.209.148.2,8080,Ghana,http.txt
-103.125.116.114,8080,Indonesia,http.txt
-45.235.252.46,8080,Mexico,http.txt
-152.42.246.248,3128,Singapore,http.txt
-47.243.92.199,3128,Hong Kong,http.txt
+45.182.21.150,999,Honduras,http.txt
+45.174.176.161,8088,Brazil,http.txt
+170.80.242.154,999,Mexico,http.txt
+103.80.87.70,3128,Spain,http.txt
+103.133.27.42,8181,Indonesia,http.txt
+103.179.218.15,1080,Indonesia,http.txt
+176.118.239.90,3128,Russia,http.txt
+34.211.92.223,3128,United States,http.txt
+77.104.76.230,8080,Iran,http.txt
+45.123.142.20,8181,Indonesia,http.txt
+119.39.5.93,3128,China,http.txt
+103.169.148.2,1111,Indonesia,http.txt
 122.154.75.204,8080,Thailand,http.txt
+38.255.84.82,999,Venezuela,http.txt
 47.91.104.88,3128,United Arab Emirates,http.txt
 103.76.201.126,8080,Indonesia,http.txt
 103.155.198.50,7777,Indonesia,http.txt
-45.224.149.99,999,Ecuador,http.txt
-177.234.217.45,999,Ecuador,http.txt
-38.252.213.63,999,Peru,http.txt
-41.59.90.168,80,Tanzania,http.txt
+190.119.76.148,8080,Peru,http.txt
+103.126.29.225,9797,Indonesia,http.txt
 41.59.90.175,80,Tanzania,http.txt
 201.77.97.46,999,Mexico,http.txt
-103.134.223.60,8080,Indonesia,http.txt
+112.204.127.150,8081,Philippines,http.txt
 179.1.147.133,999,Peru,http.txt
-200.98.201.13,25000,Brazil,http.txt
-143.44.191.233,6789,Philippines,http.txt
-85.234.122.67,8080,Russia,http.txt
-177.234.217.86,999,Ecuador,http.txt
-103.156.17.39,8818,Indonesia,http.txt
-102.164.220.252,8080,South Africa,http.txt
-103.203.234.12,8080,Indonesia,http.txt
-115.147.34.75,8082,Philippines,http.txt
-194.124.37.5,8080,T�rkiye,http.txt
-113.192.31.199,8080,Indonesia,http.txt
-161.49.96.93,8082,Philippines,http.txt
-103.178.176.166,8080,India,http.txt
+202.182.59.52,10001,Indonesia,http.txt
+203.207.56.57,8080,Indonesia,http.txt
+15.204.151.141,31158,United States,http.txt
+15.204.151.144,31158,United States,http.txt
+103.156.17.158,8818,Indonesia,http.txt
 20.27.15.49,8561,Japan,http.txt
-185.235.218.114,3002,Germany,http.txt
-51.222.207.187,3002,Sweden,http.txt
-103.251.8.135,3128,Indonesia,http.txt
-93.113.238.37,8080,Iran,http.txt
+201.150.118.26,999,Mexico,http.txt
+185.235.218.114,3002,Poland,http.txt
 138.97.37.16,9292,Brazil,http.txt
 122.52.170.254,8080,Philippines,http.txt
-103.142.14.88,8081,Indonesia,http.txt
-149.102.189.191,8888,Belgium,http.txt
-213.131.85.27,1976,Egypt,http.txt
-103.180.123.227,3127,Indonesia,http.txt
+54.164.185.253,8080,United States,http.txt
 47.89.184.18,3128,United States,http.txt
-160.20.165.230,8587,Ecuador,http.txt
-191.97.61.65,999,Peru,http.txt
 185.191.236.162,3128,Switzerland,http.txt
-103.235.181.245,8080,Indonesia,http.txt
-82.209.219.244,8080,Belarus,http.txt
-109.194.49.193,8080,Russia,http.txt
-66.201.7.151,3128,United States,http.txt
-52.140.40.92,80,India,http.txt
-223.204.176.89,3128,Thailand,http.txt
-119.92.255.3,3128,Philippines,http.txt
-41.130.228.221,8080,Egypt,http.txt
+116.118.48.147,3128,Vietnam,http.txt
+221.219.99.76,9000,China,http.txt
+201.77.96.145,999,Mexico,http.txt
+222.127.55.155,8082,Philippines,http.txt
+206.238.220.148,8888,Singapore,http.txt
+14.164.129.214,8080,Vietnam,http.txt
+124.107.205.34,8081,Philippines,http.txt
+171.244.14.167,3136,Vietnam,http.txt
+202.169.51.45,8080,Indonesia,http.txt
+103.102.128.112,1186,Vietnam,http.txt
+58.82.167.174,3128,Thailand,http.txt
+200.106.124.69,999,Peru,http.txt
+179.49.203.252,999,Ecuador,http.txt
+20.78.26.206,8561,Japan,http.txt
 20.27.15.111,8561,Japan,http.txt
 20.27.11.248,8561,Japan,http.txt
 162.223.90.150,80,United States,http.txt
 185.104.248.232,3128,Russia,http.txt
-103.36.11.119,8181,Indonesia,http.txt
-36.50.27.48,39045,Vietnam,http.txt
+43.246.201.53,23654,Bangladesh,http.txt
 190.223.60.131,3128,Peru,http.txt
-190.61.45.71,999,Colombia,http.txt
-89.213.106.70,999,Mexico,http.txt
-103.100.234.242,8080,Bangladesh,http.txt
-160.25.56.35,1111,Indonesia,http.txt
-170.245.132.85,999,Paraguay,http.txt
-186.0.144.141,9595,Brazil,http.txt
-103.227.187.9,6080,Indonesia,http.txt
+190.0.241.220,999,Colombia,http.txt
+187.155.32.203,999,Mexico,http.txt
+193.180.208.45,3128,Sweden,http.txt
+103.189.249.134,1111,Indonesia,http.txt
+43.132.208.197,3128,Hong Kong,http.txt
 119.235.112.42,3128,Turkmenistan,http.txt
-89.58.38.239,3128,Germany,http.txt
-201.163.219.196,8080,Mexico,http.txt
+41.128.90.50,1976,Egypt,http.txt
 41.254.63.14,8080,Libya,http.txt
-34.102.48.89,8080,United States,http.txt
-27.124.80.58,82,Indonesia,http.txt
-147.75.34.92,9400,The Netherlands,http.txt
+119.95.175.189,8082,Philippines,http.txt
+62.122.205.30,8080,Ukraine,http.txt
+102.209.78.150,8080,Kenya,http.txt
+147.75.34.92,9480,The Netherlands,http.txt
 147.75.34.92,10000,The Netherlands,http.txt
-147.75.34.92,9401,The Netherlands,http.txt
+202.145.10.241,8080,Indonesia,http.txt
 5.61.33.190,3128,Germany,http.txt
-171.4.21.146,8080,Thailand,http.txt
-103.66.47.34,8080,Indonesia,http.txt
-131.108.139.217,8080,Brazil,http.txt
-43.252.238.166,8080,Indonesia,http.txt
-3.225.14.225,3128,United States,http.txt
+223.206.48.100,8080,Thailand,http.txt
+172.86.67.59,3128,Germany,http.txt
 191.242.177.78,3128,Brazil,http.txt
-103.156.15.91,1111,Indonesia,http.txt
-95.214.123.129,8080,Hungary,http.txt
-125.22.172.99,8080,India,http.txt
+194.124.36.250,8080,T�rkiye,http.txt
+58.69.1.146,8082,Philippines,http.txt
+72.10.160.172,23309,Japan,http.txt
+41.220.131.174,8080,Tanzania,http.txt
 194.226.121.247,2052,Russia,http.txt
-196.251.131.84,8080,South Africa,http.txt
 154.236.191.45,1981,Egypt,http.txt
-102.132.57.174,8080,South Africa,http.txt
-171.5.190.163,8080,Thailand,http.txt
+223.206.197.144,8080,Thailand,http.txt
+182.53.151.19,8080,Thailand,http.txt
+103.155.167.26,1111,Indonesia,http.txt
 204.199.120.18,999,Colombia,http.txt
+84.36.39.194,1976,Egypt,http.txt
 207.244.226.48,4857,United States,http.txt
+41.57.30.23,6060,South Africa,http.txt
+140.227.119.54,3128,Japan,http.txt
 179.1.147.131,999,Peru,http.txt
-164.70.72.23,3128,Japan,http.txt
-203.95.198.175,8080,Cambodia,http.txt
-41.65.67.166,1976,Egypt,http.txt
+102.23.235.190,8080,South Africa,http.txt
 170.78.208.241,999,Mexico,http.txt
 119.156.195.173,3128,Pakistan,http.txt
-62.101.132.235,8082,Serbia,http.txt
-160.250.35.10,8080,Japan,http.txt
-194.124.36.15,8080,T�rkiye,http.txt
+1.4.251.154,8080,Thailand,http.txt
+124.107.195.30,8082,Philippines,http.txt
+124.122.1.47,8080,Thailand,http.txt
+182.253.62.254,8080,Indonesia,http.txt
 180.180.83.68,8080,Thailand,http.txt
-213.131.85.29,1976,Egypt,http.txt
-49.151.85.5,8080,Philippines,http.txt
+213.131.85.30,1976,Egypt,http.txt
+119.95.253.171,8082,Philippines,http.txt
+154.236.191.45,1976,Egypt,http.txt
+41.65.103.11,1981,Egypt,http.txt
+212.80.7.150,3128,Germany,http.txt
+190.61.106.110,999,Costa Rica,http.txt
 84.36.39.194,1981,Egypt,http.txt
-36.93.10.83,8080,Indonesia,http.txt
+67.43.236.20,24907,Honduras,http.txt
 5.102.109.41,999,Mexico,http.txt
-160.19.16.29,8181,Indonesia,http.txt
 160.187.246.186,10000,Vietnam,http.txt
-125.87.81.100,2324,China,http.txt
-38.123.221.131,999,Mexico,http.txt
 66.201.7.231,3128,United States,http.txt
 115.72.162.4,10001,Vietnam,http.txt
-5.161.65.47,8888,United States,https.txt
+160.187.246.116,10001,Vietnam,http.txt
+160.187.246.122,10001,Vietnam,http.txt
 5.161.104.22,8888,United States,https.txt
-5.161.70.13,8888,United States,https.txt
 134.209.108.22,8888,Singapore,https.txt
 134.209.108.84,8888,Singapore,https.txt
 134.209.108.165,8888,Singapore,https.txt
@@ -741,7 +445,6 @@ dest_ip,dest_port,dest_country,metadata_file
 84.17.47.126,9002,The Netherlands,https.txt
 84.17.47.125,9002,The Netherlands,https.txt
 84.17.47.124,9002,The Netherlands,https.txt
-5.161.156.91,8888,United States,https.txt
 178.128.221.182,8888,Singapore,https.txt
 134.209.99.88,8888,Singapore,https.txt
 192.248.152.39,8888,United Kingdom,https.txt
@@ -749,10 +452,8 @@ dest_ip,dest_port,dest_country,metadata_file
 192.248.155.67,8888,United Kingdom,https.txt
 155.138.149.154,8888,Canada,https.txt
 155.138.151.230,8888,Canada,https.txt
-5.161.98.16,8888,United States,https.txt
 155.138.130.128,8888,Canada,https.txt
 45.63.97.57,8888,United Kingdom,https.txt
-155.138.159.63,8888,Canada,https.txt
 141.147.9.254,443,Germany,https.txt
 193.176.84.16,9002,Romania,https.txt
 193.176.84.19,9002,Romania,https.txt
@@ -764,7 +465,6 @@ dest_ip,dest_port,dest_country,metadata_file
 65.108.150.56,8443,Finland,https.txt
 102.223.20.217,443,Ghana,https.txt
 194.67.91.153,443,Russia,https.txt
-203.57.51.53,443,Australia,https.txt
 143.110.232.177,443,United States,https.txt
 129.151.160.199,443,South Africa,https.txt
 202.61.204.51,443,Germany,https.txt
@@ -823,7 +523,6 @@ dest_ip,dest_port,dest_country,metadata_file
 193.176.84.39,9002,Romania,https.txt
 193.176.84.40,9002,Romania,https.txt
 89.117.55.119,443,Germany,https.txt
-193.36.118.242,9443,United Kingdom,https.txt
 193.176.84.9,9002,Romania,https.txt
 193.176.84.10,9002,Romania,https.txt
 193.176.84.11,9002,Romania,https.txt
@@ -968,6 +667,7 @@ dest_ip,dest_port,dest_country,metadata_file
 130.180.208.145,443,France,https.txt
 8.213.150.45,3128,Singapore,https.txt
 68.208.221.179,443,United States,https.txt
+203.189.96.232,443,Japan,https.txt
 159.65.244.233,443,United States,https.txt
 20.205.138.223,443,Hong Kong,https.txt
 156.146.59.49,9002,United States,https.txt
@@ -1106,8 +806,6 @@ dest_ip,dest_port,dest_country,metadata_file
 84.239.49.234,9002,Romania,https.txt
 84.239.49.217,9002,Romania,https.txt
 47.88.35.91,3128,United States,https.txt
-181.215.52.192,9443,United States,https.txt
-13.80.134.180,443,The Netherlands,https.txt
 46.246.96.14,443,Sweden,https.txt
 51.83.190.248,443,Poland,https.txt
 212.118.37.238,443,The Netherlands,https.txt
@@ -1147,15 +845,11 @@ dest_ip,dest_port,dest_country,metadata_file
 188.166.90.39,8888,The Netherlands,https.txt
 188.166.87.45,8888,The Netherlands,https.txt
 188.166.82.32,8888,The Netherlands,https.txt
-91.107.230.61,8888,Germany,https.txt
 46.246.96.14,143,Sweden,https.txt
-159.65.245.255,443,United States,https.txt
 162.210.194.3,461,United States,https.txt
 8.219.90.226,3128,Singapore,https.txt
-46.151.26.133,443,The Netherlands,https.txt
 154.26.139.232,443,Singapore,https.txt
 72.167.140.229,443,United States,https.txt
-45.32.144.46,8888,France,https.txt
 51.158.253.115,443,France,https.txt
 51.158.253.115,425,France,https.txt
 51.158.253.130,443,France,https.txt
@@ -1164,7 +858,6 @@ dest_ip,dest_port,dest_country,metadata_file
 51.158.253.130,425,France,https.txt
 51.158.253.113,443,France,https.txt
 51.158.253.113,425,France,https.txt
-216.128.177.20,8888,Canada,https.txt
 45.32.145.238,8888,France,https.txt
 209.97.153.210,8888,United States,https.txt
 209.97.153.149,8888,United States,https.txt
@@ -1195,7 +888,6 @@ dest_ip,dest_port,dest_country,metadata_file
 51.158.253.152,425,France,https.txt
 51.158.253.153,425,France,https.txt
 51.158.253.154,425,France,https.txt
-87.249.132.196,9443,Germany,https.txt
 51.158.253.114,436,France,https.txt
 51.158.253.120,1015,France,https.txt
 51.158.253.152,436,France,https.txt
@@ -1431,6 +1123,7 @@ dest_ip,dest_port,dest_country,metadata_file
 51.158.253.130,726,France,https.txt
 207.244.89.161,726,United States,https.txt
 51.158.252.252,726,France,https.txt
+23.106.249.54,726,Singapore,https.txt
 23.106.56.19,726,United Kingdom,https.txt
 51.158.253.152,726,France,https.txt
 51.158.253.153,726,France,https.txt
@@ -1787,22 +1480,20 @@ dest_ip,dest_port,dest_country,metadata_file
 51.158.200.84,431,France,https.txt
 80.154.6.2,443,Germany,https.txt
 141.94.246.168,443,France,https.txt
-47.243.181.85,8080,Hong Kong,https.txt
 107.152.33.202,8888,United States,https.txt
 147.182.242.114,8888,United States,https.txt
 147.182.252.115,8888,United States,https.txt
 49.12.189.119,8443,Germany,https.txt
 49.13.0.108,8443,Germany,https.txt
-193.3.23.179,443,Russia,https.txt
 138.199.35.210,9002,United States,https.txt
 138.199.36.160,9002,Germany,https.txt
-65.49.2.84,13979,United States,https.txt
 128.199.195.19,8888,Singapore,https.txt
-31.171.155.210,9443,Albania,https.txt
+65.49.68.84,16593,United States,https.txt
 201.238.248.135,443,Chile,https.txt
+104.129.194.45,10228,United States,https.txt
+65.49.68.84,29072,United States,https.txt
 87.249.132.158,9002,Germany,https.txt
 180.178.37.114,443,Hong Kong,https.txt
-173.44.36.130,9443,United States,https.txt
 148.233.136.213,443,Mexico,https.txt
 23.106.56.43,483,United Kingdom,https.txt
 23.106.56.54,483,United Kingdom,https.txt
@@ -1837,25 +1528,13 @@ dest_ip,dest_port,dest_country,metadata_file
 23.106.56.53,483,United Kingdom,https.txt
 207.244.89.162,483,United States,https.txt
 162.210.194.1,483,United States,https.txt
-65.49.14.154,60912,United States,https.txt
 54.37.72.89,443,Germany,https.txt
-65.49.14.154,62967,United States,https.txt
-65.49.68.84,46478,United States,https.txt
-65.49.68.84,17108,United States,https.txt
-65.49.14.154,17108,United States,https.txt
-65.49.14.154,42543,United States,https.txt
-65.49.14.154,15842,United States,https.txt
-47.243.181.85,8084,United States,https.txt
-65.49.14.154,39017,United States,https.txt
-65.49.2.84,28375,United States,https.txt
-47.243.181.85,8081,Taiwan,https.txt
-64.62.219.84,47137,United States,https.txt
-64.62.219.84,24254,United States,https.txt
-65.49.14.154,42283,United States,https.txt
-65.49.2.84,19903,United States,https.txt
-64.62.219.84,59646,United States,https.txt
+65.49.68.84,22859,United States,https.txt
+64.62.219.84,44437,United States,https.txt
+64.62.219.84,46263,United States,https.txt
+65.49.14.154,18811,United States,https.txt
 102.134.130.41,443,Ghana,https.txt
-64.62.219.84,51945,United States,https.txt
+65.49.68.84,33451,United States,https.txt
 162.210.194.3,1287,United States,https.txt
 162.210.194.2,1287,United States,https.txt
 51.158.253.115,1287,France,https.txt
@@ -1870,6 +1549,7 @@ dest_ip,dest_port,dest_country,metadata_file
 51.158.253.78,1287,France,https.txt
 162.210.194.1,1287,United States,https.txt
 51.158.253.120,1287,France,https.txt
+23.106.249.53,1287,Singapore,https.txt
 23.106.56.19,1287,United Kingdom,https.txt
 51.158.200.84,1287,France,https.txt
 207.244.89.166,1287,United States,https.txt
@@ -1889,59 +1569,44 @@ dest_ip,dest_port,dest_country,metadata_file
 23.106.56.52,1287,United Kingdom,https.txt
 51.158.200.73,1287,France,https.txt
 51.158.200.82,1287,France,https.txt
-64.62.219.84,58351,United States,https.txt
-65.49.2.84,14848,United States,https.txt
-65.49.2.84,18929,United States,https.txt
-64.62.219.84,48261,United States,https.txt
+65.49.68.84,26901,United States,https.txt
+65.49.14.154,29928,United States,https.txt
 62.210.15.199,443,France,https.txt
-65.49.68.84,33128,United States,https.txt
-65.49.14.154,20654,United States,https.txt
-65.49.14.154,55821,United States,https.txt
-64.62.219.84,48305,United States,https.txt
-65.49.2.84,28980,United States,https.txt
-64.62.219.84,61789,United States,https.txt
-64.62.219.84,29355,United States,https.txt
-64.62.219.84,15366,United States,https.txt
-47.243.181.85,41414,Japan,https.txt
-65.49.14.154,22772,United States,https.txt
+65.49.68.84,45644,United States,https.txt
+65.49.2.84,32566,United States,https.txt
+65.49.68.84,32074,United States,https.txt
+65.49.2.84,50452,United States,https.txt
 51.159.14.232,1022,France,https.txt
 51.158.61.236,436,France,https.txt
-65.49.14.154,44133,United States,https.txt
-65.49.68.84,26373,United States,https.txt
-64.62.219.84,46409,United States,https.txt
-65.49.68.84,32592,United States,https.txt
-65.49.14.154,52780,United States,https.txt
-51.159.14.232,1287,France,https.txt
-65.49.68.84,27470,United States,https.txt
-64.62.219.84,31211,United States,https.txt
+65.49.14.154,30266,United States,https.txt
+65.49.14.154,49257,United States,https.txt
+65.49.68.84,27027,United States,https.txt
+65.49.68.84,32856,United States,https.txt
+65.49.2.84,34638,United States,https.txt
+51.159.14.232,431,France,https.txt
+65.49.2.84,13072,United States,https.txt
 51.159.98.170,1007,France,https.txt
 51.158.61.236,431,France,https.txt
-51.159.14.232,911,France,https.txt
-65.49.14.154,25447,United States,https.txt
-64.62.219.84,63655,United States,https.txt
 51.159.14.232,425,France,https.txt
 51.158.61.236,911,France,https.txt
-51.159.14.232,1015,France,https.txt
+65.49.68.84,23034,United States,https.txt
+65.49.14.154,31307,United States,https.txt
 143.110.229.181,8888,United States,https.txt
-64.62.219.84,12010,United States,https.txt
 51.159.97.249,1007,France,https.txt
 51.159.97.108,1007,France,https.txt
-80.149.142.142,443,Germany,https.txt
+64.62.219.84,39980,United States,https.txt
+65.49.14.154,44373,United States,https.txt
 51.158.61.236,483,France,https.txt
-65.49.14.154,21447,United States,https.txt
-65.49.14.154,23785,United States,https.txt
+64.62.219.84,45441,United States,https.txt
 51.159.97.108,1015,France,https.txt
-64.62.219.84,12527,United States,https.txt
-65.49.2.84,33362,United States,https.txt
-65.49.2.84,64763,United States,https.txt
+64.62.219.84,29994,United States,https.txt
+65.49.2.84,60793,United States,https.txt
 51.158.61.236,901,France,https.txt
-65.49.68.84,51352,United States,https.txt
+65.49.2.84,38346,United States,https.txt
 51.158.61.236,1083,France,https.txt
 51.159.97.249,1015,France,https.txt
 51.159.98.170,1015,France,https.txt
 51.159.221.14,1015,France,https.txt
-64.62.219.84,24043,United States,https.txt
-65.49.68.84,15267,United States,https.txt
 51.159.97.108,425,France,https.txt
 51.158.61.236,425,France,https.txt
 51.158.61.236,1287,France,https.txt
@@ -1961,14 +1626,12 @@ dest_ip,dest_port,dest_country,metadata_file
 51.158.61.236,1015,France,https.txt
 51.159.98.170,955,France,https.txt
 51.159.97.108,1287,France,https.txt
+51.159.14.232,1083,France,https.txt
 51.159.221.14,838,France,https.txt
 51.158.61.236,838,France,https.txt
 51.159.97.108,838,France,https.txt
 51.159.98.170,838,France,https.txt
 51.159.14.232,838,France,https.txt
-65.49.14.154,32644,United States,https.txt
-65.49.68.84,13860,United States,https.txt
-64.62.219.84,10231,United States,https.txt
 51.159.97.108,1083,France,https.txt
 51.159.98.170,483,France,https.txt
 51.159.98.170,1287,France,https.txt
@@ -1982,19 +1645,19 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.98.170,461,France,https.txt
 51.159.97.108,436,France,https.txt
 51.159.97.108,921,France,https.txt
+51.159.14.232,1007,France,https.txt
 51.159.97.249,911,France,https.txt
 51.159.97.249,1287,France,https.txt
 51.158.61.236,1007,France,https.txt
 51.159.221.14,1007,France,https.txt
 51.159.97.108,483,France,https.txt
-65.49.2.84,64370,United States,https.txt
 51.159.97.249,428,France,https.txt
+65.49.2.84,51602,United States,https.txt
 51.159.221.14,921,France,https.txt
-65.49.14.154,61006,United States,https.txt
+51.159.14.232,436,France,https.txt
 51.159.97.249,431,France,https.txt
 51.159.98.170,911,France,https.txt
 51.159.98.170,428,France,https.txt
-51.159.14.232,726,France,https.txt
 51.159.221.14,1083,France,https.txt
 51.159.14.232,905,France,https.txt
 51.159.97.108,901,France,https.txt
@@ -2008,50 +1671,50 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.221.14,423,France,https.txt
 51.159.98.170,1022,France,https.txt
 51.158.61.236,1022,France,https.txt
-65.49.14.154,11747,United States,https.txt
-65.49.68.84,64550,United States,https.txt
 51.159.97.108,1022,France,https.txt
 51.159.97.249,838,France,https.txt
-64.62.219.84,14812,United States,https.txt
 51.159.221.14,425,France,https.txt
-64.62.219.84,19313,United States,https.txt
 51.158.61.236,423,France,https.txt
-47.243.181.85,41393,Japan,https.txt
+103.241.129.229,8443,Japan,https.txt
 51.159.221.14,443,France,https.txt
 51.159.98.170,425,France,https.txt
 51.159.98.170,423,France,https.txt
 51.159.221.14,483,France,https.txt
-103.241.129.6,8443,Japan,https.txt
-103.241.129.8,8443,Japan,https.txt
+103.241.129.2,8443,Japan,https.txt
+103.241.129.4,8443,Japan,https.txt
+103.241.129.7,8443,Japan,https.txt
 103.241.129.10,8443,Japan,https.txt
 103.241.129.12,8443,Japan,https.txt
 103.241.129.13,8443,Japan,https.txt
 103.241.129.18,8443,Japan,https.txt
-103.241.129.20,8443,Japan,https.txt
-103.241.129.25,8443,Japan,https.txt
-103.241.129.28,8443,Japan,https.txt
+103.241.129.19,8443,Japan,https.txt
+103.241.129.27,8443,Japan,https.txt
+103.241.129.30,8443,Japan,https.txt
+103.241.129.184,8443,Japan,https.txt
 103.241.129.187,8443,Japan,https.txt
+103.241.129.188,8443,Japan,https.txt
 103.241.129.190,8443,Japan,https.txt
-103.241.129.196,8443,Japan,https.txt
-103.241.129.217,8443,Japan,https.txt
+103.241.129.195,8443,Japan,https.txt
+103.241.129.209,8443,Japan,https.txt
+103.241.129.214,8443,Japan,https.txt
+103.241.129.220,8443,Japan,https.txt
 103.241.129.221,8443,Japan,https.txt
+103.241.129.232,8443,Japan,https.txt
 103.241.129.234,8443,Japan,https.txt
-103.241.129.237,8443,Japan,https.txt
-103.241.129.239,8443,Japan,https.txt
-103.241.129.247,8443,Japan,https.txt
+103.241.129.240,8443,Japan,https.txt
+103.241.129.244,8443,Japan,https.txt
 103.241.129.249,8443,Japan,https.txt
-103.241.129.251,8443,Japan,https.txt
 103.241.129.253,8443,Japan,https.txt
+103.241.129.254,8443,Japan,https.txt
+103.241.129.255,8443,Japan,https.txt
 103.241.130.5,8443,Japan,https.txt
+103.241.130.7,8443,Japan,https.txt
 51.159.97.249,1083,France,https.txt
 51.159.98.170,921,France,https.txt
 51.159.97.249,921,France,https.txt
 51.158.61.236,905,France,https.txt
 51.159.98.170,905,France,https.txt
-47.243.181.85,41310,Taiwan,https.txt
 51.159.221.14,436,France,https.txt
-64.62.219.84,17944,United States,https.txt
-65.49.14.154,39449,United States,https.txt
 51.159.14.232,471,France,https.txt
 51.159.221.14,1022,France,https.txt
 51.159.97.108,471,France,https.txt
@@ -2059,99 +1722,68 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.97.108,423,France,https.txt
 51.159.97.249,423,France,https.txt
 51.159.97.249,955,France,https.txt
-64.62.219.84,26673,United States,https.txt
-103.241.129.3,8443,Japan,https.txt
-103.241.129.179,8443,Japan,https.txt
-103.241.129.180,8443,Japan,https.txt
-103.241.129.185,8443,Japan,https.txt
+103.241.129.29,8443,Japan,https.txt
+103.241.129.194,8443,Japan,https.txt
+103.241.129.197,8443,Japan,https.txt
 103.241.129.198,8443,Japan,https.txt
-103.241.129.199,8443,Japan,https.txt
-103.241.129.201,8443,Japan,https.txt
-103.241.129.202,8443,Japan,https.txt
+103.241.129.200,8443,Japan,https.txt
 103.241.129.204,8443,Japan,https.txt
-103.241.129.207,8443,Japan,https.txt
-103.241.129.222,8443,Japan,https.txt
-103.241.129.223,8443,Japan,https.txt
+103.241.129.206,8443,Japan,https.txt
+103.241.129.211,8443,Japan,https.txt
 103.241.129.226,8443,Japan,https.txt
 103.241.129.228,8443,Japan,https.txt
-103.241.129.231,8443,Japan,https.txt
-103.241.129.233,8443,Japan,https.txt
+103.241.129.230,8443,Japan,https.txt
+103.241.129.243,8443,Japan,https.txt
 103.241.130.6,8443,Japan,https.txt
 51.159.221.14,726,France,https.txt
-103.241.129.0,8443,Japan,https.txt
-103.241.128.136,8443,Japan,https.txt
-65.49.14.154,46053,United States,https.txt
-65.49.2.84,48032,United States,https.txt
+64.62.219.84,42317,United States,https.txt
 103.241.129.31,8443,Japan,https.txt
 103.241.129.216,8443,Japan,https.txt
-65.49.14.154,30917,United States,https.txt
-65.49.2.84,11680,United States,https.txt
-64.62.219.84,44611,United States,https.txt
 143.107.205.72,443,Brazil,https.txt
-65.49.68.84,41209,United States,https.txt
-65.49.68.84,33445,United States,https.txt
+65.49.2.84,35941,United States,https.txt
 51.210.148.119,443,France,https.txt
 209.38.148.139,8888,United States,https.txt
 137.184.224.125,8888,United States,https.txt
-47.243.181.85,41797,Brazil,https.txt
-64.62.219.84,43671,United States,https.txt
-64.62.219.84,60475,United States,https.txt
-65.49.68.84,43683,United States,https.txt
-65.49.2.84,27042,United States,https.txt
+104.129.194.38,11728,United States,https.txt
 103.37.111.253,10087,Japan,https.txt
 123.31.29.158,443,Vietnam,https.txt
-65.49.68.84,38691,United States,https.txt
-65.49.2.84,33129,United States,https.txt
 104.248.130.209,3129,Germany,https.txt
-64.62.219.84,38531,United States,https.txt
-64.62.219.84,39795,United States,https.txt
-65.49.2.84,54347,United States,https.txt
-64.62.219.84,42547,United States,https.txt
-65.49.2.84,47343,United States,https.txt
-64.62.219.84,43947,United States,https.txt
-165.225.72.38,11712,Germany,https.txt
+65.49.68.84,43497,United States,https.txt
+104.129.194.44,11273,United States,https.txt
+65.49.2.84,12229,United States,https.txt
 51.195.107.167,443,France,https.txt
+65.49.2.84,34277,United States,https.txt
+65.49.2.84,42517,United States,https.txt
 212.58.135.9,8443,United States,https.txt
 212.58.135.10,8443,United States,https.txt
 212.58.132.189,8443,United States,https.txt
 212.58.132.188,8443,United States,https.txt
-64.62.219.84,45817,United States,https.txt
-65.49.14.154,10506,United States,https.txt
-65.49.2.84,34755,United States,https.txt
-64.62.219.84,51219,United States,https.txt
-64.62.219.84,39657,United States,https.txt
-64.62.219.84,37091,United States,https.txt
+65.49.2.84,10710,United States,https.txt
+64.62.219.84,42971,United States,https.txt
 168.205.255.238,443,Brazil,https.txt
 23.106.56.38,425,United Kingdom,https.txt
 85.215.50.161,443,Germany,https.txt
 23.106.56.11,461,United Kingdom,https.txt
-64.62.219.84,55915,United States,https.txt
 23.106.56.36,461,United Kingdom,https.txt
 23.106.56.37,461,United Kingdom,https.txt
 23.106.56.38,461,United Kingdom,https.txt
-64.62.219.84,49913,United States,https.txt
 23.106.56.11,431,United Kingdom,https.txt
 23.106.56.11,1015,United Kingdom,https.txt
+64.62.219.84,57515,United States,https.txt
 23.106.56.36,1015,United Kingdom,https.txt
 23.106.56.37,1015,United Kingdom,https.txt
 23.106.56.38,1015,United Kingdom,https.txt
 23.106.56.11,1083,United Kingdom,https.txt
-65.49.68.84,36333,United States,https.txt
 23.106.56.11,436,United Kingdom,https.txt
-65.49.2.84,39183,United States,https.txt
-64.62.219.84,41885,United States,https.txt
-51.195.107.167,8000,France,https.txt
-64.62.219.84,33325,United States,https.txt
+65.49.2.84,24198,United States,https.txt
 51.254.132.238,443,France,https.txt
-64.62.219.84,52503,United States,https.txt
 23.106.56.11,483,United Kingdom,https.txt
 23.106.56.11,1287,United Kingdom,https.txt
 23.106.56.11,911,United Kingdom,https.txt
+65.49.68.84,34399,United States,https.txt
 23.106.56.11,471,United Kingdom,https.txt
 23.106.56.11,905,United Kingdom,https.txt
-65.49.68.84,37479,United States,https.txt
 51.159.97.108,443,France,https.txt
-64.62.219.84,44651,United States,https.txt
 23.106.56.11,921,United Kingdom,https.txt
 34.81.72.31,443,Taiwan,https.txt
 103.242.15.36,7777,Hong Kong,https.txt
@@ -2174,7 +1806,6 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.221.44,726,France,https.txt
 51.159.98.170,436,France,https.txt
 51.159.221.44,1007,France,https.txt
-47.238.192.103,8888,Hong Kong,https.txt
 51.159.98.170,431,France,https.txt
 23.106.56.11,425,United Kingdom,https.txt
 51.159.97.108,911,France,https.txt
@@ -2209,7 +1840,6 @@ dest_ip,dest_port,dest_country,metadata_file
 207.180.254.198,443,Germany,https.txt
 51.159.97.249,425,France,https.txt
 64.181.235.123,3128,United States,https.txt
-65.49.2.84,31433,United States,https.txt
 51.159.97.108,905,France,https.txt
 51.159.220.143,443,France,https.txt
 51.159.221.44,483,France,https.txt
@@ -2218,15 +1848,12 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.225.125,423,France,https.txt
 51.159.225.129,423,France,https.txt
 51.159.225.130,423,France,https.txt
-65.49.68.84,59081,United States,https.txt
 51.159.220.143,483,France,https.txt
 65.109.202.138,8443,Finland,https.txt
+65.49.68.84,49570,United States,https.txt
 51.158.202.102,423,France,https.txt
 51.158.200.102,423,France,https.txt
-65.49.2.84,30552,United States,https.txt
-65.49.68.84,63292,United States,https.txt
 65.109.40.163,8443,Finland,https.txt
-65.49.14.154,25459,United States,https.txt
 23.106.56.43,19881,United Kingdom,https.txt
 51.158.202.56,423,France,https.txt
 51.158.200.157,423,France,https.txt
@@ -2239,31 +1866,24 @@ dest_ip,dest_port,dest_country,metadata_file
 51.158.206.93,423,France,https.txt
 51.159.220.143,1007,France,https.txt
 51.159.97.249,436,France,https.txt
+65.49.68.84,55192,United States,https.txt
 51.159.225.125,905,France,https.txt
 51.159.225.129,905,France,https.txt
 51.159.225.130,905,France,https.txt
 51.159.220.143,905,France,https.txt
 51.159.220.79,905,France,https.txt
-64.62.219.84,63830,United States,https.txt
-65.49.68.84,21034,United States,https.txt
-65.49.68.84,10635,United States,https.txt
+64.62.219.84,42189,United States,https.txt
 51.158.204.180,443,France,https.txt
 51.159.221.44,1287,France,https.txt
-65.49.14.154,56248,United States,https.txt
+65.49.14.154,56030,United States,https.txt
 167.235.198.62,443,Germany,https.txt
-65.49.14.154,42787,United States,https.txt
-65.49.2.84,59765,United States,https.txt
-65.49.2.84,17191,United States,https.txt
 51.159.220.143,425,France,https.txt
-64.62.219.84,56127,United States,https.txt
-65.49.68.84,63997,United States,https.txt
-65.49.14.154,59624,United States,https.txt
-64.62.219.84,50032,United States,https.txt
-65.49.14.154,42845,United States,https.txt
-181.215.52.122,9443,United States,https.txt
-65.49.2.84,35321,United States,https.txt
+65.49.2.84,30860,United States,https.txt
+65.49.14.154,31532,United States,https.txt
+65.49.68.84,48039,United States,https.txt
 51.158.204.180,431,France,https.txt
-65.49.68.84,63116,United States,https.txt
+65.49.68.84,25529,United States,https.txt
+64.62.219.84,20033,United States,https.txt
 51.158.204.46,431,France,https.txt
 51.158.204.131,431,France,https.txt
 51.158.206.33,431,France,https.txt
@@ -2276,10 +1896,9 @@ dest_ip,dest_port,dest_country,metadata_file
 51.158.200.157,431,France,https.txt
 51.158.200.127,431,France,https.txt
 51.158.200.102,431,France,https.txt
-64.62.219.84,28899,United States,https.txt
-65.49.68.84,45423,United States,https.txt
-65.49.68.84,49997,United States,https.txt
-47.243.181.85,52115,Taiwan,https.txt
+65.49.14.154,21978,United States,https.txt
+65.49.14.154,12988,United States,https.txt
+65.49.2.84,48087,United States,https.txt
 51.159.225.129,431,France,https.txt
 51.158.204.180,905,France,https.txt
 51.158.204.46,905,France,https.txt
@@ -2297,61 +1916,31 @@ dest_ip,dest_port,dest_country,metadata_file
 51.158.200.157,905,France,https.txt
 51.158.200.127,905,France,https.txt
 51.158.200.102,905,France,https.txt
-64.62.219.84,39699,United States,https.txt
-65.49.2.84,53207,United States,https.txt
-65.49.14.154,30064,United States,https.txt
-64.62.219.84,26781,United States,https.txt
-65.49.14.154,51257,United States,https.txt
-65.49.14.154,23195,United States,https.txt
+64.62.219.84,22591,United States,https.txt
+65.49.14.154,22390,United States,https.txt
+65.49.2.84,54733,United States,https.txt
+65.49.2.84,13305,United States,https.txt
 51.158.206.91,905,France,https.txt
 51.159.225.130,431,France,https.txt
-65.49.2.84,29895,United States,https.txt
-65.49.14.154,36747,United States,https.txt
-65.49.14.154,27192,United States,https.txt
-65.49.2.84,32922,United States,https.txt
-65.49.68.84,32734,United States,https.txt
-65.49.68.84,28027,United States,https.txt
-64.62.219.84,16446,United States,https.txt
-65.49.14.154,45655,United States,https.txt
-65.49.2.84,14312,United States,https.txt
-64.62.219.84,27900,United States,https.txt
-65.49.14.154,57703,United States,https.txt
+65.49.2.84,32994,United States,https.txt
+65.49.14.154,54163,United States,https.txt
+65.49.14.154,57925,United States,https.txt
+65.49.68.84,43142,United States,https.txt
+64.62.219.84,56685,United States,https.txt
+65.49.2.84,51063,United States,https.txt
+65.49.2.84,41448,United States,https.txt
 65.109.202.138,1080,Finland,https.txt
-65.49.14.154,35665,United States,https.txt
-65.49.14.154,51682,United States,https.txt
-65.49.68.84,38097,United States,https.txt
-64.62.219.84,49417,United States,https.txt
-64.62.219.84,19365,United States,https.txt
-64.62.219.84,58566,United States,https.txt
-64.62.219.84,29705,United States,https.txt
-65.49.68.84,12622,United States,https.txt
-65.49.68.84,48859,United States,https.txt
-65.49.14.154,17037,United States,https.txt
-65.49.68.84,58581,United States,https.txt
-65.49.68.84,42127,United States,https.txt
-65.49.14.154,58904,United States,https.txt
-65.49.2.84,38042,United States,https.txt
-64.62.219.84,34953,United States,https.txt
-65.49.68.84,32582,United States,https.txt
-65.49.14.154,39461,United States,https.txt
-65.49.14.154,60746,United States,https.txt
-65.49.2.84,64068,United States,https.txt
-65.49.68.84,33605,United States,https.txt
-64.62.219.84,39401,United States,https.txt
-65.49.2.84,41921,United States,https.txt
-64.62.219.84,46689,United States,https.txt
-64.62.219.84,47507,United States,https.txt
+65.49.68.84,43485,United States,https.txt
+65.49.68.84,13885,United States,https.txt
+65.49.14.154,44312,United States,https.txt
+65.49.68.84,46813,United States,https.txt
 51.159.221.44,1015,France,https.txt
 51.159.220.143,1015,France,https.txt
-47.243.181.85,8083,Singapore,https.txt
 51.159.220.143,1083,France,https.txt
-64.62.219.84,16867,United States,https.txt
-65.49.68.84,64561,United States,https.txt
 51.161.79.152,8888,Canada,https.txt
-205.178.137.247,8447,United States,https.txt
-205.178.144.210,8443,United States,https.txt
+205.178.144.110,8443,United States,https.txt
 51.159.220.143,1287,France,https.txt
-65.49.68.84,22717,United States,https.txt
+205.178.137.100,8447,United States,https.txt
 192.95.39.76,8443,United States,https.txt
 198.50.152.217,8443,United States,https.txt
 51.159.97.249,905,France,https.txt
@@ -2363,6 +1952,7 @@ dest_ip,dest_port,dest_country,metadata_file
 1.234.23.159,443,South Korea,https.txt
 51.159.220.143,428,France,https.txt
 51.159.220.143,955,France,https.txt
+65.49.2.84,15727,United States,https.txt
 185.53.129.141,9090,The Netherlands,https.txt
 51.159.225.125,443,France,https.txt
 51.159.225.125,471,France,https.txt
@@ -2406,20 +1996,14 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.225.150,1083,France,https.txt
 51.159.225.130,1083,France,https.txt
 51.158.204.180,1083,France,https.txt
-65.49.2.84,57407,United States,https.txt
-65.49.68.84,56373,United States,https.txt
-64.62.219.84,45432,United States,https.txt
-205.178.144.84,8447,United States,https.txt
 51.159.220.79,1083,France,https.txt
+64.62.219.84,53014,United States,https.txt
 51.159.220.79,1015,France,https.txt
+64.62.219.84,38791,United States,https.txt
 51.159.225.129,8118,France,https.txt
-64.62.219.84,43753,United States,https.txt
-65.49.68.84,41887,United States,https.txt
+65.49.2.84,10672,United States,https.txt
 51.159.225.150,443,France,https.txt
-47.243.181.85,41795,Brazil,https.txt
-65.49.2.84,20867,United States,https.txt
-64.62.219.84,48298,United States,https.txt
-65.49.14.154,18955,United States,https.txt
+64.62.219.84,41301,United States,https.txt
 51.158.204.180,483,France,https.txt
 51.159.225.129,483,France,https.txt
 51.159.225.150,483,France,https.txt
@@ -2430,15 +2014,13 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.225.129,1287,France,https.txt
 51.159.225.150,1287,France,https.txt
 51.158.204.180,1287,France,https.txt
-65.49.14.154,60011,United States,https.txt
-65.49.14.154,39533,United States,https.txt
+205.178.186.174,8447,United States,https.txt
 51.158.204.180,726,France,https.txt
 49.12.189.119,8080,Germany,https.txt
-65.49.68.84,35770,United States,https.txt
-65.49.2.84,54884,United States,https.txt
+65.49.14.154,17369,United States,https.txt
+205.178.137.27,8443,United States,https.txt
 51.159.225.130,443,France,https.txt
-65.49.2.84,34926,United States,https.txt
-65.49.2.84,40363,United States,https.txt
+65.49.68.84,38537,United States,https.txt
 51.159.225.130,921,France,https.txt
 51.159.225.150,905,France,https.txt
 51.158.204.180,921,France,https.txt
@@ -2447,13 +2029,10 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.225.150,921,France,https.txt
 51.159.225.125,921,France,https.txt
 51.159.225.130,461,France,https.txt
-65.49.68.84,10025,United States,https.txt
-65.49.14.154,40001,United States,https.txt
 51.158.200.157,436,France,https.txt
 51.159.225.129,436,France,https.txt
 51.158.204.180,436,France,https.txt
 51.159.225.130,436,France,https.txt
-65.49.14.154,61461,United States,https.txt
 51.159.225.150,436,France,https.txt
 51.159.225.125,436,France,https.txt
 5.196.111.145,443,France,https.txt
@@ -2467,24 +2046,20 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.225.130,471,France,https.txt
 51.159.225.150,471,France,https.txt
 51.159.225.129,471,France,https.txt
-65.49.14.154,39402,United States,https.txt
 51.158.204.46,443,France,https.txt
 51.158.204.46,1007,France,https.txt
 192.95.39.76,443,United States,https.txt
 64.23.234.144,8888,United States,https.txt
-65.49.68.84,42257,United States,https.txt
+64.62.219.84,47434,United States,https.txt
 51.159.220.79,443,France,https.txt
-65.49.68.84,12167,United States,https.txt
 51.159.225.150,726,France,https.txt
 51.159.220.79,726,France,https.txt
 51.159.225.130,726,France,https.txt
 51.158.204.46,726,France,https.txt
 51.159.225.125,726,France,https.txt
-65.49.14.154,62225,United States,https.txt
-47.243.181.85,41290,Taiwan,https.txt
-104.129.194.44,11725,United States,https.txt
+205.178.144.209,8443,United States,https.txt
 51.158.202.56,471,France,https.txt
-47.243.181.85,41413,Japan,https.txt
+205.178.144.150,8447,United States,https.txt
 51.159.220.79,461,France,https.txt
 51.158.206.83,911,France,https.txt
 51.158.202.56,911,France,https.txt
@@ -2498,7 +2073,6 @@ dest_ip,dest_port,dest_country,metadata_file
 51.158.204.46,425,France,https.txt
 51.159.220.79,921,France,https.txt
 51.158.206.33,425,France,https.txt
-64.62.219.84,40110,United States,https.txt
 51.158.202.102,911,France,https.txt
 51.158.202.216,911,France,https.txt
 51.158.206.33,911,France,https.txt
@@ -2514,7 +2088,6 @@ dest_ip,dest_port,dest_country,metadata_file
 51.158.253.142,911,France,https.txt
 51.159.225.195,443,France,https.txt
 51.159.225.197,443,France,https.txt
-36.92.193.189,443,Indonesia,https.txt
 51.158.204.46,1083,France,https.txt
 51.159.220.79,1007,France,https.txt
 51.158.253.15,911,France,https.txt
@@ -2526,9 +2099,7 @@ dest_ip,dest_port,dest_country,metadata_file
 51.158.252.26,911,France,https.txt
 51.158.252.3,911,France,https.txt
 51.159.225.150,425,France,https.txt
-47.243.181.85,42327,United Kingdom,https.txt
 51.158.206.93,1007,France,https.txt
-205.178.137.169,8447,United States,https.txt
 51.158.206.93,483,France,https.txt
 51.159.225.129,838,France,https.txt
 51.158.204.46,471,France,https.txt
@@ -2737,7 +2308,6 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.220.79,436,France,https.txt
 51.159.226.153,443,France,https.txt
 51.159.226.154,443,France,https.txt
-47.243.181.85,41406,Japan,https.txt
 51.159.226.151,443,France,https.txt
 51.159.226.150,443,France,https.txt
 51.159.226.155,443,France,https.txt
@@ -2793,7 +2363,6 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.225.189,1287,France,https.txt
 51.159.226.162,1287,France,https.txt
 51.159.225.172,1287,France,https.txt
-205.178.144.247,8443,United States,https.txt
 207.244.71.82,1287,United States,https.txt
 51.159.226.153,1287,France,https.txt
 51.159.225.193,443,France,https.txt
@@ -2806,7 +2375,6 @@ dest_ip,dest_port,dest_country,metadata_file
 23.106.56.36,483,United Kingdom,https.txt
 23.106.56.37,483,United Kingdom,https.txt
 23.106.56.38,483,United Kingdom,https.txt
-205.178.136.199,8447,United States,https.txt
 51.159.226.124,483,France,https.txt
 51.159.226.125,483,France,https.txt
 51.159.226.126,483,France,https.txt
@@ -2863,6 +2431,8 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.226.153,955,France,https.txt
 23.106.56.51,955,United Kingdom,https.txt
 51.159.226.153,423,France,https.txt
+65.49.2.84,56743,United States,https.txt
+65.49.68.84,56886,United States,https.txt
 23.106.56.51,461,United Kingdom,https.txt
 51.159.226.153,905,France,https.txt
 51.159.226.161,905,France,https.txt
@@ -2898,8 +2468,6 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.226.150,905,France,https.txt
 51.159.225.191,905,France,https.txt
 51.159.226.158,905,France,https.txt
-65.49.68.84,35345,United States,https.txt
-64.62.219.84,27685,United States,https.txt
 51.158.252.3,1287,France,https.txt
 51.158.252.26,1287,France,https.txt
 51.158.252.45,1287,France,https.txt
@@ -2919,10 +2487,8 @@ dest_ip,dest_port,dest_country,metadata_file
 51.158.252.149,461,France,https.txt
 51.158.253.15,461,France,https.txt
 51.158.253.142,461,France,https.txt
-65.49.14.154,10392,United States,https.txt
-65.49.2.84,33410,United States,https.txt
 23.106.56.51,425,United Kingdom,https.txt
-65.49.2.84,50680,United States,https.txt
+65.49.2.84,19642,United States,https.txt
 51.159.226.148,921,France,https.txt
 51.159.225.199,921,France,https.txt
 51.159.225.192,921,France,https.txt
@@ -2962,10 +2528,7 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.226.153,428,France,https.txt
 207.244.71.82,1007,United States,https.txt
 23.106.56.51,471,United Kingdom,https.txt
-65.49.2.84,42629,United States,https.txt
 51.159.226.153,901,France,https.txt
-195.12.54.28,443,Romania,https.txt
-205.178.186.66,8447,United States,https.txt
 207.244.71.79,1007,United States,https.txt
 207.244.71.80,1007,United States,https.txt
 207.244.71.81,1007,United States,https.txt
@@ -2975,7 +2538,8 @@ dest_ip,dest_port,dest_country,metadata_file
 51.158.202.56,1287,France,https.txt
 23.106.56.51,838,United Kingdom,https.txt
 207.244.71.82,1022,United States,https.txt
-65.49.14.154,43399,United States,https.txt
+65.49.68.84,39550,United States,https.txt
+65.49.14.154,40779,United States,https.txt
 51.159.226.153,1083,France,https.txt
 51.158.202.102,1287,France,https.txt
 51.158.202.217,1287,France,https.txt
@@ -3082,6 +2646,7 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.226.151,471,France,https.txt
 51.159.225.189,471,France,https.txt
 51.159.226.150,471,France,https.txt
+65.49.68.84,57439,United States,https.txt
 51.159.225.196,471,France,https.txt
 51.159.226.149,471,France,https.txt
 51.159.226.159,471,France,https.txt
@@ -3113,7 +2678,6 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.226.149,726,France,https.txt
 51.159.225.197,726,France,https.txt
 51.159.225.188,726,France,https.txt
-65.49.68.84,54124,United States,https.txt
 207.244.71.81,726,United States,https.txt
 51.159.226.157,726,France,https.txt
 51.159.225.191,726,France,https.txt
@@ -3125,7 +2689,6 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.225.193,726,France,https.txt
 51.159.225.192,726,France,https.txt
 51.159.225.198,726,France,https.txt
-65.49.68.84,44879,United States,https.txt
 51.159.226.159,726,France,https.txt
 51.159.226.151,726,France,https.txt
 51.159.225.196,726,France,https.txt
@@ -3170,176 +2733,118 @@ dest_ip,dest_port,dest_country,metadata_file
 51.159.225.189,431,France,https.txt
 51.159.226.156,431,France,https.txt
 51.159.226.127,431,France,https.txt
-184.181.217.213,4145,United States,socks5.txt
-184.181.217.220,4145,United States,socks5.txt
-192.111.137.34,18765,Canada,socks5.txt
-192.111.135.17,18302,United States,socks5.txt
-192.252.211.197,14921,United States,socks5.txt
+192.111.137.37,18762,Canada,socks5.txt
 192.111.129.145,16894,Canada,socks5.txt
-184.178.172.25,15291,United States,socks5.txt
+72.195.34.35,27360,United States,socks5.txt
+174.77.111.198,49547,United States,socks5.txt
+98.178.72.21,10919,United States,socks5.txt
 184.178.172.18,15280,United States,socks5.txt
+70.166.167.55,57745,United States,socks5.txt
 70.166.167.38,57728,United States,socks5.txt
 184.178.172.13,15311,United States,socks5.txt
-184.95.235.194,1080,Canada,socks5.txt
-103.55.22.247,8199,Indonesia,socks5.txt
-82.223.165.28,18356,Spain,socks5.txt
-162.241.204.101,60526,United States,socks5.txt
+172.104.209.44,1080,United States,socks5.txt
 103.245.96.124,6969,Bangladesh,socks5.txt
-212.47.229.46,16379,Sweden,socks5.txt
-51.210.111.216,62160,France,socks5.txt
-46.105.105.223,43470,France,socks5.txt
-212.237.125.216,6969,Iraq,socks5.txt
-51.15.139.14,16379,Sweden,socks5.txt
+103.163.244.106,1080,India,socks5.txt
 98.152.200.61,8081,United States,socks5.txt
-103.54.217.81,8199,Indonesia,socks5.txt
-121.1.146.139,9001,Japan,socks5.txt
-185.35.130.23,59790,Russia,socks5.txt
+46.105.105.223,5589,France,socks5.txt
+149.78.186.176,32566,Brazil,socks5.txt
+46.105.105.223,35749,France,socks5.txt
+109.123.254.43,37290,Germany,socks5.txt
+159.89.164.144,43740,India,socks5.txt
+172.105.193.238,1080,Japan,socks5.txt
 209.141.45.119,56666,United States,socks5.txt
-223.25.109.146,1080,Indonesia,socks5.txt
-51.75.126.150,6053,France,socks5.txt
-54.36.176.100,10231,France,socks5.txt
-103.189.218.85,6969,Bangladesh,socks5.txt
-103.189.218.76,6969,Bangladesh,socks5.txt
-118.70.151.55,1080,Vietnam,socks5.txt
-194.183.189.253,49847,Ukraine,socks5.txt
+188.165.227.67,37484,France,socks5.txt
+51.158.113.139,16379,Seychelles,socks5.txt
+172.233.254.134,1080,France,socks5.txt
 84.17.27.253,9105,Russia,socks5.txt
 103.127.223.126,1080,Bangladesh,socks5.txt
-163.172.153.82,16379,United States,socks5.txt
-46.105.105.223,63425,France,socks5.txt
-172.105.58.227,1080,India,socks5.txt
 51.250.108.153,1080,Russia,socks5.txt
-81.177.224.173,1337,Russia,socks5.txt
-51.75.126.150,9532,France,socks5.txt
-51.75.126.150,12202,France,socks5.txt
-192.95.33.162,33513,Canada,socks5.txt
 45.140.143.77,18080,The Netherlands,socks5.txt
-192.95.33.162,36308,Canada,socks5.txt
-149.86.137.246,10820,T�rkiye,socks5.txt
-74.122.101.11,25340,T�rkiye,socks5.txt
-23.81.207.113,5256,Hong Kong,socks5.txt
-185.23.81.5,1080,Russia,socks5.txt
-85.175.219.236,1080,Russia,socks5.txt
-103.189.218.158,1080,Bangladesh,socks5.txt
-42.3.183.215,1080,Hong Kong,socks5.txt
-103.160.205.238,8199,Indonesia,socks5.txt
-69.64.85.167,39054,United States,socks5.txt
-46.175.253.125,1080,Ukraine,socks5.txt
+194.195.122.51,1080,Australia,socks5.txt
+46.146.196.217,1080,Russia,socks5.txt
+212.124.22.245,1080,Russia,socks5.txt
+194.28.162.12,1080,Russia,socks5.txt
 217.173.31.28,1080,Russia,socks5.txt
-93.182.26.66,1080,Russia,socks5.txt
-163.47.37.190,1080,Bangladesh,socks5.txt
 85.143.254.38,1080,Russia,socks5.txt
 103.169.254.155,1080,Indonesia,socks5.txt
-118.70.67.54,1080,Vietnam,socks5.txt
-45.142.193.18,4063,United States,socks5.txt
-45.142.193.15,4642,India,socks5.txt
-123.136.24.161,1080,Bangladesh,socks5.txt
-45.142.193.20,4014,Germany,socks5.txt
-45.142.193.20,4190,Germany,socks5.txt
-45.142.193.26,46058,Germany,socks5.txt
-113.62.166.89,8888,China,socks5.txt
-185.93.89.156,4212,United States,socks5.txt
+188.166.177.173,61950,Romania,socks5.txt
+103.16.62.138,10888,Cambodia,socks5.txt
+69.64.85.167,10031,United States,socks5.txt
+45.142.193.18,4012,Germany,socks5.txt
+91.225.123.23,65180,Ukraine,socks5.txt
+64.227.131.240,1080,India,socks5.txt
+178.46.153.228,1080,Russia,socks5.txt
 64.202.184.249,60221,United States,socks5.txt
 64.202.184.249,7652,United States,socks5.txt
 64.202.184.249,50615,United States,socks5.txt
-185.93.89.157,4049,France,socks5.txt
-45.142.193.18,4071,Vietnam,socks5.txt
-185.93.89.149,7993,Burkina Faso,socks5.txt
-103.151.74.109,6969,Bangladesh,socks5.txt
-185.93.89.156,4522,Vietnam,socks5.txt
-47.243.28.251,5555,Hong Kong,socks5.txt
+46.146.220.180,1080,Russia,socks5.txt
+178.140.42.182,1080,Russia,socks5.txt
+45.142.193.15,4319,France,socks5.txt
+185.93.89.177,6567,Finland,socks5.txt
 64.202.184.249,31239,United States,socks5.txt
-45.142.193.27,4086,South Korea,socks5.txt
-185.93.89.150,4834,France,socks5.txt
-45.142.193.27,4236,France,socks5.txt
-185.93.89.143,4653,United States,socks5.txt
+185.93.89.145,18158,Russia,socks5.txt
+185.93.89.150,4172,France,socks5.txt
 45.12.132.30,51991,Cyprus,socks5.txt
-2.59.163.219,1080,Russia,socks5.txt
-185.93.89.146,7602,France,socks5.txt
-185.93.89.169,13288,France,socks5.txt
 45.12.132.28,51991,Cyprus,socks5.txt
-185.93.89.145,4225,Singapore,socks5.txt
+185.93.89.144,4009,India,socks5.txt
+185.93.89.146,8099,Australia,socks5.txt
 45.12.132.25,51991,Cyprus,socks5.txt
-185.93.89.158,7185,United States,socks5.txt
-185.93.89.151,11864,Italy,socks5.txt
-185.93.89.146,12680,United States,socks5.txt
-185.93.89.172,4117,Singapore,socks5.txt
-185.93.89.152,6735,The Netherlands,socks5.txt
-185.93.89.159,4360,France,socks5.txt
-185.93.89.179,11864,Germany,socks5.txt
-185.93.89.155,4004,United States,socks5.txt
-185.93.89.158,4504,Singapore,socks5.txt
+185.93.89.144,4120,United Kingdom,socks5.txt
+152.53.36.109,34850,Morocco,socks5.txt
+152.53.36.109,38219,United States,socks5.txt
+152.53.36.109,41588,United States,socks5.txt
+77.41.167.137,1080,Russia,socks5.txt
+185.93.89.146,4008,United States,socks5.txt
+152.53.36.109,50001,Rwanda,socks5.txt
+152.53.36.109,38027,United States,socks5.txt
+176.226.244.28,1080,Russia,socks5.txt
 45.12.132.188,51991,Cyprus,socks5.txt
 45.12.132.212,51991,Cyprus,socks5.txt
 45.12.132.215,51991,Cyprus,socks5.txt
-185.93.89.158,4004,United States,socks5.txt
 62.171.171.209,40831,Germany,socks5.txt
-185.93.89.146,4103,Hungary,socks5.txt
-185.93.89.155,4103,France,socks5.txt
-185.93.89.156,4979,India,socks5.txt
-81.28.169.246,1080,Russia,socks5.txt
-185.93.89.156,4012,Canada,socks5.txt
-185.93.89.155,4598,Singapore,socks5.txt
-185.93.89.174,4006,Australia,socks5.txt
+185.93.89.144,4020,Germany,socks5.txt
 185.93.89.191,10303,The Netherlands,socks5.txt
-109.196.201.224,1080,Russia,socks5.txt
-45.132.244.113,1080,Germany,socks5.txt
-185.93.89.169,6806,United States,socks5.txt
-185.93.89.175,4412,Germany,socks5.txt
-167.71.171.141,1080,United States,socks5.txt
-185.93.89.191,10654,Canada,socks5.txt
-185.93.89.178,10392,United Kingdom,socks5.txt
-185.93.89.149,4867,United States,socks5.txt
-185.93.89.149,4038,United States,socks5.txt
-185.93.89.158,5060,France,socks5.txt
-62.171.176.129,27290,Slovakia,socks5.txt
-185.93.89.190,11723,China,socks5.txt
-185.93.89.183,4006,France,socks5.txt
-45.142.193.18,4009,Russia,socks5.txt
-185.93.89.175,5678,Germany,socks5.txt
-185.93.89.168,9074,France,socks5.txt
-185.93.89.183,10966,United Kingdom,socks5.txt
-165.227.150.53,1080,Germany,socks5.txt
-62.171.176.129,31433,Ukraine,socks5.txt
-185.93.89.157,17328,Argentina,socks5.txt
-185.93.89.151,13791,Germany,socks5.txt
-185.93.89.187,8948,The Netherlands,socks5.txt
-62.171.176.129,12130,United States,socks5.txt
-185.93.89.190,10692,The Netherlands,socks5.txt
-62.171.176.129,48624,United States,socks5.txt
-185.93.89.179,4049,Czechia,socks5.txt
-185.93.89.191,8099,Canada,socks5.txt
-185.93.89.158,11273,United Kingdom,socks5.txt
-185.93.89.144,11701,United States,socks5.txt
+185.93.89.143,8082,France,socks5.txt
+152.53.36.109,38753,Estonia,socks5.txt
+185.93.89.162,9929,United States,socks5.txt
+185.93.89.143,4145,France,socks5.txt
+178.44.118.116,1080,Russia,socks5.txt
+64.226.85.75,1080,Germany,socks5.txt
+185.93.89.190,4153,South Africa,socks5.txt
+185.93.89.189,11626,Finland,socks5.txt
+185.93.89.183,15683,Germany,socks5.txt
+185.93.89.183,16396,Germany,socks5.txt
+185.93.89.183,15935,Belgium,socks5.txt
+185.93.89.146,4857,Germany,socks5.txt
+185.93.89.189,12452,United States,socks5.txt
+185.93.89.158,4071,Germany,socks5.txt
+43.134.59.57,20000,Singapore,socks5.txt
+185.93.89.191,9001,France,socks5.txt
 43.157.129.43,2000,Brazil,socks5.txt
+185.93.89.157,4165,United Kingdom,socks5.txt
 185.93.89.187,15051,Canada,socks5.txt
-185.93.89.183,9773,Vietnam,socks5.txt
 185.93.89.169,4029,Germany,socks5.txt
 159.138.157.44,8080,Hong Kong,socks5.txt
 185.93.89.189,14454,Japan,socks5.txt
 185.93.89.187,18080,India,socks5.txt
-185.93.89.144,10851,United States,socks5.txt
-185.93.89.190,10195,United States,socks5.txt
-185.93.89.175,4376,United States,socks5.txt
-185.93.89.190,10748,United States,socks5.txt
-185.93.89.179,9080,India,socks5.txt
-185.93.89.145,4036,Vietnam,socks5.txt
-185.93.89.187,10187,United States,socks5.txt
-185.93.89.189,10321,Canada,socks5.txt
-185.93.89.164,4456,United States,socks5.txt
-185.93.89.189,8095,France,socks5.txt
+185.93.89.179,10187,United Kingdom,socks5.txt
+185.93.89.157,8192,United States,socks5.txt
+185.93.89.178,6080,India,socks5.txt
+185.93.89.175,9002,France,socks5.txt
+185.93.89.189,12345,United States,socks5.txt
 78.85.181.194,1080,Russia,socks5.txt
-185.93.89.145,24688,United Kingdom,socks5.txt
-185.93.89.152,12456,Germany,socks5.txt
+162.243.172.98,1080,United States,socks5.txt
+185.93.89.176,16742,Italy,socks5.txt
+185.93.89.191,4376,India,socks5.txt
+185.93.89.190,4689,United States,socks5.txt
 185.93.89.149,12892,France,socks5.txt
-185.93.89.170,4012,Vietnam,socks5.txt
-185.93.89.166,4092,France,socks5.txt
-185.93.89.178,8080,The Netherlands,socks5.txt
-185.93.89.147,6598,Germany,socks5.txt
-185.93.89.175,14785,Italy,socks5.txt
-185.93.89.181,5773,The Netherlands,socks5.txt
-62.171.176.129,50966,United States,socks5.txt
-185.93.89.170,8181,Finland,socks5.txt
-185.93.89.157,4088,Brazil,socks5.txt
+185.93.89.147,4012,Germany,socks5.txt
+185.93.89.187,4184,United States,socks5.txt
+121.232.73.253,18080,China,socks5.txt
 185.93.89.162,6996,Ukraine,socks5.txt
 185.93.89.189,13137,Japan,socks5.txt
-62.171.176.129,20043,Denmark,socks5.txt
+88.214.25.246,7535,Germany,socks5.txt
+185.93.89.147,8797,Singapore,socks5.txt
+185.93.89.190,10001,Germany,socks5.txt
+152.53.36.109,10001,Moldova,socks5.txt
+45.142.193.20,5227,Vietnam,socks5.txt
