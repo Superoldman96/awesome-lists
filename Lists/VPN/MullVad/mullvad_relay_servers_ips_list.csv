@@ -127,8 +127,6 @@ dest_ip,dest_nt_domain,dest_port
 146.70.184.194,fr-par-ovpn-102.relays.mullvad.net,80
 141.98.252.131,gb-lon-ovpn-001.relays.mullvad.net,443
 141.98.252.131,gb-lon-ovpn-001.relays.mullvad.net,80
-141.98.252.132,gb-lon-ovpn-002.relays.mullvad.net,443
-141.98.252.132,gb-lon-ovpn-002.relays.mullvad.net,80
 141.98.252.133,gb-lon-ovpn-003.relays.mullvad.net,443
 141.98.252.133,gb-lon-ovpn-003.relays.mullvad.net,80
 185.195.232.85,gb-lon-ovpn-005.relays.mullvad.net,443
