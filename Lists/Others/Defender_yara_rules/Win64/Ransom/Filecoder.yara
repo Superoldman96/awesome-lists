@@ -592,6 +592,33 @@ rule Ransom_Win64_Filecoder_NITD_2147931302_1
         severity = "Critical"
         info = "MTB: Microsoft Threat Behavior"
         signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "12"
+        strings_accuracy = "High"
+    strings:
+        $x_2_1 = "WannaDecryption.pdb" ascii //weight: 2
+        $x_2_2 = "encrypted file" ascii //weight: 2
+        $x_2_3 = "Your files are encrypted" ascii //weight: 2
+        $x_2_4 = "Decryption completed!" ascii //weight: 2
+        $x_2_5 = "Decrypting files" ascii //weight: 2
+        $x_1_6 = "To decrypt your files" ascii //weight: 1
+        $x_1_7 = "drop of the panic payload panicked" ascii //weight: 1
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
+rule Ransom_Win64_Filecoder_NITD_2147931302_2
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Ransom:Win64/Filecoder.NITD!MTB"
+        threat_id = "2147931302"
+        type = "Ransom"
+        platform = "Win64: Windows 64-bit platform"
+        family = "Filecoder"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
         threshold = "16"
         strings_accuracy = "High"
     strings:
@@ -1057,6 +1084,31 @@ rule Ransom_Win64_Filecoder_YBF_2147947084_0
         $x_1_2 = {80 30 3f 48 8d 40 01 ff c1 81 f9 2c 3c 00 00 72}  //weight: 1, accuracy: High
         $x_1_3 = "Global\\lockv7" wide //weight: 1
         $x_1_4 = "locked.html" wide //weight: 1
+    condition:
+        (filesize < 20MB) and
+        (all of ($x*))
+}
+
+rule Ransom_Win64_Filecoder_C_2147947184_0
+{
+    meta:
+        author = "defender2yara"
+        detection_name = "Ransom:Win64/Filecoder.C!MTB"
+        threat_id = "2147947184"
+        type = "Ransom"
+        platform = "Win64: Windows 64-bit platform"
+        family = "Filecoder"
+        severity = "Critical"
+        info = "MTB: Microsoft Threat Behavior"
+        signature_type = "SIGNATURE_TYPE_PEHSTR_EXT"
+        threshold = "13"
+        strings_accuracy = "High"
+    strings:
+        $x_3_1 = "main.deleteVSS" ascii //weight: 3
+        $x_3_2 = "main.encryptFile" ascii //weight: 3
+        $x_3_3 = "main.scanAndEncrypt" ascii //weight: 3
+        $x_2_4 = "main.shouldEncrypt" ascii //weight: 2
+        $x_2_5 = "main.shouldExclude" ascii //weight: 2
     condition:
         (filesize < 20MB) and
         (all of ($x*))
