@@ -40,7 +40,6 @@ src_ip,service,scope,metadata_reference
 8.236.144.0/20,Google Cloud,europe-west4,https://www.gstatic.com/ipranges/cloud.json
 8.236.192.0/18,Google Cloud,us-south1,https://www.gstatic.com/ipranges/cloud.json
 8.237.0.0/18,Google Cloud,asia-northeast1,https://www.gstatic.com/ipranges/cloud.json
-8.237.64.0/18,Google Cloud,us-south1,https://www.gstatic.com/ipranges/cloud.json
 23.236.48.0/20,Google Cloud,us-central1,https://www.gstatic.com/ipranges/cloud.json
 23.251.128.0/20,Google Cloud,europe-west1,https://www.gstatic.com/ipranges/cloud.json
 23.251.144.0/20,Google Cloud,us-central1,https://www.gstatic.com/ipranges/cloud.json
