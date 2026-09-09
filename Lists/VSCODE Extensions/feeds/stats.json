@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-09-09T14:27:01+00:00",
-  "total_records": 2183,
-  "total_malicious": 2111,
+  "generated_utc": "2026-09-09T15:26:02+00:00",
+  "total_records": 2199,
+  "total_malicious": 2127,
   "total_risky": 72,
   "severity_counts": {
-    "critical": 652,
-    "high": 1072,
+    "critical": 667,
+    "high": 1074,
     "low": 22,
-    "medium": 437
+    "medium": 436
   },
   "category_counts": {
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 1053,
+    "impersonation": 1055,
     "impersonation-malware": 5,
-    "malware": 652,
+    "malware": 667,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
@@ -34,22 +34,22 @@
     "spam": 105,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 257
+    "untrustworthy": 256
   },
   "malicious_category_counts": {
     "copyright-violation": 15,
     "deprecated": 2,
     "expired-domain": 1,
-    "impersonation": 1053,
+    "impersonation": 1055,
     "impersonation-malware": 5,
-    "malware": 652,
+    "malware": 667,
     "owner-request": 8,
     "potentially-malicious": 4,
     "publisher-requested": 3,
     "spam": 105,
     "spam-malware": 5,
     "typo-squatting": 1,
-    "untrustworthy": 257
+    "untrustworthy": 256
   },
   "risky_category_counts": {
     "risky-ai-code-access": 9,
@@ -65,7 +65,7 @@
     "risky-remote-access": 15,
     "risky-tunnel": 5
   },
-  "total_publishers": 1666,
+  "total_publishers": 1673,
   "top_publishers": [
     [
       "pit00",
@@ -140,6 +140,10 @@
       6
     ],
     [
+      "LaunchAppsLLC",
+      6
+    ],
+    [
       "SadiqShuaibu",
       6
     ],
@@ -156,15 +160,11 @@
       6
     ],
     [
+      "AppLaunchLLC",
+      5
+    ],
+    [
       "cobot100",
-      5
-    ],
-    [
-      "JackHerry",
-      5
-    ],
-    [
-      "Malkolm",
       5
     ]
   ]
